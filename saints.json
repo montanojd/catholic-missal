@@ -1,0 +1,2157 @@
+{
+  "meta": {
+    "version": "1.0",
+    "total_saints": 150,
+    "language": "english",
+    "content_type": "catholic_saints",
+    "last_update": "2025-08-27T10:00:00.000Z"
+  },
+  "saints": {
+    "saint_001": {
+      "id": "saint_001",
+      "name": "Saint Joseph",
+      "feast_day": "March 19",
+      "patronage": [
+        "Workers",
+        "Fathers",
+        "Carpenters",
+        "Universal Church"
+      ],
+      "short_bio": "Foster father of Jesus and spouse of the Blessed Virgin Mary (Premium feature)",
+      "full_bio": "Saint Joseph was the earthly father of Jesus Christ and the spouse of the Blessed Virgin Mary. A carpenter by trade, he was chosen by God to care for and protect the Holy Family. Known for his righteousness, humility, and obedience to God's will, Joseph is venerated as the patron saint of workers, fathers, and the Universal Church. His feast day is celebrated on March 19th, and he is also honored on May 1st as Saint Joseph the Worker. Joseph's silent strength and faithful service make him a model for all Christians, especially fathers and workers.",
+      "prayer": "Saint Joseph, guardian of Jesus and chaste spouse of Mary, you passed your life in perfect fulfillment of duty. You supported the holy family of Nazareth with the work of your hands. Kindly protect those who trustingly turn to you. You know their aspirations, their hardships, their hopes; and they turn to you because they know you will understand and protect them. You too have known trial, labor and weariness. But, even amid the worries of material life, your soul remained full of the deepest peace and sang out in true joy because of your intimate closeness with the Son of God entrusted to your care, and with Mary, his tender Mother. Amen.",
+      "premium_content": true
+    },
+    "saint_002": {
+      "id": "saint_002",
+      "name": "Saint Mary, Mother of God",
+      "feast_day": "January 1",
+      "patronage": [
+        "Mothers",
+        "Virgins",
+        "All Christians",
+        "Universal Church"
+      ],
+      "short_bio": "The Blessed Virgin Mary, Mother of Jesus Christ (Premium feature)",
+      "full_bio": "The Blessed Virgin Mary is the mother of Jesus Christ, our Lord and Savior. Chosen by God to bear His Son, Mary said 'yes' to God's plan with perfect faith and obedience. She is venerated as the Mother of God, Queen of Heaven, and our spiritual mother. Mary's life was marked by profound faith, courage, and love. From the Annunciation to standing at the foot of the Cross, she remained faithful to God's will. Catholics honor her with many feast days throughout the year, with January 1st celebrating her divine motherhood.",
+      "prayer": "Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.",
+      "premium_content": true
+    },
+    "saint_003": {
+      "id": "saint_003",
+      "name": "Saint Francis of Assisi",
+      "feast_day": "October 4",
+      "patronage": [
+        "Animals",
+        "Environment",
+        "Italy",
+        "Peace"
+      ],
+      "short_bio": "Founder of the Franciscan order, lover of nature and peace (Premium feature)",
+      "full_bio": "Saint Francis of Assisi (1181-1226) was an Italian Catholic friar and mystic who founded the Franciscan order. Born into a wealthy merchant family, Francis experienced a profound conversion that led him to embrace poverty and dedicate his life to serving God and the poor. He is known for his deep love of nature, his commitment to peace, and his devotion to the Cross of Christ. Francis received the stigmata, the wounds of Christ, making him the first recorded person to bear these marks. He is the patron saint of animals, the environment, and Italy.",
+      "prayer": "Most High, glorious God, enlighten the darkness of my heart and give me true faith, certain hope, and perfect charity, sense and knowledge, Lord, that I may carry out Your holy and true command. Amen.",
+      "premium_content": true
+    },
+    "saint_004": {
+      "id": "saint_004",
+      "name": "Saint Anthony of Padua",
+      "feast_day": "June 13",
+      "patronage": [
+        "Lost items",
+        "Poor people",
+        "Travelers",
+        "Portugal"
+      ],
+      "short_bio": "Franciscan friar known for miracles and finding lost things (Premium feature)",
+      "full_bio": "Saint Anthony of Padua (1195-1231) was a Portuguese Catholic priest and friar of the Franciscan Order. Known for his powerful preaching, extensive knowledge of scripture, and undying love and devotion to the poor and the sick, he was one of the most quickly canonized saints in church history. Saint Anthony is especially invoked and venerated all over the world as the patron saint for the recovery of lost items and is credited with many miracles involving lost people, lost things and even lost spiritual goods.",
+      "prayer": "O Holy St. Anthony, gentlest of Saints, your love for God and Charity for His creatures, made you worthy, when on earth, to possess miraculous powers. Encouraged by this thought, I implore you to obtain for me... (request). O gentle and loving St. Anthony, whose heart was ever full of human sympathy, whisper my petition into the ears of the sweet Infant Jesus, who loved to be folded in your arms; and the gratitude of my heart will ever be yours. Amen.",
+      "premium_content": true
+    },
+    "saint_005": {
+      "id": "saint_005",
+      "name": "Saint Thérèse of Lisieux",
+      "feast_day": "October 1",
+      "patronage": [
+        "Missions",
+        "Aviators",
+        "AIDS sufferers",
+        "Florists"
+      ],
+      "short_bio": "The Little Flower, Doctor of the Church known for 'little way' (Premium feature)",
+      "full_bio": "Saint Thérèse of Lisieux (1873-1897), also known as the 'Little Flower,' was a French Carmelite nun who became one of the most popular saints of modern times. Despite dying at the young age of 24, her autobiography 'Story of a Soul' has touched millions of lives. She developed what she called the 'little way' - a spirituality of trust and surrender to God's mercy that emphasized doing small things with great love. She was declared a Doctor of the Church in 1997.",
+      "prayer": "O Little Thérèse of the Child Jesus, please pick for me a rose from the heavenly garden and send it to me as a message of love. O Little Flower of Jesus, ask God today to grant the favors I now place with confidence in your hands... (mention specific request). St. Thérèse, help me to always believe as you did, in God's great love for me, so that I might imitate your 'Little Way' each day. Amen.",
+      "premium_content": true
+    },
+    "saint_006": {
+      "id": "saint_006",
+      "name": "Saint Peter the Apostle",
+      "feast_day": "June 29",
+      "patronage": [
+        "Popes",
+        "Fishermen",
+        "Net makers",
+        "Keys"
+      ],
+      "short_bio": "First Pope, leader of the Apostles, keeper of the keys (Premium feature)",
+      "full_bio": "Saint Peter was one of the Twelve Apostles of Jesus Christ and the first Pope of the Catholic Church. Originally a fisherman named Simon, Jesus gave him the name Peter (meaning 'rock') and declared him the foundation upon which the Church would be built. Despite his human weaknesses, including denying Christ three times during the Passion, Peter became a bold leader of the early Church after Pentecost. He was martyred in Rome around 64 AD, crucified upside down at his own request, feeling unworthy to die in the same manner as Christ.",
+      "prayer": "O glorious Saint Peter, who in response to your faith in Jesus as the Christ, the Son of the living God, were declared by Him to be the Rock upon which He would build His Church, obtain for us, we pray, a lively faith in our Divine Lord that will withstand all temptation and enable us to proclaim courageously our belief in the teachings of our holy Catholic Church. Amen.",
+      "premium_content": true
+    },
+    "saint_007": {
+      "id": "saint_007",
+      "name": "Saint Paul the Apostle",
+      "feast_day": "June 29",
+      "patronage": [
+        "Missionaries",
+        "Writers",
+        "Theologians",
+        "Gentile Christians"
+      ],
+      "short_bio": "Apostle to the Gentiles, author of many New Testament letters (Premium feature)",
+      "full_bio": "Saint Paul, originally named Saul of Tarsus, was a Jewish Pharisee who initially persecuted Christians before his dramatic conversion on the road to Damascus. After encountering the risen Christ, he became one of the most influential apostles, dedicating his life to spreading the Gospel to the Gentiles. He established numerous Christian communities throughout the Roman Empire and wrote many letters that form a significant portion of the New Testament. Paul was martyred in Rome around 64-67 AD.",
+      "prayer": "Saint Paul, you went from being a persecutor of Christians to being persecuted for Christ. Help me to be open to the Lord's call in my life and to allow Him to change my heart. Through your prayers, may I have the courage to share the Good News with others and the strength to endure any suffering that comes my way. Amen.",
+      "premium_content": true
+    },
+    "saint_008": {
+      "id": "saint_008",
+      "name": "Saint Teresa of Avila",
+      "feast_day": "October 15",
+      "patronage": [
+        "Spain",
+        "Lace makers",
+        "People ridiculed for piety"
+      ],
+      "short_bio": "Carmelite mystic, Doctor of the Church, reformer (Premium feature)",
+      "full_bio": "Saint Teresa of Avila (1515-1582) was a Spanish Carmelite nun, mystic, and writer. She was a major figure of the Catholic Reformation and a founder of the Discalced Carmelites. Her deep mystical experiences and prolific writings on prayer and the spiritual life earned her recognition as a Doctor of the Church. She reformed the Carmelite order, establishing numerous convents throughout Spain. Her works, including 'The Interior Castle,' remain influential guides for spiritual development.",
+      "prayer": "O Glorious Saint Teresa, seraphic virgin, beloved spouse of thy crucified Lord, thou who on earth didst burn with a love so intense toward thy God and my God, and now dost glow with a brighter and purer flame in Paradise: obtain for me, I beseech thee, a spark of that same holy fire which will enable me to overcome the temptations of the world, the flesh and the devil, and to run forward in the path of perfection. Amen.",
+      "premium_content": true
+    },
+    "saint_009": {
+      "id": "saint_009",
+      "name": "Saint John the Baptist",
+      "feast_day": "June 24",
+      "patronage": [
+        "Baptism",
+        "Jordan",
+        "Farriers",
+        "Printers"
+      ],
+      "short_bio": "Forerunner of Christ, baptizer in the Jordan River (Premium feature)",
+      "full_bio": "Saint John the Baptist was the forerunner of Jesus Christ, born to Elizabeth and Zechariah as prophesied by the angel Gabriel. He lived an ascetic life in the desert, preaching repentance and baptizing people in the Jordan River. John had the honor of baptizing Jesus, during which the Holy Spirit descended like a dove and the Father's voice was heard. He courageously spoke truth to power, which led to his imprisonment and eventual beheading by King Herod. Jesus called him the greatest born of women.",
+      "prayer": "O most zealous Saint John the Baptist, greatest prophet among those born of woman, although you were sanctified in your mother's womb and did lead a most innocent life, nevertheless you did constantly practice penance to give us an example of that virtue. Obtain for us of the Almighty the grace to be penitent for our sins and to bring forth worthy fruits of penance. Amen.",
+      "premium_content": true
+    },
+    "saint_010": {
+      "id": "saint_010",
+      "name": "Saint Michael the Archangel",
+      "feast_day": "September 29",
+      "patronage": [
+        "Police officers",
+        "Military",
+        "Paratroopers",
+        "Germany"
+      ],
+      "short_bio": "Archangel, defender against evil, leader of God's army (Premium feature)",
+      "full_bio": "Saint Michael the Archangel is one of the principal angels in Christianity, Judaism, and Islam. In Catholic tradition, he is the leader of God's army against Satan and the fallen angels. Michael is mentioned in the Books of Daniel, Jude, and Revelation. He is often depicted as a warrior with a sword, standing triumphant over Satan. Catholics invoke Saint Michael for protection against evil and spiritual warfare. Pope Leo XIII composed a prayer to Saint Michael that was recited after Low Mass for many years.",
+      "prayer": "Saint Michael the Archangel, defend us in battle. Be our defense against the wickedness and snares of the devil. May God rebuke him, we humbly pray, and do thou, O Prince of the heavenly hosts, by the power of God, thrust into hell Satan, and all the evil spirits, who prowl about the world seeking the ruin of souls. Amen.",
+      "premium_content": true
+    },
+    "saint_011": {
+      "id": "saint_011",
+      "name": "Saint Augustine of Hippo",
+      "feast_day": "August 28",
+      "patronage": [
+        "Theologians",
+        "Brewers",
+        "Printers"
+      ],
+      "short_bio": "Doctor of the Church, influential theologian and philosopher (Premium feature)",
+      "full_bio": "Saint Augustine (354-430) was a bishop of Hippo in North Africa and one of the most important Church Fathers. After a youth of loose living and heretical beliefs, he converted to Christianity through the prayers of his mother, Saint Monica. His extensive writings, including 'Confessions' and 'City of God,' have profoundly shaped Western theology and philosophy. He was a brilliant defender of the faith and is recognized as a Doctor of the Church.",
+      "prayer": "Late have I loved you, O Beauty ever ancient, ever new, late have I loved you! You were within me, but I was outside, and it was there that I searched for you. In my unloveliness I plunged into the lovely things which you created. You were with me, but I was not with you. You called, you shouted, and you broke through my deafness. You flashed, you shone, and you dispelled my blindness. You breathed your fragrance on me; I drew in breath and now I pant for you. I have tasted you, now I hunger and thirst for more. You touched me, and I burned for your peace. Amen.",
+      "premium_content": true
+    },
+    "saint_012": {
+      "id": "saint_012",
+      "name": "Saint Joan of Arc",
+      "feast_day": "May 30",
+      "patronage": [
+        "France",
+        "Soldiers",
+        "Martyrs"
+      ],
+      "short_bio": "The Maid of Orléans, visionary and military leader (Premium feature)",
+      "full_bio": "Saint Joan of Arc (c. 1412-1431) was a young French peasant girl who, inspired by divine visions, led the French army to several important victories during the Hundred Years' War. Her leadership was instrumental in the coronation of Charles VII. She was later captured, tried for heresy by a pro-English court, and burned at the stake at the age of 19. Twenty-five years later, she was posthumously exonerated and declared a martyr. She is a national heroine of France.",
+      "prayer": "O glorious Saint Joan of Arc, filled with compassion for those who invoke you, with love for those who suffer, heavily laden with the weight of my troubles, I kneel at your feet and humbly beg you to take my present case under your special protection... (mention request). Grant me the courage and strength I need to face my challenges. Amen.",
+      "premium_content": true
+    },
+    "saint_013": {
+      "id": "saint_013",
+      "name": "Saint Patrick",
+      "feast_day": "March 17",
+      "patronage": [
+        "Ireland",
+        "Engineers",
+        "Nigeria"
+      ],
+      "short_bio": "Apostle of Ireland, brought Christianity to the Irish people (Premium feature)",
+      "full_bio": "Saint Patrick (5th century) was a Romano-British Christian missionary who became the primary patron saint of Ireland. Kidnapped and enslaved in Ireland as a youth, he escaped, became a cleric, and later returned to evangelize the island. Using the three-leaf shamrock to explain the Holy Trinity, he converted thousands to Christianity. His life is a testament to forgiveness and missionary zeal.",
+      "prayer": "Christ with me, Christ before me, Christ behind me, Christ in me, Christ beneath me, Christ above me, Christ on my right, Christ on my left, Christ when I lie down, Christ when I sit down, Christ when I arise, Christ in the heart of every man who thinks of me, Christ in the mouth of everyone who speaks of me, Christ in every eye that sees me, Christ in every ear that hears me. Amen. (From the Breastplate of St. Patrick)",
+      "premium_content": true
+    },
+    "saint_014": {
+      "id": "saint_014",
+      "name": "Saint Thomas Aquinas",
+      "feast_day": "January 28",
+      "patronage": [
+        "Universities",
+        "Students",
+        "Theologians",
+        "Catholic schools"
+      ],
+      "short_bio": "Dominican friar, philosopher, and Doctor of the Church (Premium feature)",
+      "full_bio": "Saint Thomas Aquinas (1225-1274) was an Italian Dominican friar, philosopher, and theologian of immense influence. He is the foremost classical proponent of natural theology and the father of Thomism. His most famous work, the 'Summa Theologica,' is a masterpiece of systematic theology that reconciles faith and reason. He is honored as a Doctor of the Church and is considered one of the greatest thinkers in Catholic history.",
+      "prayer": "Grant me, O Lord my God, a mind to know you, a heart to seek you, wisdom to find you, a life to please you, perseverance to trust in you, and a hope of finally embracing you. Amen.",
+      "premium_content": true
+    },
+    "saint_015": {
+      "id": "saint_015",
+      "name": "Saint Catherine of Siena",
+      "feast_day": "April 29",
+      "patronage": [
+        "Europe",
+        "Italy",
+        "Nurses"
+      ],
+      "short_bio": "Mystic, activist, and Doctor of the Church (Premium feature)",
+      "full_bio": "Saint Catherine of Siena (1347-1380) was a Dominican tertiary, mystic, and one of the most influential figures of her time. Despite having no formal education, she was a powerful writer and political activist, even persuading Pope Gregory XI to return the papacy to Rome from Avignon. Her spiritual writings, especially 'The Dialogue,' are considered classics. She was declared a Doctor of the Church and is a co-patron saint of Europe.",
+      "prayer": "Holy Spirit, come into my heart; draw it to Thee by Thy power, O my God, and grant me charity with filial fear. Preserve me, O beautiful love, from every evil thought; warm me, inflame me with Thy dear love, and every pain will seem light to me. My Father, my sweet Lord, help me in all my actions. Jesus, love, Jesus, love. Amen.",
+      "premium_content": true
+    },
+    "saint_016": {
+      "id": "saint_016",
+      "name": "Saint Jude Thaddeus",
+      "feast_day": "October 28",
+      "patronage": [
+        "Lost causes",
+        "Desperate situations",
+        "Hospitals"
+      ],
+      "short_bio": "Apostle of Jesus, patron of hopeless cases (Premium feature)",
+      "full_bio": "Saint Jude was one of the Twelve Apostles of Jesus. He is traditionally identified as the author of the Epistle of Jude, a short letter in the New Testament. He is invoked in desperate situations because his New Testament letter stresses that the faithful should persevere in the environment of harsh, difficult circumstances, just as their forefathers had done before them. Therefore, he is the patron saint of lost causes and desperate situations.",
+      "prayer": "O most holy apostle, Saint Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally, as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone. Make use, I implore you, of that particular privilege given to you, to bring visible and speedy help where help is almost despaired of. Come to my assistance in this great need that I may receive the consolation and help of heaven in all my necessities, tribulations, and sufferings, particularly... (make your request here) and that I may praise God with you and all the elect forever. Amen.",
+      "premium_content": true
+    },
+    "saint_017": {
+      "id": "saint_017",
+      "name": "Saint Cecilia",
+      "feast_day": "November 22",
+      "patronage": [
+        "Musicians",
+        "Hymns",
+        "Poets",
+        "Singers"
+      ],
+      "short_bio": "Virgin martyr, patroness of music (Premium feature)",
+      "full_bio": "Saint Cecilia is a Roman martyr who lived in the 2nd or 3rd century. According to legend, she heard heavenly music in her heart when she was forced to marry a pagan nobleman. She is one of the most famous virgin martyrs of the early Church and is venerated as the patroness of musicians. Her story tells of her converting her husband and his brother, and their subsequent martyrdom for their faith.",
+      "prayer": "O glorious Saint Cecilia, who, through your faith and love for Jesus, won the martyr's crown, help us to be faithful in our love for God. May our hearts, like yours, sing praises to the Lord. Through your intercession, may we use the gifts of music and art to glorify God and lead others to Him. Amen.",
+      "premium_content": true
+    },
+    "saint_018": {
+      "id": "saint_018",
+      "name": "Saint Maximilian Kolbe",
+      "feast_day": "August 14",
+      "patronage": [
+        "Drug addicts",
+        "Families",
+        "Journalists",
+        "Political prisoners"
+      ],
+      "short_bio": "Martyr of charity in Auschwitz (Premium feature)",
+      "full_bio": "Saint Maximilian Kolbe (1894-1941) was a Polish Conventual Franciscan friar who was martyred in the Auschwitz concentration camp during World War II. He volunteered to die in place of a stranger, a husband and father. Known for his devotion to the Immaculate Virgin Mary, he founded the Militia Immaculatae. His life was a testament to heroic charity and love, offering a powerful witness in one of history's darkest moments.",
+      "prayer": "O Saint Maximilian Kolbe, faithful follower of Saint Francis, inflamed with love for God and neighbor, you gave your life for a stranger. Inspire us with your spirit of selfless service. Help us to love the Immaculate Mary and to give ourselves completely to her, so that she may lead us to Christ. Through your intercession, may we have the courage to be witnesses of love and truth in the world. Amen.",
+      "premium_content": true
+    },
+    "saint_019": {
+      "id": "saint_019",
+      "name": "Saint Padre Pio",
+      "feast_day": "September 23",
+      "patronage": [
+        "Civil defense volunteers",
+        "Adolescents",
+        "Stress relief"
+      ],
+      "short_bio": "Stigmatist, mystic, and confessor (Premium feature)",
+      "full_bio": "Saint Pio of Pietrelcina (1887-1968), known as Padre Pio, was an Italian Capuchin friar, priest, and mystic. He is famous for bearing the stigmata, the wounds of Christ, for most of his life. He was known for his piety, charity, and the spiritual counsel he offered through long hours in the confessional. Millions were touched by his holiness and the miracles attributed to his intercession.",
+      "prayer": "O glorious Saint Pio, you bore the wounds of Christ and carried the burdens of others in your heart. Teach us to pray with faith and to trust in God's mercy. Help us to see the presence of Jesus in the Eucharist and to love our neighbors with a generous heart. Through your prayers, may we find healing for our bodies and souls. Amen.",
+      "premium_content": true
+    },
+    "saint_020": {
+      "id": "saint_020",
+      "name": "Saint John Paul II",
+      "feast_day": "October 22",
+      "patronage": [
+        "World Youth Day",
+        "Families",
+        "Young Catholics"
+      ],
+      "short_bio": "Pope from Poland, world traveler, and champion of the youth (Premium feature)",
+      "full_bio": "Saint John Paul II (1920-2005), born Karol Wojtyła, was the head of the Catholic Church from 1978 until his death. His pontificate was one of the longest in history, marked by extensive travel, a focus on the youth through World Youth Day, and a significant role in the fall of communism in Eastern Europe. He was a prolific writer, a charismatic leader, and a powerful voice for human dignity and the new evangelization.",
+      "prayer": "O Blessed Trinity, we thank you for having given to the Church Pope John Paul II, and for having made him shine with your fatherly tenderness, the glory of the Cross of Christ and the splendor of the Spirit of love. He, trusting completely in your infinite mercy and in the maternal intercession of Mary, has shown himself in the likeness of Jesus the Good Shepherd and has pointed out to us the path of holiness as the supreme measure of the ordinary Christian life. Grant us, by his intercession, according to your will, the grace that we implore... (mention request). Amen.",
+      "premium_content": true
+    },
+    "saint_021": {
+      "id": "saint_021",
+      "name": "Saint Teresa of Calcutta",
+      "feast_day": "September 5",
+      "patronage": [
+        "World Youth Day",
+        "Missionaries of Charity"
+      ],
+      "short_bio": "Mother Teresa, foundress of the Missionaries of Charity (Premium feature)",
+      "full_bio": "Saint Teresa of Calcutta (1910-1997), known as Mother Teresa, was an Albanian-Indian Roman Catholic nun and missionary. She founded the Missionaries of Charity, a religious congregation dedicated to serving the 'poorest of the poor.' Her work among the sick and dying in the slums of Calcutta brought her international recognition, including the Nobel Peace Prize. She was a powerful witness to the dignity of every human life.",
+      "prayer": "St. Teresa of Calcutta, you allowed the thirsting love of Jesus on the Cross to become a living flame within you, and so became the light of His love to all. Obtain from the Heart of Jesus... (mention request). Teach me to allow Jesus to penetrate and possess my whole being so completely that my life, too, may radiate His light and love to others. Amen.",
+      "premium_content": true
+    },
+    "saint_022": {
+      "id": "saint_022",
+      "name": "Saint Ignatius of Loyola",
+      "feast_day": "July 31",
+      "patronage": [
+        "Jesuits (Society of Jesus)",
+        "Soldiers",
+        "Spiritual retreats"
+      ],
+      "short_bio": "Founder of the Jesuits, master of spiritual discernment (Premium feature)",
+      "full_bio": "Saint Ignatius of Loyola (1491-1556) was a Spanish knight who, after being wounded in battle, underwent a profound spiritual conversion. He founded the Society of Jesus (the Jesuits) and became its first Superior General. His 'Spiritual Exercises' is a classic work on spiritual discernment and has guided countless souls in finding God's will. He emphasized education and missionary work 'for the greater glory of God.'",
+      "prayer": "Dearest Lord, teach me to be generous. Teach me to serve you as you deserve; to give and not to count the cost, to fight and not to heed the wounds, to toil and not to seek for rest, to labor and not to ask for reward, save that of knowing that I do your will. Amen.",
+      "premium_content": true
+    },
+    "saint_023": {
+      "id": "saint_023",
+      "name": "Saint Dominic",
+      "feast_day": "August 8",
+      "patronage": [
+        "Dominican Republic",
+        "Astronomers",
+        "Falsely accused people"
+      ],
+      "short_bio": "Founder of the Order of Preachers (Dominicans) (Premium feature)",
+      "full_bio": "Saint Dominic (1170-1221) was a Spanish priest who founded the Order of Preachers, also known as the Dominicans. He saw the need for an order dedicated to preaching the truth of the Gospel to combat heresy. Tradition holds that the Blessed Virgin Mary appeared to him and gave him the Rosary as a tool for preaching and prayer. The Dominicans are known for their commitment to study, preaching, and contemplation.",
+      "prayer": "May God the Father, who made us, bless us. May God the Son, who redeemed us, send healing into our midst. May God the Holy Spirit, who gives us life, move within us. May God give us eyes to see to God, ears to hear God, and hands to bring God’s work into the world. Amen.",
+      "premium_content": true
+    },
+    "saint_024": {
+      "id": "saint_024",
+      "name": "Saint Clare of Assisi",
+      "feast_day": "August 11",
+      "patronage": [
+        "Television",
+        "Eye disorders",
+        "Goldsmiths"
+      ],
+      "short_bio": "Follower of St. Francis, foundress of the Poor Clares (Premium feature)",
+      "full_bio": "Saint Clare of Assisi (1194-1253) was one of the first followers of Saint Francis of Assisi. Inspired by his preaching, she left her wealthy family to live a life of poverty and prayer. She founded the Order of Poor Ladies (now the Poor Clares), a monastic religious order for women in the Franciscan tradition. She is known for her deep faith in the Eucharist, once repelling an army by holding up the Blessed Sacrament.",
+      "prayer": "O glorious Saint Clare, you who followed Christ in poverty and joy, obtain for us the grace to detach our hearts from earthly things and to seek the treasures of heaven. Help us to love the Eucharist and to find our strength in Jesus. Through your intercession, may we live simple and holy lives, trusting in God's providence. Amen.",
+      "premium_content": true
+    },
+    "saint_025": {
+      "id": "saint_025",
+      "name": "Saint Benedict of Nursia",
+      "feast_day": "July 11",
+      "patronage": [
+        "Europe",
+        "Monks",
+        "Students"
+      ],
+      "short_bio": "Father of Western Monasticism, author of the Rule of St. Benedict (Premium feature)",
+      "full_bio": "Saint Benedict of Nursia (c. 480-547) is considered the father of Western monasticism. He established a monastery at Monte Cassino, Italy, where he wrote his famous 'Rule,' a guide for monastic life that balances prayer, work, and study. The Rule of Saint Benedict became the foundation for monastic communities throughout Europe for centuries. His motto was 'Ora et Labora' (Pray and Work).",
+      "prayer": "O gracious and holy Father, grant us the wisdom to discover you, the intelligence to understand you, the diligence to seek after you, the patience to wait for you, eyes to behold you, a heart to meditate upon you, and a life to proclaim you, through the power of the Spirit of Jesus, our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_026": {
+      "id": "saint_026",
+      "name": "Saint Scholastica",
+      "feast_day": "February 10",
+      "patronage": [
+        "Nuns",
+        "Convulsive children"
+      ],
+      "short_bio": "Twin sister of St. Benedict, foundress of Benedictine nuns (Premium feature)",
+      "full_bio": "Saint Scholastica (c. 480-543) was the twin sister of Saint Benedict of Nursia. She dedicated her life to God and founded a community of women religious near her brother's monastery at Monte Cassino, following the Benedictine Rule. She is a model of deep faith and sisterly love. A famous story tells of her praying for a storm so she could continue a spiritual conversation with her brother, a prayer which God granted.",
+      "prayer": "O God, to show us the innocence of our life, you made the soul of your virgin Saint Scholastica soar to heaven like a dove in flight. Grant, we pray, that by her merits and her prayers we may so live in innocence as to attain to joys everlasting. This we ask through Jesus Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_027": {
+      "id": "saint_027",
+      "name": "Saint Gregory the Great",
+      "feast_day": "September 3",
+      "patronage": [
+        "Musicians",
+        "Singers",
+        "Students",
+        "Teachers"
+      ],
+      "short_bio": "Pope, Doctor of the Church, and reformer (Premium feature)",
+      "full_bio": "Saint Gregory the Great (c. 540-604) was Pope from 590 until his death. He is known for his extensive writings, his efforts to reform the liturgy, and his promotion of missionary work, most famously sending Saint Augustine of Canterbury to evangelize England. Gregorian Chant is named in his honor. He was a humble and effective leader who strengthened the papacy and had a lasting impact on the Church.",
+      "prayer": "O God, who care for your people with gentleness and rule them in love, through the intercession of Pope Saint Gregory, give a spirit of wisdom to those to whom you have given authority to govern, that the flourishing of a holy flock may become the eternal joy of its shepherds. Through our Lord Jesus Christ, your Son. Amen.",
+      "premium_content": true
+    },
+    "saint_028": {
+      "id": "saint_028",
+      "name": "Saint Jerome",
+      "feast_day": "September 30",
+      "patronage": [
+        "Librarians",
+        "Scholars",
+        "Translators",
+        "Archaeologists"
+      ],
+      "short_bio": "Priest, confessor, and Doctor of the Church (Premium feature)",
+      "full_bio": "Saint Jerome (c. 347-420) was a priest, theologian, and historian, best known for translating the Bible from its original languages into Latin. This translation, known as the Vulgate, became the official Latin Bible of the Catholic Church for centuries. He was a brilliant but often cantankerous scholar who spent many years as a hermit in the desert. He is a Doctor of the Church, recognized for his immense contribution to biblical scholarship.",
+      "prayer": "O Lord, you gave your priest Saint Jerome a great love for Holy Scripture. May your people be nourished more abundantly with your word and find in it the source of life. Through our Lord Jesus Christ, your Son. Amen.",
+      "premium_content": true
+    },
+    "saint_029": {
+      "id": "saint_029",
+      "name": "Saint Ambrose",
+      "feast_day": "December 7",
+      "patronage": [
+        "Milan",
+        "Beekeepers",
+        "Candle makers"
+      ],
+      "short_bio": "Bishop of Milan, Doctor of the Church (Premium feature)",
+      "full_bio": "Saint Ambrose (c. 340-397) was the Bishop of Milan and one of the four original Doctors of the Church. He was a powerful preacher and a staunch defender of orthodoxy against Arianism. He is famous for his influence on Saint Augustine, whom he baptized. Ambrose was a courageous leader who stood up to emperors and championed the independence of the Church.",
+      "prayer": "O God, who made the Bishop Saint Ambrose a teacher of the Catholic faith and a model of apostolic courage, raise up in your Church men after your own heart to govern her with courage and wisdom. Through our Lord Jesus Christ, your Son. Amen.",
+      "premium_content": true
+    },
+    "saint_030": {
+      "id": "saint_030",
+      "name": "Saint Nicholas",
+      "feast_day": "December 6",
+      "patronage": [
+        "Children",
+        "Sailors",
+        "Merchants",
+        "Archers"
+      ],
+      "short_bio": "Bishop known for his generosity and gift-giving (Premium feature)",
+      "full_bio": "Saint Nicholas of Myra was a 4th-century Christian bishop of Greek descent from the maritime city of Myra in Asia Minor. He was known for his piety and zeal, and especially for his generosity. Many legends surround him, including the story of him secretly leaving bags of gold for three poor sisters to save them from a life of prostitution. This act of secret gift-giving is the origin of the modern-day Santa Claus tradition.",
+      "prayer": "O God, who didst adorn the holy Bishop Nicholas with countless miracles: grant, we beseech Thee, that by his merits and prayers we may be delivered from the fires of hell. Through Jesus Christ, our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_031": {
+      "id": "saint_031",
+      "name": "Saint Francis Xavier",
+      "feast_day": "December 3",
+      "patronage": [
+        "Missionaries",
+        "Sailors",
+        "Naval officers"
+      ],
+      "short_bio": "Jesuit missionary, co-founder of the Society of Jesus (Premium feature)",
+      "full_bio": "Saint Francis Xavier (1506-1552) was a Spanish Jesuit missionary and one of the co-founders of the Society of Jesus. He was a close companion of Saint Ignatius of Loyola and dedicated his life to evangelizing in Asia, particularly in India and Japan. Known for his incredible energy and commitment to spreading the Gospel, he is one of the most prolific missionaries in history and a patron of missions.",
+      "prayer": "O God, who by the preaching and miracles of Saint Francis Xavier did bring many peoples to thee, grant that through his intercession we may imitate his virtues and be filled with the same zeal for the salvation of souls. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_032": {
+      "id": "saint_032",
+      "name": "Saint Pio of Pietrelcina (Padre Pio)",
+      "feast_day": "September 23",
+      "patronage": [
+        "Civil defense volunteers",
+        "Adolescents",
+        "Stress relief"
+      ],
+      "short_bio": "Stigmatist, mystic, and confessor (Premium feature)",
+      "full_bio": "Saint Pio of Pietrelcina (1887-1968), known as Padre Pio, was an Italian Capuchin friar, priest, and mystic. He is famous for bearing the stigmata, the wounds of Christ, for most of his life. He was known for his piety, charity, and the spiritual counsel he offered through long hours in the confessional. Millions were touched by his holiness and the miracles attributed to his intercession.",
+      "prayer": "O glorious Saint Pio, you bore the wounds of Christ and carried the burdens of others in your heart. Teach us to pray with faith and to trust in God's mercy. Help us to see the presence of Jesus in the Eucharist and to love our neighbors with a generous heart. Through your prayers, may we find healing for our bodies and souls. Amen.",
+      "premium_content": true
+    },
+    "saint_033": {
+      "id": "saint_033",
+      "name": "Saint Andrew the Apostle",
+      "feast_day": "November 30",
+      "patronage": [
+        "Fishermen",
+        "Scotland",
+        "Greece",
+        "Russia"
+      ],
+      "short_bio": "Brother of St. Peter, first-called Apostle of Jesus (Premium feature)",
+      "full_bio": "Saint Andrew was the brother of Saint Peter and one of the first apostles called by Jesus. A fisherman by trade, he immediately left his nets to follow the Lord. He is traditionally credited with introducing his brother, Peter, to Jesus. Andrew is said to have preached the Gospel in Greece and was martyred on an X-shaped cross, which is now a symbol associated with him. He is the patron saint of Scotland, Greece, and Russia.",
+      "prayer": "O Lord, you called Saint Andrew to be one of the first to follow your Son. Grant that through his intercession, we may be eager to share the good news of Christ with others and follow him with courage and faith. Through our Lord Jesus Christ, your Son. Amen.",
+      "premium_content": true
+    },
+    "saint_034": {
+      "id": "saint_034",
+      "name": "Saint Agnes",
+      "feast_day": "January 21",
+      "patronage": [
+        "Chastity",
+        "Girls",
+        "Gardeners"
+      ],
+      "short_bio": "Young virgin martyr of the early Church (Premium feature)",
+      "full_bio": "Saint Agnes was a 13-year-old Roman virgin martyr who was killed during the reign of Emperor Diocletian. Refusing to renounce her faith or marry a pagan nobleman, she was sentenced to a brothel and then executed. Her courage and unwavering faith in the face of persecution have made her one of the most revered virgin martyrs. She is a symbol of purity and steadfastness in faith.",
+      "prayer": "O God, whose chosen virgin, blessed Agnes, won the martyr's crown; grant, we beseech Thee, that as we honor her by our praise, we may be helped by her intercession. Through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God, forever and ever. Amen.",
+      "premium_content": true
+    },
+    "saint_035": {
+      "id": "saint_035",
+      "name": "Saint Thomas More",
+      "feast_day": "June 22",
+      "patronage": [
+        "Statesmen",
+        "Lawyers",
+        "Politicians"
+      ],
+      "short_bio": "Martyr and statesman who opposed Henry VIII (Premium feature)",
+      "full_bio": "Saint Thomas More (1478-1535) was an English lawyer, statesman, and philosopher. He served as Lord High Chancellor of England under King Henry VIII. A devout Catholic, he refused to acknowledge the king as the supreme head of the Church of England, which led to his execution for treason. He is revered as a martyr and a model of integrity and conscience, famously saying, 'I die the King's good servant, but God's first.'",
+      "prayer": "Grant me, O Lord, a good digestion, and also something to digest. Grant me a healthy body, and the sense to keep it that way. Grant me a healthy mind, so that I may be able to turn my thoughts and prayers into something good and true. Amen.",
+      "premium_content": true
+    },
+    "saint_036": {
+      "id": "saint_036",
+      "name": "Saint Rita of Cascia",
+      "feast_day": "May 22",
+      "patronage": [
+        "Impossible causes",
+        "Abused wives",
+        "Parenthood"
+      ],
+      "short_bio": "Patroness of impossible causes and desperate situations (Premium feature)",
+      "full_bio": "Saint Rita of Cascia (1381-1457) was an Italian widow and Augustinian nun. After enduring an abusive marriage and the death of her husband and sons, she entered a convent and dedicated her life to God. She is known as the patroness of impossible causes due to her remarkable life and the miracles attributed to her intercession. A stigmatic, she bore a wound on her forehead that resembled a thorn from Christ's crown.",
+      "prayer": "O Holy Patroness of those in need, Saint Rita, whose prayers before God are most powerful, help me in my present necessity. O powerful Saint, in a time of great darkness and despair, you were a light and a hope to many. Obtain for me from God the grace I need... (mention request). Amen.",
+      "premium_content": true
+    },
+    "saint_037": {
+      "id": "saint_037",
+      "name": "Saint Francis de Sales",
+      "feast_day": "January 24",
+      "patronage": [
+        "Journalists",
+        "Writers",
+        "Adult education"
+      ],
+      "short_bio": "Bishop and Doctor of the Church, known for spiritual guidance (Premium feature)",
+      "full_bio": "Saint Francis de Sales (1567-1622) was a French bishop and a Doctor of the Church. He is known for his gentle approach to spiritual direction and for his writings on the spiritual life, most notably 'Introduction to the Devout Life' and 'Treatise on the Love of God.' He co-founded the Order of the Visitation of Holy Mary with Saint Jane Frances de Chantal. He is the patron saint of writers and journalists.",
+      "prayer": "Lord, grant that I may not so much seek to be consoled as to console; to be understood as to understand; to be loved as to love; for it is in giving that we receive, it is in pardoning that we are pardoned, and it is in dying that we are born to eternal life. Amen.",
+      "premium_content": true
+    },
+    "saint_038": {
+      "id": "saint_038",
+      "name": "Saint John Bosco",
+      "feast_day": "January 31",
+      "patronage": [
+        "Youth",
+        "Schoolchildren",
+        "Magicians",
+        "Editors"
+      ],
+      "short_bio": "Italian priest and educator, founder of the Salesians (Premium feature)",
+      "full_bio": "Saint John Bosco (1815-1888), known affectionately as 'Don Bosco,' was an Italian Roman Catholic priest and educator who dedicated his life to the education and welfare of street children, juvenile delinquents, and other disadvantaged youth. He founded the Salesian Society, a religious order that continues his work worldwide. His educational method was based on reason, religion, and loving-kindness. He is a powerful intercessor for the young and for those who work with them.",
+      "prayer": "O Holy Saint John Bosco, father and teacher of youth, who worked so hard for the salvation of souls, be our guide in life. May we, like you, serve God with a joyful heart, and lead others to Him through our love and good example. Amen.",
+      "premium_content": true
+    },
+    "saint_039": {
+      "id": "saint_039",
+      "name": "Saint Elizabeth Ann Seton",
+      "feast_day": "January 4",
+      "patronage": [
+        "Catholic schools",
+        "Teachers",
+        "Maryland"
+      ],
+      "short_bio": "First native-born American to be canonized (Premium feature)",
+      "full_bio": "Saint Elizabeth Ann Seton (1774-1821) was the first person born in the United States to be canonized by the Catholic Church. Born into a prominent family in New York, she converted to Catholicism after the death of her husband. She went on to found the Sisters of Charity of St. Joseph, a religious community dedicated to the education of the poor. Her work laid the foundation for the Catholic parochial school system in the United States.",
+      "prayer": "O God, who gave to your servant Saint Elizabeth Ann Seton the grace to lead others to you, grant us by her prayers and example the courage to follow your will and the wisdom to know your way. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_040": {
+      "id": "saint_040",
+      "name": "Saint Maria Goretti",
+      "feast_day": "July 6",
+      "patronage": [
+        "Youth",
+        "Rape victims",
+        "Forgiveness"
+      ],
+      "short_bio": "Young virgin martyr known for her forgiveness (Premium feature)",
+      "full_bio": "Saint Maria Goretti (1890-1902) was an 11-year-old Italian girl who was brutally murdered after she resisted an attempted rape. As she was dying, she forgave her attacker, Alessandro Serenelli. Her act of heroic forgiveness led to her canonization and the eventual conversion of her murderer, who became a Capuchin friar. She is a powerful symbol of purity and a model of Christian forgiveness.",
+      "prayer": "O Saint Maria Goretti, who, strengthened by God's grace, did not hesitate at the age of eleven to shed your blood to defend your virginal purity, look mercifully upon us. Teach us to forgive those who have wronged us and to seek God's mercy in our lives. Amen.",
+      "premium_content": true
+    },
+    "saint_041": {
+      "id": "saint_041",
+      "name": "Saint Kateri Tekakwitha",
+      "feast_day": "July 14",
+      "patronage": [
+        "Environment",
+        "Exiles",
+        "Loss of parents"
+      ],
+      "short_bio": "The 'Lily of the Mohawks', first Native American saint (Premium feature)",
+      "full_bio": "Saint Kateri Tekakwitha (1656-1680) was a young Mohawk woman born in what is now New York state. She converted to Catholicism at age 19, enduring ostracism from her village. She dedicated her life to Christ, taking a vow of perpetual virginity and living a life of intense prayer and penance. Her deep piety and quiet strength earned her the title 'Lily of the Mohawks.' She is the first Native American to be canonized and is a patron of the environment.",
+      "prayer": "O God, you called Saint Kateri Tekakwitha to walk the path of holiness amid great trials. By her intercession, may we be given the strength to follow your will and the grace to share the light of faith with those around us. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_042": {
+      "id": "saint_042",
+      "name": "Saint Bernadette Soubirous",
+      "feast_day": "April 16",
+      "patronage": [
+        "Illness",
+        "Poor people",
+        "Shepherds"
+      ],
+      "short_bio": "Visionary of Lourdes, who saw the Blessed Virgin Mary (Premium feature)",
+      "full_bio": "Saint Bernadette Soubirous (1844-1879) was a young French peasant girl who experienced 18 apparitions of the Blessed Virgin Mary in Lourdes, France. She was instructed to dig for a spring, which became a source of miraculous healings for pilgrims. Despite facing skepticism and hardship, Bernadette remained humble and steadfast in her faith. She later joined the Sisters of Charity and lived a quiet life of prayer and suffering, offering it for the conversion of sinners.",
+      "prayer": "O Saint Bernadette, you who were chosen by God to receive the apparitions of the Blessed Virgin Mary, and who with a simple and pure heart obeyed her heavenly request, pray for us. Grant us a heart like yours, a simple and sincere love for God and our Lady, and the courage to endure trials with patience and trust. Amen.",
+      "premium_content": true
+    },
+    "saint_043": {
+      "id": "saint_043",
+      "name": "Saint Damien of Molokai",
+      "feast_day": "May 10",
+      "patronage": [
+        "Lepers",
+        "Outcasts",
+        "Hawaii"
+      ],
+      "short_bio": "Belgian missionary who served lepers in Hawaii (Premium feature)",
+      "full_bio": "Saint Damien of Molokai (1840-1889), born Joseph de Veuster, was a Belgian priest of the Congregation of the Sacred Hearts of Jesus and Mary. He volunteered to serve the leper colony on the island of Molokai in Hawaii, where he spent his life ministering to those afflicted with leprosy. He built homes, coffins, and a church, and gave his life to serving those who were cast out by society, eventually contracting the disease himself. He is a powerful symbol of radical love and self-sacrifice.",
+      "prayer": "O God, by whose power Saint Damien, filled with your love, became a missionary of heroic charity, a father to the lepers, and a martyr of love; grant, we pray, that by his intercession, we may be moved with compassion for all who suffer and be filled with the same desire to serve you in the most abandoned. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_044": {
+      "id": "saint_044",
+      "name": "Saint Marianne Cope",
+      "feast_day": "January 23",
+      "patronage": [
+        "Lepers",
+        "Hawaii",
+        "Aids victims"
+      ],
+      "short_bio": "Franciscan Sister who worked with St. Damien in Hawaii (Premium feature)",
+      "full_bio": "Saint Marianne Cope (1838-1918) was a German-American nun who, as a member of the Sisters of St. Francis of Syracuse, New York, accepted a call to work with the lepers on the island of Molokai, Hawaii. She served alongside Saint Damien and, after his death, took over the care of the lepers. She established a system of care and education that improved the lives of the afflicted. Her unwavering compassion and dedication made her a source of hope and healing for the marginalized.",
+      "prayer": "O God, who filled Saint Marianne Cope with a loving heart and a generous spirit to care for the outcasts, grant us the grace to see the face of Christ in the poor and the suffering. By her intercession, may we be courageous in our service and faithful to our vocation. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_045": {
+      "id": "saint_045",
+      "name": "Saint Mother Cabrini",
+      "feast_day": "November 13",
+      "patronage": [
+        "Immigrants",
+        "Hospital administrators",
+        "Orphans"
+      ],
+      "short_bio": "First American citizen to be canonized, founded Missionaries of the Sacred Heart (Premium feature)",
+      "full_bio": "Saint Frances Xavier Cabrini (1850-1917), known as Mother Cabrini, was an Italian-American Roman Catholic nun. After being denied entry into an existing religious order, she founded the Missionary Sisters of the Sacred Heart of Jesus. At the request of Pope Leo XIII, she immigrated to the United States to serve the Italian immigrant community. She founded dozens of orphanages, hospitals, and schools, becoming a powerful advocate for the poor and marginalized. She is the first American citizen to be canonized.",
+      "prayer": "O Saint Mother Cabrini, who dedicated your life to the service of immigrants and the poor, help us to be compassionate and welcoming to those who are new to our land. Grant us the grace to see the needs of others and to respond with a generous heart. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_046": {
+      "id": "saint_046",
+      "name": "Saint Sebastian",
+      "feast_day": "January 20",
+      "patronage": [
+        "Athletes",
+        "Soldiers",
+        "Plague"
+      ],
+      "short_bio": "Roman soldier and martyr (Premium feature)",
+      "full_bio": "Saint Sebastian was a Roman soldier who was martyred for his Christian faith during the persecution of Emperor Diocletian. He was a secret Christian who used his position to help other believers. When his faith was discovered, he was sentenced to be shot with arrows, but he survived and was later clubbed to death. His courage and defiance in the face of persecution have made him a symbol of strength and faith. He is a patron of athletes and soldiers.",
+      "prayer": "O glorious Saint Sebastian, who, after being severely wounded, was preserved by God to stand as a witness to the truth of the Gospel, protect us from all harm and grant us the strength to defend our faith. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_047": {
+      "id": "saint_047",
+      "name": "Saint Lucy",
+      "feast_day": "December 13",
+      "patronage": [
+        "Blindness",
+        "Eye diseases",
+        "Writers"
+      ],
+      "short_bio": "Sicilian virgin martyr, patroness of sight (Premium feature)",
+      "full_bio": "Saint Lucy of Syracuse was a young Christian martyr who was executed during the persecution of Emperor Diocletian. She is venerated as the patroness of the blind and those with eye diseases. According to tradition, she refused to marry a pagan and gave her dowry to the poor, which led to her being reported as a Christian. She is often depicted holding a platter with two eyes on it. Her feast day, December 13th, is associated with light and the beginning of the Christmas season.",
+      "prayer": "O Saint Lucy, whose name means light, help us to see the world with the eyes of faith. Intercede for all who suffer from blindness or other eye diseases, and help us to see the truth of Christ in all things. Amen.",
+      "premium_content": true
+    },
+    "saint_048": {
+      "id": "saint_048",
+      "name": "Saint Juan Diego",
+      "feast_day": "December 9",
+      "patronage": [
+        "Indigenous people",
+        "Mexico",
+        "Lay people"
+      ],
+      "short_bio": "Visionary of Our Lady of Guadalupe (Premium feature)",
+      "full_bio": "Saint Juan Diego Cuauhtlatoatzin (c. 1474-1548) was an indigenous Mexican convert to Catholicism who received apparitions of the Blessed Virgin Mary in 1531. Mary, appearing as Our Lady of Guadalupe, instructed him to build a church on the Hill of Tepeyac. To prove his vision to the bishop, she miraculously imprinted her image on his cloak (tilma), which remains intact to this day. His faith and obedience were instrumental in the conversion of millions of indigenous people in Mexico.",
+      "prayer": "O Saint Juan Diego, humble messenger of the Virgin of Guadalupe, you were a model of faith and obedience. Help us to hear the call of the Blessed Mother and to follow her guidance with a trusting heart. Pray for us that we may always be a people of faith and a light to the nations. Amen.",
+      "premium_content": true
+    },
+    "saint_049": {
+      "id": "saint_049",
+      "name": "Saint Joseph Cafasso",
+      "feast_day": "June 23",
+      "patronage": [
+        "Prisoners",
+        "Prison chaplains",
+        "Condemned prisoners"
+      ],
+      "short_bio": "Italian priest known for his work with prisoners (Premium feature)",
+      "full_bio": "Saint Joseph Cafasso (1811-1860) was an Italian priest and a close friend of Saint John Bosco. Known as the 'Priest of the Gallows,' he dedicated his life to ministering to prisoners and those condemned to death. He accompanied over 60 condemned prisoners to the gallows, offering them comfort, spiritual guidance, and the hope of God's mercy. He is a powerful example of Christian charity and the sacrament of reconciliation.",
+      "prayer": "O Saint Joseph Cafasso, you who were a friend to the outcast and a comfort to the condemned, intercede for all those in prison. Help them to find hope and healing in the mercy of God. Pray that we may always be mindful of our own need for forgiveness and be agents of God's love in the world. Amen.",
+      "premium_content": true
+    },
+    "saint_050": {
+      "id": "saint_050",
+      "name": "Saint Rose of Lima",
+      "feast_day": "August 23",
+      "patronage": [
+        "Florists",
+        "Gardeners",
+        "Peru",
+        "South America"
+      ],
+      "short_bio": "First saint of the Americas (Premium feature)",
+      "full_bio": "Saint Rose of Lima (1586-1617) was a lay member of the Dominican Third Order in Lima, Peru. She was known for her exceptional beauty and her deep commitment to a life of prayer, penance, and service to the poor and sick. She lived a life of severe mortification and mystical experiences, offering her sufferings for the salvation of souls. She is the first person born in the Americas to be canonized and is the patroness of Peru and all of South America.",
+      "prayer": "O glorious Saint Rose of Lima, you who were inflamed with a burning love for God, and who, by your extraordinary penances, showed your zeal for the salvation of souls, pray for us. Grant that we may imitate your heroic virtues and find joy in the sacrifices we make for God and our neighbor. Amen.",
+      "premium_content": true
+    },
+    "saint_051": {
+      "id": "saint_051",
+      "name": "Saint Stephen the First Martyr",
+      "feast_day": "December 26",
+      "patronage": [
+        "Deacons",
+        "Stonemasons",
+        "Co-patron of Rome"
+      ],
+      "short_bio": "First Christian martyr, stoned to death (Premium feature)",
+      "full_bio": "Saint Stephen was one of the first deacons of the Christian Church in Jerusalem. He was a man 'full of faith and the Holy Spirit' who performed great wonders among the people. His courageous preaching of the Gospel led to his arrest and trial before the Sanhedrin. He was the first Christian to be martyred for his faith, stoned to death by an angry mob. As he died, he prayed for his persecutors, a powerful act that echoes the forgiveness of Christ on the cross.",
+      "prayer": "O glorious Saint Stephen, who, as the first to suffer for the name of Jesus, showed us the way to follow Christ even to the point of death, pray for us. Grant us the courage to be witnesses of the Gospel and the grace to forgive those who persecute us. Amen.",
+      "premium_content": true
+    },
+    "saint_052": {
+      "id": "saint_052",
+      "name": "Saint Luke the Evangelist",
+      "feast_day": "October 18",
+      "patronage": [
+        "Physicians",
+        "Surgeons",
+        "Artists",
+        "Notaries"
+      ],
+      "short_bio": "Author of the Gospel of Luke and Acts of the Apostles (Premium feature)",
+      "full_bio": "Saint Luke was a Greek physician and a companion of Saint Paul. He is the author of the Gospel of Luke and the Acts of the Apostles, which together form a detailed account of the life of Jesus and the history of the early Church. Known for his elegant writing style and his emphasis on the compassion of Christ for the poor and marginalized, he is a patron of physicians and artists. He is traditionally depicted as a winged ox, a symbol of sacrifice and service.",
+      "prayer": "O God, who chose Saint Luke to be a physician of souls and a historian of your Church, grant that by his intercession we may be filled with a love for your Word and a desire to heal the sick in both body and soul. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_053": {
+      "id": "saint_053",
+      "name": "Saint John the Evangelist",
+      "feast_day": "December 27",
+      "patronage": [
+        "Theologians",
+        "Writers",
+        "Artists",
+        "Friendship"
+      ],
+      "short_bio": "Apostle, author of the Gospel of John and the Book of Revelation (Premium feature)",
+      "full_bio": "Saint John was one of the Twelve Apostles of Jesus, often referred to as 'the disciple whom Jesus loved.' He is the author of the Gospel of John, the three Epistles of John, and the Book of Revelation. He was present at the Last Supper and at the foot of the Cross, where Jesus entrusted His mother to him. John is the only apostle not to have been martyred and is a powerful symbol of deep love for Christ. He is often depicted as an eagle, a symbol of soaring theology.",
+      "prayer": "O God, who revealed the mysteries of your Word through your servant Saint John, grant that by his intercession we may come to know and love you more deeply. Help us to imitate his faithful love for Christ and to be a witness of your truth in the world. Amen.",
+      "premium_content": true
+    },
+    "saint_054": {
+      "id": "saint_054",
+      "name": "Saint Mark the Evangelist",
+      "feast_day": "April 25",
+      "patronage": [
+        "Lions",
+        "Barristers",
+        "Venice",
+        "Notaries"
+      ],
+      "short_bio": "Author of the Gospel of Mark (Premium feature)",
+      "full_bio": "Saint Mark the Evangelist was a companion of Saint Peter and Saint Paul and is traditionally believed to be the author of the Gospel of Mark, the shortest of the four Gospels. His Gospel is known for its fast-paced narrative and its focus on the power and authority of Jesus. He is also traditionally the founder of the Church in Alexandria, Egypt. He is symbolized by a winged lion, a symbol of the Resurrection.",
+      "prayer": "O God, who raised up Saint Mark to proclaim the Gospel to the nations, grant that we may be filled with the same zeal for the truth and a desire to share your Word with all people. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_055": {
+      "id": "saint_055",
+      "name": "Saint Matthew the Apostle",
+      "feast_day": "September 21",
+      "patronage": [
+        "Accountants",
+        "Tax collectors",
+        "Bookkeepers"
+      ],
+      "short_bio": "Apostle and author of the Gospel of Matthew (Premium feature)",
+      "full_bio": "Saint Matthew was one of the Twelve Apostles of Jesus. He was a tax collector, a profession often scorned in his time, when he was called by Jesus to follow him. His Gospel is known for its emphasis on Jesus as the fulfillment of the Old Testament prophecies and for its inclusion of the Sermon on the Mount. He is a powerful example of a person who left his worldly possessions and a life of sin to follow Christ. He is a patron of accountants and bookkeepers.",
+      "prayer": "O God, who chose Saint Matthew, a tax collector, to be an Apostle and Evangelist, grant us the grace to respond to your call with an open heart and to leave behind our attachments to worldly things. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_056": {
+      "id": "saint_056",
+      "name": "Saint Monica",
+      "feast_day": "August 27",
+      "patronage": [
+        "Mothers",
+        "Difficult marriages",
+        "Alcoholics"
+      ],
+      "short_bio": "Mother of St. Augustine, known for her persistent prayers (Premium feature)",
+      "full_bio": "Saint Monica (c. 331-387) was the mother of Saint Augustine of Hippo. Born in Tagaste, North Africa, she was a devout Christian who endured a difficult marriage and a son who lived a dissolute life. She prayed for her son's conversion for many years with unwavering faith and patience. Her prayers were answered when Augustine converted to Christianity and became a bishop and a Doctor of the Church. She is a powerful intercessor for mothers, difficult marriages, and for those who have strayed from the faith.",
+      "prayer": "O glorious Saint Monica, who with a constant and patient heart, did not cease to pray for the conversion of your son, we ask you to intercede for us. Help us to be faithful in our prayers for our loved ones and to never lose hope in God's mercy. Amen.",
+      "premium_content": true
+    },
+    "saint_057": {
+      "id": "saint_057",
+      "name": "Saint John of the Cross",
+      "feast_day": "December 14",
+      "patronage": [
+        "Mystics",
+        "Contemplatives",
+        "Spanish poets"
+      ],
+      "short_bio": "Carmelite mystic and Doctor of the Church (Premium feature)",
+      "full_bio": "Saint John of the Cross (1542-1591) was a Spanish Carmelite friar and priest. He worked with Saint Teresa of Avila to reform the Carmelite order, leading to the establishment of the Discalced Carmelites. A master of mystical theology, his writings, including 'The Dark Night of the Soul' and 'Ascent of Mount Carmel,' are considered classics of Christian spirituality. He is a Doctor of the Church and is known for his teachings on the 'dark night' of the soul, a period of spiritual desolation that purifies the soul.",
+      "prayer": "O Saint John of the Cross, you were a great teacher and guide in the way of perfection. Help us to trust in God's love and mercy, especially in times of spiritual darkness. By your intercession, may we be purified and transformed in God's love. Amen.",
+      "premium_content": true
+    },
+    "saint_058": {
+      "id": "saint_058",
+      "name": "Saint Patrick of Ireland",
+      "feast_day": "March 17",
+      "patronage": [
+        "Ireland",
+        "Engineers",
+        "Nigeria"
+      ],
+      "short_bio": "Apostle of Ireland, brought Christianity to the Irish people (Premium feature)",
+      "full_bio": "Saint Patrick (5th century) was a Romano-British Christian missionary who became the primary patron saint of Ireland. Kidnapped and enslaved in Ireland as a youth, he escaped, became a cleric, and later returned to evangelize the island. Using the three-leaf shamrock to explain the Holy Trinity, he converted thousands to Christianity. His life is a testament to forgiveness and missionary zeal. He is celebrated worldwide on his feast day, March 17th.",
+      "prayer": "Christ with me, Christ before me, Christ behind me, Christ in me, Christ beneath me, Christ above me, Christ on my right, Christ on my left, Christ when I lie down, Christ when I sit down, Christ when I arise, Christ in the heart of every man who thinks of me, Christ in the mouth of everyone who speaks of me, Christ in every eye that sees me, Christ in every ear that hears me. Amen.",
+      "premium_content": true
+    },
+    "saint_059": {
+      "id": "saint_059",
+      "name": "Saint Vincent de Paul",
+      "feast_day": "September 27",
+      "patronage": [
+        "Charities",
+        "Hospitals",
+        "Prisoners",
+        "Volunteers"
+      ],
+      "short_bio": "French priest dedicated to serving the poor (Premium feature)",
+      "full_bio": "Saint Vincent de Paul (1581-1660) was a French priest who dedicated his life to serving the poor and marginalized. He founded the Congregation of the Mission (Vincentians) and, with Saint Louise de Marillac, the Daughters of Charity. He organized lay people to serve the sick and poor, and his work became a model for modern social work. He is a powerful example of Christian charity and is a patron of charitable societies.",
+      "prayer": "O glorious Saint Vincent de Paul, you dedicated your life to the service of the poor. Help us to see the face of Christ in the suffering and to be agents of God's love in the world. Amen.",
+      "premium_content": true
+    },
+    "saint_060": {
+      "id": "saint_060",
+      "name": "Saint Louise de Marillac",
+      "feast_day": "March 15",
+      "patronage": [
+        "Social workers",
+        "Widows",
+        "Loss of parents"
+      ],
+      "short_bio": "Co-founder of the Daughters of Charity (Premium feature)",
+      "full_bio": "Saint Louise de Marillac (1591-1660) was a French widow who, with Saint Vincent de Paul, co-founded the Daughters of Charity. The Daughters of Charity were a new kind of religious community, with women living and working outside of a cloister to serve the poor. Louise was a brilliant organizer and a compassionate leader, and she helped to establish hospitals, orphanages, and schools. She is a patron of social workers and a model of Christian service.",
+      "prayer": "O Saint Louise de Marillac, who dedicated your life to the service of the poor and the marginalized, help us to be a voice for the voiceless and to work for justice and peace in the world. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_061": {
+      "id": "saint_061",
+      "name": "Saint Alphonsus Liguori",
+      "feast_day": "August 1",
+      "patronage": [
+        "Confessors",
+        "Moral theologians",
+        "Arthritis"
+      ],
+      "short_bio": "Bishop, Doctor of the Church, and founder of the Redemptorists (Premium feature)",
+      "full_bio": "Saint Alphonsus Liguori (1696-1787) was an Italian bishop, a moral theologian, and a Doctor of the Church. He founded the Redemptorists, a religious order dedicated to preaching missions and serving the poor. His writings on moral theology and prayer have had a lasting impact on the Church. He is known for his gentle and merciful approach to the sacrament of reconciliation and is a patron of confessors.",
+      "prayer": "O God, who filled Saint Alphonsus with a great love for souls and a desire to lead them to you, grant us the grace to be humble and merciful. By his intercession, may we be faithful to our vocation and a light to the world. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_062": {
+      "id": "saint_062",
+      "name": "Saint Elizabeth of Hungary",
+      "feast_day": "November 17",
+      "patronage": [
+        "Hospitals",
+        "Nurses",
+        "Charities"
+      ],
+      "short_bio": "Princess and Queen known for her charity (Premium feature)",
+      "full_bio": "Saint Elizabeth of Hungary (1207-1231) was a princess of Hungary and the wife of Louis IV of Thuringia. Despite her royal status, she dedicated her life to serving the poor and sick. She used her position to establish hospitals and provide care for the needy. After the death of her husband, she became a Third Order Franciscan and continued her charitable work. She is a powerful example of Christian charity and is a patron of hospitals and nurses.",
+      "prayer": "O God, by whose grace Saint Elizabeth of Hungary, filled with compassion for the poor, was a model of charity, grant us the grace to see your face in all who suffer and to serve them with a generous heart. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_063": {
+      "id": "saint_063",
+      "name": "Saint Philip Neri",
+      "feast_day": "May 26",
+      "patronage": [
+        "Humor",
+        "Rome",
+        "Joys",
+        "Clowns"
+      ],
+      "short_bio": "Italian priest known for his joy and humor (Premium feature)",
+      "full_bio": "Saint Philip Neri (1515-1595) was an Italian priest who was known for his wit, his humor, and his joyful spirit. He founded the Congregation of the Oratory, a religious community of secular priests and lay brothers. He was a master of spiritual direction and was known for his ability to inspire people to a deeper relationship with God through joy and laughter. He is a patron of humor and a model of Christian joy.",
+      "prayer": "O glorious Saint Philip Neri, you were a man of great joy and humor, and you led many to God through your love and laughter. Help us to find joy in our lives and to share it with others. By your intercession, may we be filled with the spirit of joy and be a light to the world. Amen.",
+      "premium_content": true
+    },
+    "saint_064": {
+      "id": "saint_064",
+      "name": "Saint Catherine Labouré",
+      "feast_day": "November 28",
+      "patronage": [
+        "Miraculous Medal",
+        "Elders",
+        "Bodily ills"
+      ],
+      "short_bio": "French nun who received the Miraculous Medal (Premium feature)",
+      "full_bio": "Saint Catherine Labouré (1806-1876) was a French nun of the Daughters of Charity who received apparitions of the Blessed Virgin Mary. During these apparitions, Mary revealed to her the design for the Miraculous Medal, which has been associated with countless miracles of conversion and healing. Catherine was a humble and obedient servant of God, and she lived a quiet life of prayer and service, keeping the apparitions a secret for much of her life.",
+      "prayer": "O Immaculate Virgin Mary, Mother of God, who appeared to Saint Catherine Labouré and gave her the Miraculous Medal, grant us the grace to wear it with faith and devotion. May we always be protected by your loving care and be a witness of your power and mercy. Amen.",
+      "premium_content": true
+    },
+    "saint_065": {
+      "id": "saint_065",
+      "name": "Saint John Vianney",
+      "feast_day": "August 4",
+      "patronage": [
+        "Parish priests",
+        "Confessors",
+        "Archdiocese of Omaha"
+      ],
+      "short_bio": "The Curé of Ars, a humble priest known for his holiness (Premium feature)",
+      "full_bio": "Saint John Vianney (1786-1859) was a French parish priest who was known for his humility, his holiness, and his dedication to the sacrament of reconciliation. He spent up to 16 hours a day in the confessional, and thousands of people would travel to his small parish of Ars to receive his spiritual counsel. He is a patron of parish priests and a powerful example of the transformative power of the priesthood.",
+      "prayer": "O holy Curé of Ars, you were a model of holiness and a true shepherd of souls. Help us to have a greater love for the Eucharist and the sacrament of reconciliation. By your intercession, may we be faithful to God's will and a light to the world. Amen.",
+      "premium_content": true
+    },
+    "saint_066": {
+      "id": "saint_066",
+      "name": "Saint Bernadette Soubirous",
+      "feast_day": "April 16",
+      "patronage": [
+        "Illness",
+        "Poor people",
+        "Shepherds"
+      ],
+      "short_bio": "Visionary of Lourdes, who saw the Blessed Virgin Mary (Premium feature)",
+      "full_bio": "Saint Bernadette Soubirous (1844-1879) was a young French peasant girl who experienced 18 apparitions of the Blessed Virgin Mary in Lourdes, France. She was instructed to dig for a spring, which became a source of miraculous healings for pilgrims. Despite facing skepticism and hardship, Bernadette remained humble and steadfast in her faith. She later joined the Sisters of Charity and lived a quiet life of prayer and suffering, offering it for the conversion of sinners.",
+      "prayer": "O Saint Bernadette, you who were chosen by God to receive the apparitions of the Blessed Virgin Mary, and who with a simple and pure heart obeyed her heavenly request, pray for us. Grant us a heart like yours, a simple and sincere love for God and our Lady, and the courage to endure trials with patience and trust. Amen.",
+      "premium_content": true
+    },
+    "saint_067": {
+      "id": "saint_067",
+      "name": "Saint Pio of Pietrelcina (Padre Pio)",
+      "feast_day": "September 23",
+      "patronage": [
+        "Civil defense volunteers",
+        "Adolescents",
+        "Stress relief"
+      ],
+      "short_bio": "Stigmatist, mystic, and confessor (Premium feature)",
+      "full_bio": "Saint Pio of Pietrelcina (1887-1968), known as Padre Pio, was an Italian Capuchin friar, priest, and mystic. He is famous for bearing the stigmata, the wounds of Christ, for most of his life. He was known for his piety, charity, and the spiritual counsel he offered through long hours in the confessional. Millions were touched by his holiness and the miracles attributed to his intercession.",
+      "prayer": "O glorious Saint Pio, you bore the wounds of Christ and carried the burdens of others in your heart. Teach us to pray with faith and to trust in God's mercy. Help us to see the presence of Jesus in the Eucharist and to love our neighbors with a generous heart. Through your prayers, may we find healing for our bodies and souls. Amen.",
+      "premium_content": true
+    },
+    "saint_068": {
+      "id": "saint_068",
+      "name": "Saint Maximilian Kolbe",
+      "feast_day": "August 14",
+      "patronage": [
+        "Drug addicts",
+        "Families",
+        "Journalists",
+        "Political prisoners"
+      ],
+      "short_bio": "Martyr of charity in Auschwitz (Premium feature)",
+      "full_bio": "Saint Maximilian Kolbe (1894-1941) was a Polish Conventual Franciscan friar who was martyred in the Auschwitz concentration camp during World War II. He volunteered to die in place of a stranger, a husband and father. Known for his devotion to the Immaculate Virgin Mary, he founded the Militia Immaculatae. His life was a testament to heroic charity and love, offering a powerful witness in one of history's darkest moments.",
+      "prayer": "O Saint Maximilian Kolbe, faithful follower of Saint Francis, inflamed with love for God and neighbor, you gave your life for a stranger. Inspire us with your spirit of selfless service. Help us to love the Immaculate Mary and to give ourselves completely to her, so that she may lead us to Christ. Through your intercession, may we have the courage to be witnesses of love and truth in the world. Amen.",
+      "premium_content": true
+    },
+    "saint_069": {
+      "id": "saint_069",
+      "name": "Saint Teresa of Calcutta",
+      "feast_day": "September 5",
+      "patronage": [
+        "World Youth Day",
+        "Missionaries of Charity"
+      ],
+      "short_bio": "Mother Teresa, foundress of the Missionaries of Charity (Premium feature)",
+      "full_bio": "Saint Teresa of Calcutta (1910-1997), known as Mother Teresa, was an Albanian-Indian Roman Catholic nun and missionary. She founded the Missionaries of Charity, a religious congregation dedicated to serving the 'poorest of the poor.' Her work among the sick and dying in the slums of Calcutta brought her international recognition, including the Nobel Peace Prize. She was a powerful witness to the dignity of every human life.",
+      "prayer": "St. Teresa of Calcutta, you allowed the thirsting love of Jesus on the Cross to become a living flame within you, and so became the light of His love to all. Obtain from the Heart of Jesus... (mention request). Teach me to allow Jesus to penetrate and possess my whole being so completely that my life, too, may radiate His light and love to others. Amen.",
+      "premium_content": true
+    },
+    "saint_070": {
+      "id": "saint_070",
+      "name": "Saint John Paul II",
+      "feast_day": "October 22",
+      "patronage": [
+        "World Youth Day",
+        "Families",
+        "Young Catholics"
+      ],
+      "short_bio": "Pope from Poland, world traveler, and champion of the youth (Premium feature)",
+      "full_bio": "Saint John Paul II (1920-2005), born Karol Wojtyła, was the head of the Catholic Church from 1978 until his death. His pontificate was one of the longest in history, marked by extensive travel, a focus on the youth through World Youth Day, and a significant role in the fall of communism in Eastern Europe. He was a prolific writer, a charismatic leader, and a powerful voice for human dignity and the new evangelization.",
+      "prayer": "O Blessed Trinity, we thank you for having given to the Church Pope John Paul II, and for having made him shine with your fatherly tenderness, the glory of the Cross of Christ and the splendor of the Spirit of love. He, trusting completely in your infinite mercy and in the maternal intercession of Mary, has shown himself in the likeness of Jesus the Good Shepherd and has pointed out to us the path of holiness as the supreme measure of the ordinary Christian life. Grant us, by his intercession, according to your will, the grace that we implore... (mention request). Amen.",
+      "premium_content": true
+    },
+    "saint_071": {
+      "id": "saint_071",
+      "name": "Saint Vincent de Paul",
+      "feast_day": "September 27",
+      "patronage": [
+        "Charities",
+        "Hospitals",
+        "Prisoners",
+        "Volunteers"
+      ],
+      "short_bio": "French priest dedicated to serving the poor (Premium feature)",
+      "full_bio": "Saint Vincent de Paul (1581-1660) was a French priest who dedicated his life to serving the poor and marginalized. He founded the Congregation of the Mission (Vincentians) and, with Saint Louise de Marillac, the Daughters of Charity. He organized lay people to serve the sick and poor, and his work became a model for modern social work. He is a powerful example of Christian charity and is a patron of charitable societies.",
+      "prayer": "O glorious Saint Vincent de Paul, you dedicated your life to the service of the poor. Help us to see the face of Christ in the suffering and to be agents of God's love in the world. Amen.",
+      "premium_content": true
+    },
+    "saint_072": {
+      "id": "saint_072",
+      "name": "Saint Louise de Marillac",
+      "feast_day": "March 15",
+      "patronage": [
+        "Social workers",
+        "Widows",
+        "Loss of parents"
+      ],
+      "short_bio": "Co-founder of the Daughters of Charity (Premium feature)",
+      "full_bio": "Saint Louise de Marillac (1591-1660) was a French widow who, with Saint Vincent de Paul, co-founded the Daughters of Charity. The Daughters of Charity were a new kind of religious community, with women living and working outside of a cloister to serve the poor. Louise was a brilliant organizer and a compassionate leader, and she helped to establish hospitals, orphanages, and schools. She is a patron of social workers and a model of Christian service.",
+      "prayer": "O Saint Louise de Marillac, who dedicated your life to the service of the poor and the marginalized, help us to be a voice for the voiceless and to work for justice and peace in the world. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_073": {
+      "id": "saint_073",
+      "name": "Saint Alphonsus Liguori",
+      "feast_day": "August 1",
+      "patronage": [
+        "Confessors",
+        "Moral theologians",
+        "Arthritis"
+      ],
+      "short_bio": "Bishop, Doctor of the Church, and founder of the Redemptorists (Premium feature)",
+      "full_bio": "Saint Alphonsus Liguori (1696-1787) was an Italian bishop, a moral theologian, and a Doctor of the Church. He founded the Redemptorists, a religious order dedicated to preaching missions and serving the poor. His writings on moral theology and prayer have had a lasting impact on the Church. He is known for his gentle and merciful approach to the sacrament of reconciliation and is a patron of confessors.",
+      "prayer": "O God, who filled Saint Alphonsus with a great love for souls and a desire to lead them to you, grant us the grace to be humble and merciful. By his intercession, may we be faithful to our vocation and a light to the world. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_074": {
+      "id": "saint_074",
+      "name": "Saint Elizabeth of Hungary",
+      "feast_day": "November 17",
+      "patronage": [
+        "Hospitals",
+        "Nurses",
+        "Charities"
+      ],
+      "short_bio": "Princess and Queen known for her charity (Premium feature)",
+      "full_bio": "Saint Elizabeth of Hungary (1207-1231) was a princess of Hungary and the wife of Louis IV of Thuringia. Despite her royal status, she dedicated her life to serving the poor and sick. She used her position to establish hospitals and provide care for the needy. After the death of her husband, she became a Third Order Franciscan and continued her charitable work. She is a powerful example of Christian charity and is a patron of hospitals and nurses.",
+      "prayer": "O God, by whose grace Saint Elizabeth of Hungary, filled with compassion for the poor, was a model of charity, grant us the grace to see your face in all who suffer and to serve them with a generous heart. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_075": {
+      "id": "saint_075",
+      "name": "Saint Philip Neri",
+      "feast_day": "May 26",
+      "patronage": [
+        "Humor",
+        "Rome",
+        "Joys",
+        "Clowns"
+      ],
+      "short_bio": "Italian priest known for his joy and humor (Premium feature)",
+      "full_bio": "Saint Philip Neri (1515-1595) was an Italian priest who was known for his wit, his humor, and his joyful spirit. He founded the Congregation of the Oratory, a religious community of secular priests and lay brothers. He was a master of spiritual direction and was known for his ability to inspire people to a deeper relationship with God through joy and laughter. He is a patron of humor and a model of Christian joy.",
+      "prayer": "O glorious Saint Philip Neri, you were a man of great joy and humor, and you led many to God through your love and laughter. Help us to find joy in our lives and to share it with others. By your intercession, may we be filled with the spirit of joy and be a light to the world. Amen.",
+      "premium_content": true
+    },
+    "saint_076": {
+      "id": "saint_076",
+      "name": "Saint Catherine Labouré",
+      "feast_day": "November 28",
+      "patronage": [
+        "Miraculous Medal",
+        "Elders",
+        "Bodily ills"
+      ],
+      "short_bio": "French nun who received the Miraculous Medal (Premium feature)",
+      "full_bio": "Saint Catherine Labouré (1806-1876) was a French nun of the Daughters of Charity who received apparitions of the Blessed Virgin Mary. During these apparitions, Mary revealed to her the design for the Miraculous Medal, which has been associated with countless miracles of conversion and healing. Catherine was a humble and obedient servant of God, and she lived a quiet life of prayer and service, keeping the apparitions a secret for much of her life.",
+      "prayer": "O Immaculate Virgin Mary, Mother of God, who appeared to Saint Catherine Labouré and gave her the Miraculous Medal, grant us the grace to wear it with faith and devotion. May we always be protected by your loving care and be a witness of your power and mercy. Amen.",
+      "premium_content": true
+    },
+    "saint_077": {
+      "id": "saint_077",
+      "name": "Saint John Vianney",
+      "feast_day": "August 4",
+      "patronage": [
+        "Parish priests",
+        "Confessors",
+        "Archdiocese of Omaha"
+      ],
+      "short_bio": "The Curé of Ars, a humble priest known for his holiness (Premium feature)",
+      "full_bio": "Saint John Vianney (1786-1859) was a French parish priest who was known for his humility, his holiness, and his dedication to the sacrament of reconciliation. He spent up to 16 hours a day in the confessional, and thousands of people would travel to his small parish of Ars to receive his spiritual counsel. He is a patron of parish priests and a powerful example of the transformative power of the priesthood.",
+      "prayer": "O holy Curé of Ars, you were a model of holiness and a true shepherd of souls. Help us to have a greater love for the Eucharist and the sacrament of reconciliation. By your intercession, may we be faithful to God's will and a light to the world. Amen.",
+      "premium_content": true
+    },
+    "saint_078": {
+      "id": "saint_078",
+      "name": "Saint Francis de Sales",
+      "feast_day": "January 24",
+      "patronage": [
+        "Journalists",
+        "Writers",
+        "Adult education"
+      ],
+      "short_bio": "Bishop and Doctor of the Church, known for spiritual guidance (Premium feature)",
+      "full_bio": "Saint Francis de Sales (1567-1622) was a French bishop and a Doctor of the Church. He is known for his gentle approach to spiritual direction and for his writings on the spiritual life, most notably 'Introduction to the Devout Life' and 'Treatise on the Love of God.' He co-founded the Order of the Visitation of Holy Mary with Saint Jane Frances de Chantal. He is the patron saint of writers and journalists.",
+      "prayer": "Lord, grant that I may not so much seek to be consoled as to console; to be understood as to understand; to be loved as to love; for it is in giving that we receive, it is in pardoning that we are pardoned, and it is in dying that we are born to eternal life. Amen.",
+      "premium_content": true
+    },
+    "saint_079": {
+      "id": "saint_079",
+      "name": "Saint Anthony of Padua",
+      "feast_day": "June 13",
+      "patronage": [
+        "Lost items",
+        "Poor people",
+        "Travelers",
+        "Portugal"
+      ],
+      "short_bio": "Franciscan friar known for miracles and finding lost things (Premium feature)",
+      "full_bio": "Saint Anthony of Padua (1195-1231) was a Portuguese Catholic priest and friar of the Franciscan Order. Known for his powerful preaching, extensive knowledge of scripture, and undying love and devotion to the poor and the sick, he was one of the most quickly canonized saints in church history. Saint Anthony is especially invoked and venerated all over the world as the patron saint for the recovery of lost items and is credited with many miracles involving lost people, lost things and even lost spiritual goods.",
+      "prayer": "O Holy St. Anthony, gentlest of Saints, your love for God and Charity for His creatures, made you worthy, when on earth, to possess miraculous powers. Encouraged by this thought, I implore you to obtain for me... (request). O gentle and loving St. Anthony, whose heart was ever full of human sympathy, whisper my petition into the ears of the sweet Infant Jesus, who loved to be folded in your arms; and the gratitude of my heart will ever be yours. Amen.",
+      "premium_content": true
+    },
+    "saint_080": {
+      "id": "saint_080",
+      "name": "Saint Thérèse of Lisieux",
+      "feast_day": "October 1",
+      "patronage": [
+        "Missions",
+        "Aviators",
+        "AIDS sufferers",
+        "Florists"
+      ],
+      "short_bio": "The Little Flower, Doctor of the Church known for 'little way' (Premium feature)",
+      "full_bio": "Saint Thérèse of Lisieux (1873-1897), also known as the 'Little Flower,' was a French Carmelite nun who became one of the most popular saints of modern times. Despite dying at the young age of 24, her autobiography 'Story of a Soul' has touched millions of lives. She developed what she called the 'little way' - a spirituality of trust and surrender to God's mercy that emphasized doing small things with great love. She was declared a Doctor of the Church in 1997.",
+      "prayer": "O Little Thérèse of the Child Jesus, please pick for me a rose from the heavenly garden and send it to me as a message of love. O Little Flower of Jesus, ask God today to grant the favors I now place with confidence in your hands... (mention specific request). St. Thérèse, help me to always believe as you did, in God's great love for me, so that I might imitate your 'Little Way' each day. Amen.",
+      "premium_content": true
+    },
+    "saint_081": {
+      "id": "saint_081",
+      "name": "Saint Francis of Assisi",
+      "feast_day": "October 4",
+      "patronage": [
+        "Animals",
+        "Environment",
+        "Italy",
+        "Peace"
+      ],
+      "short_bio": "Founder of the Franciscan order, lover of nature and peace (Premium feature)",
+      "full_bio": "Saint Francis of Assisi (1181-1226) was an Italian Catholic friar and mystic who founded the Franciscan order. Born into a wealthy merchant family, Francis experienced a profound conversion that led him to embrace poverty and dedicate his life to serving God and the poor. He is known for his deep love of nature, his commitment to peace, and his devotion to the Cross of Christ. Francis received the stigmata, the wounds of Christ, making him the first recorded person to bear these marks. He is the patron saint of animals, the environment, and Italy.",
+      "prayer": "Most High, glorious God, enlighten the darkness of my heart and give me true faith, certain hope, and perfect charity, sense and knowledge, Lord, that I may carry out Your holy and true command. Amen.",
+      "premium_content": true
+    },
+    "saint_082": {
+      "id": "saint_082",
+      "name": "Saint Joseph",
+      "feast_day": "March 19",
+      "patronage": [
+        "Workers",
+        "Fathers",
+        "Carpenters",
+        "Universal Church"
+      ],
+      "short_bio": "Foster father of Jesus and spouse of the Blessed Virgin Mary (Premium feature)",
+      "full_bio": "Saint Joseph was the earthly father of Jesus Christ and the spouse of the Blessed Virgin Mary. A carpenter by trade, he was chosen by God to care for and protect the Holy Family. Known for his righteousness, humility, and obedience to God's will, Joseph is venerated as the patron saint of workers, fathers, and the Universal Church. His feast day is celebrated on March 19th, and he is also honored on May 1st as Saint Joseph the Worker. Joseph's silent strength and faithful service make him a model for all Christians, especially fathers and workers.",
+      "prayer": "Saint Joseph, guardian of Jesus and chaste spouse of Mary, you passed your life in perfect fulfillment of duty. You supported the holy family of Nazareth with the work of your hands. Kindly protect those who trustingly turn to you. You know their aspirations, their hardships, their hopes; and they turn to you because they know you will understand and protect them. You too have known trial, labor and weariness. But, even amid the worries of material life, your soul remained full of the deepest peace and sang out in true joy because of your intimate closeness with the Son of God entrusted to your care, and with Mary, his tender Mother. Amen.",
+      "premium_content": true
+    },
+    "saint_083": {
+      "id": "saint_083",
+      "name": "Saint John the Baptist",
+      "feast_day": "June 24",
+      "patronage": [
+        "Baptism",
+        "Jordan",
+        "Farriers",
+        "Printers"
+      ],
+      "short_bio": "Forerunner of Christ, baptizer in the Jordan River (Premium feature)",
+      "full_bio": "Saint John the Baptist was the forerunner of Jesus Christ, born to Elizabeth and Zechariah as prophesied by the angel Gabriel. He lived an ascetic life in the desert, preaching repentance and baptizing people in the Jordan River. John had the honor of baptizing Jesus, during which the Holy Spirit descended like a dove and the Father's voice was heard. He courageously spoke truth to power, which led to his imprisonment and eventual beheading by King Herod. Jesus called him the greatest born of women.",
+      "prayer": "O most zealous Saint John the Baptist, greatest prophet among those born of woman, although you were sanctified in your mother's womb and did lead a most innocent life, nevertheless you did constantly practice penance to give us an example of that virtue. Obtain for us of the Almighty the grace to be penitent for our sins and to bring forth worthy fruits of penance. Amen.",
+      "premium_content": true
+    },
+    "saint_084": {
+      "id": "saint_084",
+      "name": "Saint Augustine of Hippo",
+      "feast_day": "August 28",
+      "patronage": [
+        "Theologians",
+        "Brewers",
+        "Printers"
+      ],
+      "short_bio": "Doctor of the Church, influential theologian and philosopher (Premium feature)",
+      "full_bio": "Saint Augustine (354-430) was a bishop of Hippo in North Africa and one of the most important Church Fathers. After a youth of loose living and heretical beliefs, he converted to Christianity through the prayers of his mother, Saint Monica. His extensive writings, including 'Confessions' and 'City of God,' have profoundly shaped Western theology and philosophy. He was a brilliant defender of the faith and is recognized as a Doctor of the Church.",
+      "prayer": "Late have I loved you, O Beauty ever ancient, ever new, late have I loved you! You were within me, but I was outside, and it was there that I searched for you. In my unloveliness I plunged into the lovely things which you created. You were with me, but I was not with you. You called, you shouted, and you broke through my deafness. You flashed, you shone, and you dispelled my blindness. You breathed your fragrance on me; I drew in breath and now I pant for you. I have tasted you, now I hunger and thirst for more. You touched me, and I burned for your peace. Amen.",
+      "premium_content": true
+    },
+    "saint_085": {
+      "id": "saint_085",
+      "name": "Saint Joan of Arc",
+      "feast_day": "May 30",
+      "patronage": [
+        "France",
+        "Soldiers",
+        "Martyrs"
+      ],
+      "short_bio": "The Maid of Orléans, visionary and military leader (Premium feature)",
+      "full_bio": "Saint Joan of Arc (c. 1412-1431) was a young French peasant girl who, inspired by divine visions, led the French army to several important victories during the Hundred Years' War. Her leadership was instrumental in the coronation of Charles VII. She was later captured, tried for heresy by a pro-English court, and burned at the stake at the age of 19. Twenty-five years later, she was posthumously exonerated and declared a martyr. She is a national heroine of France.",
+      "prayer": "O glorious Saint Joan of Arc, filled with compassion for those who invoke you, with love for those who suffer, heavily laden with the weight of my troubles, I kneel at your feet and humbly beg you to take my present case under your special protection... (mention request). Grant me the courage and strength I need to face my challenges. Amen.",
+      "premium_content": true
+    },
+    "saint_086": {
+      "id": "saint_086",
+      "name": "Saint Patrick",
+      "feast_day": "March 17",
+      "patronage": [
+        "Ireland",
+        "Engineers",
+        "Nigeria"
+      ],
+      "short_bio": "Apostle of Ireland, brought Christianity to the Irish people (Premium feature)",
+      "full_bio": "Saint Patrick (5th century) was a Romano-British Christian missionary who became the primary patron saint of Ireland. Kidnapped and enslaved in Ireland as a youth, he escaped, became a cleric, and later returned to evangelize the island. Using the three-leaf shamrock to explain the Holy Trinity, he converted thousands to Christianity. His life is a testament to forgiveness and missionary zeal.",
+      "prayer": "Christ with me, Christ before me, Christ behind me, Christ in me, Christ beneath me, Christ above me, Christ on my right, Christ on my left, Christ when I lie down, Christ when I sit down, Christ when I arise, Christ in the heart of every man who thinks of me, Christ in the mouth of everyone who speaks of me, Christ in every eye that sees me, Christ in every ear that hears me. Amen.",
+      "premium_content": true
+    },
+    "saint_087": {
+      "id": "saint_087",
+      "name": "Saint Thomas Aquinas",
+      "feast_day": "January 28",
+      "patronage": [
+        "Universities",
+        "Students",
+        "Theologians",
+        "Catholic schools"
+      ],
+      "short_bio": "Dominican friar, philosopher, and Doctor of the Church (Premium feature)",
+      "full_bio": "Saint Thomas Aquinas (1225-1274) was an Italian Dominican friar, philosopher, and theologian of immense influence. He is the foremost classical proponent of natural theology and the father of Thomism. His most famous work, the 'Summa Theologica,' is a masterpiece of systematic theology that reconciles faith and reason. He is honored as a Doctor of the Church and is considered one of the greatest thinkers in Catholic history.",
+      "prayer": "Grant me, O Lord my God, a mind to know you, a heart to seek you, wisdom to find you, a life to please you, perseverance to trust in you, and a hope of finally embracing you. Amen.",
+      "premium_content": true
+    },
+    "saint_088": {
+      "id": "saint_088",
+      "name": "Saint Catherine of Siena",
+      "feast_day": "April 29",
+      "patronage": [
+        "Europe",
+        "Italy",
+        "Nurses"
+      ],
+      "short_bio": "Mystic, activist, and Doctor of the Church (Premium feature)",
+      "full_bio": "Saint Catherine of Siena (1347-1380) was a Dominican tertiary, mystic, and one of the most influential figures of her time. Despite having no formal education, she was a powerful writer and political activist, even persuading Pope Gregory XI to return the papacy to Rome from Avignon. Her spiritual writings, especially 'The Dialogue,' are considered classics. She was declared a Doctor of the Church and is a co-patron saint of Europe.",
+      "prayer": "Holy Spirit, come into my heart; draw it to Thee by Thy power, O my God, and grant me charity with filial fear. Preserve me, O beautiful love, from every evil thought; warm me, inflame me with Thy dear love, and every pain will seem light to me. My Father, my sweet Lord, help me in all my actions. Jesus, love, Jesus, love. Amen.",
+      "premium_content": true
+    },
+    "saint_089": {
+      "id": "saint_089",
+      "name": "Saint Jude Thaddeus",
+      "feast_day": "October 28",
+      "patronage": [
+        "Lost causes",
+        "Desperate situations",
+        "Hospitals"
+      ],
+      "short_bio": "Apostle of Jesus, patron of hopeless cases (Premium feature)",
+      "full_bio": "Saint Jude was one of the Twelve Apostles of Jesus. He is traditionally identified as the author of the Epistle of Jude, a short letter in the New Testament. He is invoked in desperate situations because his New Testament letter stresses that the faithful should persevere in the environment of harsh, difficult circumstances, just as their forefathers had done before them. Therefore, he is the patron saint of lost causes and desperate situations.",
+      "prayer": "O most holy apostle, Saint Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally, as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone. Make use, I implore you, of that particular privilege given to you, to bring visible and speedy help where help is almost despaired of. Come to my assistance in this great need that I may receive the consolation and help of heaven in all my necessities, tribulations, and sufferings, particularly... (make your request here) and that I may praise God with you and all the elect forever. Amen.",
+      "premium_content": true
+    },
+    "saint_090": {
+      "id": "saint_090",
+      "name": "Saint Cecilia",
+      "feast_day": "November 22",
+      "patronage": [
+        "Musicians",
+        "Hymns",
+        "Poets",
+        "Singers"
+      ],
+      "short_bio": "Virgin martyr, patroness of music (Premium feature)",
+      "full_bio": "Saint Cecilia is a Roman martyr who lived in the 2nd or 3rd century. According to legend, she heard heavenly music in her heart when she was forced to marry a pagan nobleman. She is one of the most famous virgin martyrs of the early Church and is venerated as the patroness of musicians. Her story tells of her converting her husband and his brother, and their subsequent martyrdom for their faith.",
+      "prayer": "O glorious Saint Cecilia, who, through your faith and love for Jesus, won the martyr's crown, help us to be faithful in our love for God. May our hearts, like yours, sing praises to the Lord. Through your intercession, may we use the gifts of music and art to glorify God and lead others to Him. Amen.",
+      "premium_content": true
+    },
+    "saint_091": {
+      "id": "saint_091",
+      "name": "Saint Maximilian Kolbe",
+      "feast_day": "August 14",
+      "patronage": [
+        "Drug addicts",
+        "Families",
+        "Journalists",
+        "Political prisoners"
+      ],
+      "short_bio": "Martyr of charity in Auschwitz (Premium feature)",
+      "full_bio": "Saint Maximilian Kolbe (1894-1941) was a Polish Conventual Franciscan friar who was martyred in the Auschwitz concentration camp during World War II. He volunteered to die in place of a stranger, a husband and father. Known for his devotion to the Immaculate Virgin Mary, he founded the Militia Immaculatae. His life was a testament to heroic charity and love, offering a powerful witness in one of history's darkest moments.",
+      "prayer": "O Saint Maximilian Kolbe, faithful follower of Saint Francis, inflamed with love for God and neighbor, you gave your life for a stranger. Inspire us with your spirit of selfless service. Help us to love the Immaculate Mary and to give ourselves completely to her, so that she may lead us to Christ. Through your intercession, may we have the courage to be witnesses of love and truth in the world. Amen.",
+      "premium_content": true
+    },
+    "saint_092": {
+      "id": "saint_092",
+      "name": "Saint Padre Pio",
+      "feast_day": "September 23",
+      "patronage": [
+        "Civil defense volunteers",
+        "Adolescents",
+        "Stress relief"
+      ],
+      "short_bio": "Stigmatist, mystic, and confessor (Premium feature)",
+      "full_bio": "Saint Pio of Pietrelcina (1887-1968), known as Padre Pio, was an Italian Capuchin friar, priest, and mystic. He is famous for bearing the stigmata, the wounds of Christ, for most of his life. He was known for his piety, charity, and the spiritual counsel he offered through long hours in the confessional. Millions were touched by his holiness and the miracles attributed to his intercession.",
+      "prayer": "O glorious Saint Pio, you bore the wounds of Christ and carried the burdens of others in your heart. Teach us to pray with faith and to trust in God's mercy. Help us to see the presence of Jesus in the Eucharist and to love our neighbors with a generous heart. Through your prayers, may we find healing for our bodies and souls. Amen.",
+      "premium_content": true
+    },
+    "saint_093": {
+      "id": "saint_093",
+      "name": "Saint John Paul II",
+      "feast_day": "October 22",
+      "patronage": [
+        "World Youth Day",
+        "Families",
+        "Young Catholics"
+      ],
+      "short_bio": "Pope from Poland, world traveler, and champion of the youth (Premium feature)",
+      "full_bio": "Saint John Paul II (1920-2005), born Karol Wojtyła, was the head of the Catholic Church from 1978 until his death. His pontificate was one of the longest in history, marked by extensive travel, a focus on the youth through World Youth Day, and a significant role in the fall of communism in Eastern Europe. He was a prolific writer, a charismatic leader, and a powerful voice for human dignity and the new evangelization.",
+      "prayer": "O Blessed Trinity, we thank you for having given to the Church Pope John Paul II, and for having made him shine with your fatherly tenderness, the glory of the Cross of Christ and the splendor of the Spirit of love. He, trusting completely in your infinite mercy and in the maternal intercession of Mary, has shown himself in the likeness of Jesus the Good Shepherd and has pointed out to us the path of holiness as the supreme measure of the ordinary Christian life. Grant us, by his intercession, according to your will, the grace that we implore... (mention request). Amen.",
+      "premium_content": true
+    },
+    "saint_094": {
+      "id": "saint_094",
+      "name": "Saint Teresa of Calcutta",
+      "feast_day": "September 5",
+      "patronage": [
+        "World Youth Day",
+        "Missionaries of Charity"
+      ],
+      "short_bio": "Mother Teresa, foundress of the Missionaries of Charity (Premium feature)",
+      "full_bio": "Saint Teresa of Calcutta (1910-1997), known as Mother Teresa, was an Albanian-Indian Roman Catholic nun and missionary. She founded the Missionaries of Charity, a religious congregation dedicated to serving the 'poorest of the poor.' Her work among the sick and dying in the slums of Calcutta brought her international recognition, including the Nobel Peace Prize. She was a powerful witness to the dignity of every human life.",
+      "prayer": "St. Teresa of Calcutta, you allowed the thirsting love of Jesus on the Cross to become a living flame within you, and so became the light of His love to all. Obtain from the Heart of Jesus... (mention request). Teach me to allow Jesus to penetrate and possess my whole being so completely that my life, too, may radiate His light and love to others. Amen.",
+      "premium_content": true
+    },
+    "saint_095": {
+      "id": "saint_095",
+      "name": "Saint Ignatius of Loyola",
+      "feast_day": "July 31",
+      "patronage": [
+        "Jesuits (Society of Jesus)",
+        "Soldiers",
+        "Spiritual retreats"
+      ],
+      "short_bio": "Founder of the Jesuits, master of spiritual discernment (Premium feature)",
+      "full_bio": "Saint Ignatius of Loyola (1491-1556) was a Spanish knight who, after being wounded in battle, underwent a profound spiritual conversion. He founded the Society of Jesus (the Jesuits) and became its first Superior General. His 'Spiritual Exercises' is a classic work on spiritual discernment and has guided countless souls in finding God's will. He emphasized education and missionary work 'for the greater glory of God.'",
+      "prayer": "Dearest Lord, teach me to be generous. Teach me to serve you as you deserve; to give and not to count the cost, to fight and not to heed the wounds, to toil and not to seek for rest, to labor and not to ask for reward, save that of knowing that I do your will. Amen.",
+      "premium_content": true
+    },
+    "saint_096": {
+      "id": "saint_096",
+      "name": "Saint Dominic",
+      "feast_day": "August 8",
+      "patronage": [
+        "Dominican Republic",
+        "Astronomers",
+        "Falsely accused people"
+      ],
+      "short_bio": "Founder of the Order of Preachers (Dominicans) (Premium feature)",
+      "full_bio": "Saint Dominic (1170-1221) was a Spanish priest who founded the Order of Preachers, also known as the Dominicans. He saw the need for an order dedicated to preaching the truth of the Gospel to combat heresy. Tradition holds that the Blessed Virgin Mary appeared to him and gave him the Rosary as a tool for preaching and prayer. The Dominicans are known for their commitment to study, preaching, and contemplation.",
+      "prayer": "May God the Father, who made us, bless us. May God the Son, who redeemed us, send healing into our midst. May God the Holy Spirit, who gives us life, move within us. May God give us eyes to see to God, ears to hear God, and hands to bring God’s work into the world. Amen.",
+      "premium_content": true
+    },
+    "saint_097": {
+      "id": "saint_097",
+      "name": "Saint Clare of Assisi",
+      "feast_day": "August 11",
+      "patronage": [
+        "Television",
+        "Eye disorders",
+        "Goldsmiths"
+      ],
+      "short_bio": "Follower of St. Francis, foundress of the Poor Clares (Premium feature)",
+      "full_bio": "Saint Clare of Assisi (1194-1253) was one of the first followers of Saint Francis of Assisi. Inspired by his preaching, she left her wealthy family to live a life of poverty and prayer. She founded the Order of Poor Ladies (now the Poor Clares), a monastic religious order for women in the Franciscan tradition. She is known for her deep faith in the Eucharist, once repelling an army by holding up the Blessed Sacrament.",
+      "prayer": "O glorious Saint Clare, you who followed Christ in poverty and joy, obtain for us the grace to detach our hearts from earthly things and to seek the treasures of heaven. Help us to love the Eucharist and to find our strength in Jesus. Through your intercession, may we live simple and holy lives, trusting in God's providence. Amen.",
+      "premium_content": true
+    },
+    "saint_098": {
+      "id": "saint_098",
+      "name": "Saint Benedict of Nursia",
+      "feast_day": "July 11",
+      "patronage": [
+        "Europe",
+        "Monks",
+        "Students"
+      ],
+      "short_bio": "Father of Western Monasticism, author of the Rule of St. Benedict (Premium feature)",
+      "full_bio": "Saint Benedict of Nursia (c. 480-547) is considered the father of Western monasticism. He established a monastery at Monte Cassino, Italy, where he wrote his famous 'Rule,' a guide for monastic life that balances prayer, work, and study. The Rule of Saint Benedict became the foundation for monastic communities throughout Europe for centuries. His motto was 'Ora et Labora' (Pray and Work).",
+      "prayer": "O gracious and holy Father, grant us the wisdom to discover you, the intelligence to understand you, the diligence to seek after you, the patience to wait for you, eyes to behold you, a heart to meditate upon you, and a life to proclaim you, through the power of the Spirit of Jesus, our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_099": {
+      "id": "saint_099",
+      "name": "Saint Scholastica",
+      "feast_day": "February 10",
+      "patronage": [
+        "Nuns",
+        "Convulsive children"
+      ],
+      "short_bio": "Twin sister of St. Benedict, foundress of Benedictine nuns (Premium feature)",
+      "full_bio": "Saint Scholastica (c. 480-543) was the twin sister of Saint Benedict of Nursia. She dedicated her life to God and founded a community of women religious near her brother's monastery at Monte Cassino, following the Benedictine Rule. She is a model of deep faith and sisterly love. A famous story tells of her praying for a storm so she could continue a spiritual conversation with her brother, a prayer which God granted.",
+      "prayer": "O God, to show us the innocence of our life, you made the soul of your virgin Saint Scholastica soar to heaven like a dove in flight. Grant, we pray, that by her merits and her prayers we may so live in innocence as to attain to joys everlasting. This we ask through Jesus Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_100": {
+      "id": "saint_100",
+      "name": "Saint Gregory the Great",
+      "feast_day": "September 3",
+      "patronage": [
+        "Musicians",
+        "Singers",
+        "Students",
+        "Teachers"
+      ],
+      "short_bio": "Pope, Doctor of the Church, and reformer (Premium feature)",
+      "full_bio": "Saint Gregory the Great (c. 540-604) was Pope from 590 until his death. He is known for his extensive writings, his efforts to reform the liturgy, and his promotion of missionary work, most famously sending Saint Augustine of Canterbury to evangelize England. Gregorian Chant is named in his honor. He was a humble and effective leader who strengthened the papacy and had a lasting impact on the Church.",
+      "prayer": "O God, who care for your people with gentleness and rule them in love, through the intercession of Pope Saint Gregory, give a spirit of wisdom to those to whom you have given authority to govern, that the flourishing of a holy flock may become the eternal joy of its shepherds. Through our Lord Jesus Christ, your Son. Amen.",
+      "premium_content": true
+    },
+    "saint_101": {
+      "id": "saint_101",
+      "name": "Saint Jerome",
+      "feast_day": "September 30",
+      "patronage": [
+        "Librarians",
+        "Scholars",
+        "Translators",
+        "Archaeologists"
+      ],
+      "short_bio": "Priest, confessor, and Doctor of the Church (Premium feature)",
+      "full_bio": "Saint Jerome (c. 347-420) was a priest, theologian, and historian, best known for translating the Bible from its original languages into Latin. This translation, known as the Vulgate, became the official Latin Bible of the Catholic Church for centuries. He was a brilliant but often cantankerous scholar who spent many years as a hermit in the desert. He is a Doctor of the Church, recognized for his immense contribution to biblical scholarship.",
+      "prayer": "O Lord, you gave your priest Saint Jerome a great love for Holy Scripture. May your people be nourished more abundantly with your word and find in it the source of life. Through our Lord Jesus Christ, your Son. Amen.",
+      "premium_content": true
+    },
+    "saint_102": {
+      "id": "saint_102",
+      "name": "Saint Ambrose",
+      "feast_day": "December 7",
+      "patronage": [
+        "Milan",
+        "Beekeepers",
+        "Candle makers"
+      ],
+      "short_bio": "Bishop of Milan, Doctor of the Church (Premium feature)",
+      "full_bio": "Saint Ambrose (c. 340-397) was the Bishop of Milan and one of the four original Doctors of the Church. He was a powerful preacher and a staunch defender of orthodoxy against Arianism. He is famous for his influence on Saint Augustine, whom he baptized. Ambrose was a courageous leader who stood up to emperors and championed the independence of the Church.",
+      "prayer": "O God, who made the Bishop Saint Ambrose a teacher of the Catholic faith and a model of apostolic courage, raise up in your Church men after your own heart to govern her with courage and wisdom. Through our Lord Jesus Christ, your Son. Amen.",
+      "premium_content": true
+    },
+    "saint_103": {
+      "id": "saint_103",
+      "name": "Saint Nicholas",
+      "feast_day": "December 6",
+      "patronage": [
+        "Children",
+        "Sailors",
+        "Merchants",
+        "Archers"
+      ],
+      "short_bio": "Bishop known for his generosity and gift-giving (Premium feature)",
+      "full_bio": "Saint Nicholas of Myra was a 4th-century Christian bishop of Greek descent from the maritime city of Myra in Asia Minor. He was known for his piety and zeal, and especially for his generosity. Many legends surround him, including the story of him secretly leaving bags of gold for three poor sisters to save them from a life of prostitution. This act of secret gift-giving is the origin of the modern-day Santa Claus tradition.",
+      "prayer": "O God, who didst adorn the holy Bishop Nicholas with countless miracles: grant, we beseech Thee, that by his merits and prayers we may be delivered from the fires of hell. Through Jesus Christ, our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_104": {
+      "id": "saint_104",
+      "name": "Saint Francis Xavier",
+      "feast_day": "December 3",
+      "patronage": [
+        "Missionaries",
+        "Sailors",
+        "Naval officers"
+      ],
+      "short_bio": "Jesuit missionary, co-founder of the Society of Jesus (Premium feature)",
+      "full_bio": "Saint Francis Xavier (1506-1552) was a Spanish Jesuit missionary and one of the co-founders of the Society of Jesus. He was a close companion of Saint Ignatius of Loyola and dedicated his life to evangelizing in Asia, particularly in India and Japan. Known for his incredible energy and commitment to spreading the Gospel, he is one of the most prolific missionaries in history and a patron of missions.",
+      "prayer": "O God, who by the preaching and miracles of Saint Francis Xavier did bring many peoples to thee, grant that through his intercession we may imitate his virtues and be filled with the same zeal for the salvation of souls. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_105": {
+      "id": "saint_105",
+      "name": "Saint Pio of Pietrelcina (Padre Pio)",
+      "feast_day": "September 23",
+      "patronage": [
+        "Civil defense volunteers",
+        "Adolescents",
+        "Stress relief"
+      ],
+      "short_bio": "Stigmatist, mystic, and confessor (Premium feature)",
+      "full_bio": "Saint Pio of Pietrelcina (1887-1968), known as Padre Pio, was an Italian Capuchin friar, priest, and mystic. He is famous for bearing the stigmata, the wounds of Christ, for most of his life. He was known for his piety, charity, and the spiritual counsel he offered through long hours in the confessional. Millions were touched by his holiness and the miracles attributed to his intercession.",
+      "prayer": "O glorious Saint Pio, you bore the wounds of Christ and carried the burdens of others in your heart. Teach us to pray with faith and to trust in God's mercy. Help us to see the presence of Jesus in the Eucharist and to love our neighbors with a generous heart. Through your prayers, may we find healing for our bodies and souls. Amen.",
+      "premium_content": true
+    },
+    "saint_106": {
+      "id": "saint_106",
+      "name": "Saint Andrew the Apostle",
+      "feast_day": "November 30",
+      "patronage": [
+        "Fishermen",
+        "Scotland",
+        "Greece",
+        "Russia"
+      ],
+      "short_bio": "Brother of St. Peter, first-called Apostle of Jesus (Premium feature)",
+      "full_bio": "Saint Andrew was the brother of Saint Peter and one of the first apostles called by Jesus. A fisherman by trade, he immediately left his nets to follow the Lord. He is traditionally credited with introducing his brother, Peter, to Jesus. Andrew is said to have preached the Gospel in Greece and was martyred on an X-shaped cross, which is now a symbol associated with him. He is the patron saint of Scotland, Greece, and Russia.",
+      "prayer": "O Lord, you called Saint Andrew to be one of the first to follow your Son. Grant that through his intercession, we may be eager to share the good news of Christ with others and follow him with courage and faith. Through our Lord Jesus Christ, your Son. Amen.",
+      "premium_content": true
+    },
+    "saint_107": {
+      "id": "saint_107",
+      "name": "Saint Agnes",
+      "feast_day": "January 21",
+      "patronage": [
+        "Chastity",
+        "Girls",
+        "Gardeners"
+      ],
+      "short_bio": "Young virgin martyr of the early Church (Premium feature)",
+      "full_bio": "Saint Agnes was a 13-year-old Roman virgin martyr who was killed during the reign of Emperor Diocletian. Refusing to renounce her faith or marry a pagan nobleman, she was sentenced to a brothel and then executed. Her courage and unwavering faith in the face of persecution have made her one of the most revered virgin martyrs. She is a symbol of purity and steadfastness in faith.",
+      "prayer": "O God, whose chosen virgin, blessed Agnes, won the martyr's crown; grant, we beseech Thee, that as we honor her by our praise, we may be helped by her intercession. Through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee in the unity of the Holy Spirit, God, forever and ever. Amen.",
+      "premium_content": true
+    },
+    "saint_108": {
+      "id": "saint_108",
+      "name": "Saint Thomas More",
+      "feast_day": "June 22",
+      "patronage": [
+        "Statesmen",
+        "Lawyers",
+        "Politicians"
+      ],
+      "short_bio": "Martyr and statesman who opposed Henry VIII (Premium feature)",
+      "full_bio": "Saint Thomas More (1478-1535) was an English lawyer, statesman, and philosopher. He served as Lord High Chancellor of England under King Henry VIII. A devout Catholic, he refused to acknowledge the king as the supreme head of the Church of England, which led to his execution for treason. He is revered as a martyr and a model of integrity and conscience, famously saying, 'I die the King's good servant, but God's first.'",
+      "prayer": "Grant me, O Lord, a good digestion, and also something to digest. Grant me a healthy body, and the sense to keep it that way. Grant me a healthy mind, so that I may be able to turn my thoughts and prayers into something good and true. Amen.",
+      "premium_content": true
+    },
+    "saint_109": {
+      "id": "saint_109",
+      "name": "Saint Rita of Cascia",
+      "feast_day": "May 22",
+      "patronage": [
+        "Impossible causes",
+        "Abused wives",
+        "Parenthood"
+      ],
+      "short_bio": "Patroness of impossible causes and desperate situations (Premium feature)",
+      "full_bio": "Saint Rita of Cascia (1381-1457) was an Italian widow and Augustinian nun. After enduring an abusive marriage and the death of her husband and sons, she entered a convent and dedicated her life to God. She is known as the patroness of impossible causes due to her remarkable life and the miracles attributed to her intercession. A stigmatic, she bore a wound on her forehead that resembled a thorn from Christ's crown.",
+      "prayer": "O Holy Patroness of those in need, Saint Rita, whose prayers before God are most powerful, help me in my present necessity. O powerful Saint, in a time of great darkness and despair, you were a light and a hope to many. Obtain for me from God the grace I need... (mention request). Amen.",
+      "premium_content": true
+    },
+    "saint_110": {
+      "id": "saint_110",
+      "name": "Saint Francis de Sales",
+      "feast_day": "January 24",
+      "patronage": [
+        "Journalists",
+        "Writers",
+        "Adult education"
+      ],
+      "short_bio": "Bishop and Doctor of the Church, known for spiritual guidance (Premium feature)",
+      "full_bio": "Saint Francis de Sales (1567-1622) was a French bishop and a Doctor of the Church. He is known for his gentle approach to spiritual direction and for his writings on the spiritual life, most notably 'Introduction to the Devout Life' and 'Treatise on the Love of God.' He co-founded the Order of the Visitation of Holy Mary with Saint Jane Frances de Chantal. He is the patron saint of writers and journalists.",
+      "prayer": "Lord, grant that I may not so much seek to be consoled as to console; to be understood as to understand; to be loved as to love; for it is in giving that we receive, it is in pardoning that we are pardoned, and it is in dying that we are born to eternal life. Amen.",
+      "premium_content": true
+    },
+    "saint_111": {
+      "id": "saint_111",
+      "name": "Saint John Bosco",
+      "feast_day": "January 31",
+      "patronage": [
+        "Youth",
+        "Schoolchildren",
+        "Magicians",
+        "Editors"
+      ],
+      "short_bio": "Italian priest and educator, founder of the Salesians (Premium feature)",
+      "full_bio": "Saint John Bosco (1815-1888), known affectionately as 'Don Bosco,' was an Italian Roman Catholic priest and educator who dedicated his life to the education and welfare of street children, juvenile delinquents, and other disadvantaged youth. He founded the Salesian Society, a religious order that continues his work worldwide. His educational method was based on reason, religion, and loving-kindness. He is a powerful intercessor for the young and for those who work with them.",
+      "prayer": "O Holy Saint John Bosco, father and teacher of youth, who worked so hard for the salvation of souls, be our guide in life. May we, like you, serve God with a joyful heart, and lead others to Him through our love and good example. Amen.",
+      "premium_content": true
+    },
+    "saint_112": {
+      "id": "saint_112",
+      "name": "Saint Elizabeth Ann Seton",
+      "feast_day": "January 4",
+      "patronage": [
+        "Catholic schools",
+        "Teachers",
+        "Maryland"
+      ],
+      "short_bio": "First native-born American to be canonized (Premium feature)",
+      "full_bio": "Saint Elizabeth Ann Seton (1774-1821) was the first person born in the United States to be canonized by the Catholic Church. Born into a prominent family in New York, she converted to Catholicism after the death of her husband. She went on to found the Sisters of Charity of St. Joseph, a religious community dedicated to the education of the poor. Her work laid the foundation for the Catholic parochial school system in the United States.",
+      "prayer": "O God, who gave to your servant Saint Elizabeth Ann Seton the grace to lead others to you, grant us by her prayers and example the courage to follow your will and the wisdom to know your way. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_113": {
+      "id": "saint_113",
+      "name": "Saint Maria Goretti",
+      "feast_day": "July 6",
+      "patronage": [
+        "Youth",
+        "Rape victims",
+        "Forgiveness"
+      ],
+      "short_bio": "Young virgin martyr known for her forgiveness (Premium feature)",
+      "full_bio": "Saint Maria Goretti (1890-1902) was an 11-year-old Italian girl who was brutally murdered after she resisted an attempted rape. As she was dying, she forgave her attacker, Alessandro Serenelli. Her act of heroic forgiveness led to her canonization and the eventual conversion of her murderer, who became a Capuchin friar. She is a powerful symbol of purity and a model of Christian forgiveness.",
+      "prayer": "O Saint Maria Goretti, who, strengthened by God's grace, did not hesitate at the age of eleven to shed your blood to defend your virginal purity, look mercifully upon us. Teach us to forgive those who have wronged us and to seek God's mercy in our lives. Amen.",
+      "premium_content": true
+    },
+    "saint_114": {
+      "id": "saint_114",
+      "name": "Saint Kateri Tekakwitha",
+      "feast_day": "July 14",
+      "patronage": [
+        "Environment",
+        "Exiles",
+        "Loss of parents"
+      ],
+      "short_bio": "The 'Lily of the Mohawks', first Native American saint (Premium feature)",
+      "full_bio": "Saint Kateri Tekakwitha (1656-1680) was a young Mohawk woman born in what is now New York state. She converted to Catholicism at age 19, enduring ostracism from her village. She dedicated her life to Christ, taking a vow of perpetual virginity and living a life of intense prayer and penance. Her deep piety and quiet strength earned her the title 'Lily of the Mohawks.' She is the first Native American to be canonized and is a patron of the environment.",
+      "prayer": "O God, you called Saint Kateri Tekakwitha to walk the path of holiness amid great trials. By her intercession, may we be given the strength to follow your will and the grace to share the light of faith with those around us. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_115": {
+      "id": "saint_115",
+      "name": "Saint Bernadette Soubirous",
+      "feast_day": "April 16",
+      "patronage": [
+        "Illness",
+        "Poor people",
+        "Shepherds"
+      ],
+      "short_bio": "Visionary of Lourdes, who saw the Blessed Virgin Mary (Premium feature)",
+      "full_bio": "Saint Bernadette Soubirous (1844-1879) was a young French peasant girl who experienced 18 apparitions of the Blessed Virgin Mary in Lourdes, France. She was instructed to dig for a spring, which became a source of miraculous healings for pilgrims. Despite facing skepticism and hardship, Bernadette remained humble and steadfast in her faith. She later joined the Sisters of Charity and lived a quiet life of prayer and suffering, offering it for the conversion of sinners.",
+      "prayer": "O Saint Bernadette, you who were chosen by God to receive the apparitions of the Blessed Virgin Mary, and who with a simple and pure heart obeyed her heavenly request, pray for us. Grant us a heart like yours, a simple and sincere love for God and our Lady, and the courage to endure trials with patience and trust. Amen.",
+      "premium_content": true
+    },
+    "saint_116": {
+      "id": "saint_116",
+      "name": "Saint Damien of Molokai",
+      "feast_day": "May 10",
+      "patronage": [
+        "Lepers",
+        "Outcasts",
+        "Hawaii"
+      ],
+      "short_bio": "Belgian missionary who served lepers in Hawaii (Premium feature)",
+      "full_bio": "Saint Damien of Molokai (1840-1889), born Joseph de Veuster, was a Belgian priest of the Congregation of the Sacred Hearts of Jesus and Mary. He volunteered to serve the leper colony on the island of Molokai in Hawaii, where he spent his life ministering to those afflicted with leprosy. He built homes, coffins, and a church, and gave his life to serving those who were cast out by society, eventually contracting the disease himself. He is a powerful symbol of radical love and self-sacrifice.",
+      "prayer": "O God, by whose power Saint Damien, filled with your love, became a missionary of heroic charity, a father to the lepers, and a martyr of love; grant, we pray, that by his intercession, we may be moved with compassion for all who suffer and be filled with the same desire to serve you in the most abandoned. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_117": {
+      "id": "saint_117",
+      "name": "Saint Marianne Cope",
+      "feast_day": "January 23",
+      "patronage": [
+        "Lepers",
+        "Hawaii",
+        "Aids victims"
+      ],
+      "short_bio": "Franciscan Sister who worked with St. Damien in Hawaii (Premium feature)",
+      "full_bio": "Saint Marianne Cope (1838-1918) was a German-American nun who, as a member of the Sisters of St. Francis of Syracuse, New York, accepted a call to work with the lepers on the island of Molokai, Hawaii. She served alongside Saint Damien and, after his death, took over the care of the lepers. She established a system of care and education that improved the lives of the afflicted. Her unwavering compassion and dedication made her a source of hope and healing for the marginalized.",
+      "prayer": "O God, who filled Saint Marianne Cope with a loving heart and a generous spirit to care for the outcasts, grant us the grace to see the face of Christ in the poor and the suffering. By her intercession, may we be courageous in our service and faithful to our vocation. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_118": {
+      "id": "saint_118",
+      "name": "Saint Mother Cabrini",
+      "feast_day": "November 13",
+      "patronage": [
+        "Immigrants",
+        "Hospital administrators",
+        "Orphans"
+      ],
+      "short_bio": "First American citizen to be canonized, founded Missionaries of the Sacred Heart (Premium feature)",
+      "full_bio": "Saint Frances Xavier Cabrini (1850-1917), known as Mother Cabrini, was an Italian-American Roman Catholic nun. After being denied entry into an existing religious order, she founded the Missionary Sisters of the Sacred Heart of Jesus. At the request of Pope Leo XIII, she immigrated to the United States to serve the Italian immigrant community. She founded dozens of orphanages, hospitals, and schools, becoming a powerful advocate for the poor and marginalized. She is the first American citizen to be canonized.",
+      "prayer": "O Saint Mother Cabrini, who dedicated your life to the service of immigrants and the poor, help us to be compassionate and welcoming to those who are new to our land. Grant us the grace to see the needs of others and to respond with a generous heart. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_119": {
+      "id": "saint_119",
+      "name": "Saint Sebastian",
+      "feast_day": "January 20",
+      "patronage": [
+        "Athletes",
+        "Soldiers",
+        "Plague"
+      ],
+      "short_bio": "Roman soldier and martyr (Premium feature)",
+      "full_bio": "Saint Sebastian was a Roman soldier who was martyred for his Christian faith during the persecution of Emperor Diocletian. He was a secret Christian who used his position to help other believers. When his faith was discovered, he was sentenced to be shot with arrows, but he survived and was later clubbed to death. His courage and defiance in the face of persecution have made him a symbol of strength and faith. He is a patron of athletes and soldiers.",
+      "prayer": "O glorious Saint Sebastian, who, after being severely wounded, was preserved by God to stand as a witness to the truth of the Gospel, protect us from all harm and grant us the strength to defend our faith. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_120": {
+      "id": "saint_120",
+      "name": "Saint Lucy",
+      "feast_day": "December 13",
+      "patronage": [
+        "Blindness",
+        "Eye diseases",
+        "Writers"
+      ],
+      "short_bio": "Sicilian virgin martyr, patroness of sight (Premium feature)",
+      "full_bio": "Saint Lucy of Syracuse was a young Christian martyr who was executed during the persecution of Emperor Diocletian. She is venerated as the patroness of the blind and those with eye diseases. According to tradition, she refused to marry a pagan and gave her dowry to the poor, which led to her being reported as a Christian. She is often depicted holding a platter with two eyes on it. Her feast day, December 13th, is associated with light and the beginning of the Christmas season.",
+      "prayer": "O Saint Lucy, whose name means light, help us to see the world with the eyes of faith. Intercede for all who suffer from blindness or other eye diseases, and help us to see the truth of Christ in all things. Amen.",
+      "premium_content": true
+    },
+    "saint_121": {
+      "id": "saint_121",
+      "name": "Saint Juan Diego",
+      "feast_day": "December 9",
+      "patronage": [
+        "Indigenous people",
+        "Mexico",
+        "Lay people"
+      ],
+      "short_bio": "Visionary of Our Lady of Guadalupe (Premium feature)",
+      "full_bio": "Saint Juan Diego Cuauhtlatoatzin (c. 1474-1548) was an indigenous Mexican convert to Catholicism who received apparitions of the Blessed Virgin Mary in 1531. Mary, appearing as Our Lady of Guadalupe, instructed him to build a church on the Hill of Tepeyac. To prove his vision to the bishop, she miraculously imprinted her image on his cloak (tilma), which remains intact to this day. His faith and obedience were instrumental in the conversion of millions of indigenous people in Mexico.",
+      "prayer": "O Saint Juan Diego, humble messenger of the Virgin of Guadalupe, you were a model of faith and obedience. Help us to hear the call of the Blessed Mother and to follow her guidance with a trusting heart. Pray for us that we may always be a people of faith and a light to the nations. Amen.",
+      "premium_content": true
+    },
+    "saint_122": {
+      "id": "saint_122",
+      "name": "Saint Joseph Cafasso",
+      "feast_day": "June 23",
+      "patronage": [
+        "Prisoners",
+        "Prison chaplains",
+        "Condemned prisoners"
+      ],
+      "short_bio": "Italian priest known for his work with prisoners (Premium feature)",
+      "full_bio": "Saint Joseph Cafasso (1811-1860) was an Italian priest and a close friend of Saint John Bosco. Known as the 'Priest of the Gallows,' he dedicated his life to ministering to prisoners and those condemned to death. He accompanied over 60 condemned prisoners to the gallows, offering them comfort, spiritual guidance, and the hope of God's mercy. He is a powerful example of Christian charity and the sacrament of reconciliation.",
+      "prayer": "O Saint Joseph Cafasso, you who were a friend to the outcast and a comfort to the condemned, intercede for all those in prison. Help them to find hope and healing in the mercy of God. Pray that we may always be mindful of our own need for forgiveness and be agents of God's love in the world. Amen.",
+      "premium_content": true
+    },
+    "saint_123": {
+      "id": "saint_123",
+      "name": "Saint Rose of Lima",
+      "feast_day": "August 23",
+      "patronage": [
+        "Florists",
+        "Gardeners",
+        "Peru",
+        "South America"
+      ],
+      "short_bio": "First saint of the Americas (Premium feature)",
+      "full_bio": "Saint Rose of Lima (1586-1617) was a lay member of the Dominican Third Order in Lima, Peru. She was known for her exceptional beauty and her deep commitment to a life of prayer, penance, and service to the poor and sick. She lived a life of severe mortification and mystical experiences, offering her sufferings for the salvation of souls. She is the first person born in the Americas to be canonized and is the patroness of Peru and all of South America.",
+      "prayer": "O glorious Saint Rose of Lima, you who were inflamed with a burning love for God, and who, by your extraordinary penances, showed your zeal for the salvation of souls, pray for us. Grant that we may imitate your heroic virtues and find joy in the sacrifices we make for God and our neighbor. Amen.",
+      "premium_content": true
+    },
+    "saint_124": {
+      "id": "saint_124",
+      "name": "Saint Stephen the First Martyr",
+      "feast_day": "December 26",
+      "patronage": [
+        "Deacons",
+        "Stonemasons",
+        "Co-patron of Rome"
+      ],
+      "short_bio": "First Christian martyr, stoned to death (Premium feature)",
+      "full_bio": "Saint Stephen was one of the first deacons of the Christian Church in Jerusalem. He was a man 'full of faith and the Holy Spirit' who performed great wonders among the people. His courageous preaching of the Gospel led to his arrest and trial before the Sanhedrin. He was the first Christian to be martyred for his faith, stoned to death by an angry mob. As he died, he prayed for his persecutors, a powerful act that echoes the forgiveness of Christ on the cross.",
+      "prayer": "O glorious Saint Stephen, who, as the first to suffer for the name of Jesus, showed us the way to follow Christ even to the point of death, pray for us. Grant us the courage to be witnesses of the Gospel and the grace to forgive those who persecute us. Amen.",
+      "premium_content": true
+    },
+    "saint_125": {
+      "id": "saint_125",
+      "name": "Saint Luke the Evangelist",
+      "feast_day": "October 18",
+      "patronage": [
+        "Physicians",
+        "Surgeons",
+        "Artists",
+        "Notaries"
+      ],
+      "short_bio": "Author of the Gospel of Luke and Acts of the Apostles (Premium feature)",
+      "full_bio": "Saint Luke was a Greek physician and a companion of Saint Paul. He is the author of the Gospel of Luke and the Acts of the Apostles, which together form a detailed account of the life of Jesus and the history of the early Church. Known for his elegant writing style and his emphasis on the compassion of Christ for the poor and marginalized, he is a patron of physicians and artists. He is traditionally depicted as a winged ox, a symbol of sacrifice and service.",
+      "prayer": "O God, who chose Saint Luke to be a physician of souls and a historian of your Church, grant that by his intercession we may be filled with a love for your Word and a desire to heal the sick in both body and soul. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_126": {
+      "id": "saint_126",
+      "name": "Saint John the Evangelist",
+      "feast_day": "December 27",
+      "patronage": [
+        "Theologians",
+        "Writers",
+        "Artists",
+        "Friendship"
+      ],
+      "short_bio": "Apostle, author of the Gospel of John and the Book of Revelation (Premium feature)",
+      "full_bio": "Saint John was one of the Twelve Apostles of Jesus, often referred to as 'the disciple whom Jesus loved.' He is the author of the Gospel of John, the three Epistles of John, and the Book of Revelation. He was present at the Last Supper and at the foot of the Cross, where Jesus entrusted His mother to him. John is the only apostle not to have been martyred and is a powerful symbol of deep love for Christ. He is often depicted as an eagle, a symbol of soaring theology.",
+      "prayer": "O God, who revealed the mysteries of your Word through your servant Saint John, grant that by his intercession we may come to know and love you more deeply. Help us to imitate his faithful love for Christ and to be a witness of your truth in the world. Amen.",
+      "premium_content": true
+    },
+    "saint_127": {
+      "id": "saint_127",
+      "name": "Saint Mark the Evangelist",
+      "feast_day": "April 25",
+      "patronage": [
+        "Lions",
+        "Barristers",
+        "Venice",
+        "Notaries"
+      ],
+      "short_bio": "Author of the Gospel of Mark (Premium feature)",
+      "full_bio": "Saint Mark the Evangelist was a companion of Saint Peter and Saint Paul and is traditionally believed to be the author of the Gospel of Mark, the shortest of the four Gospels. His Gospel is known for its fast-paced narrative and its focus on the power and authority of Jesus. He is also traditionally the founder of the Church in Alexandria, Egypt. He is symbolized by a winged lion, a symbol of the Resurrection.",
+      "prayer": "O God, who raised up Saint Mark to proclaim the Gospel to the nations, grant that we may be filled with the same zeal for the truth and a desire to share your Word with all people. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_128": {
+      "id": "saint_128",
+      "name": "Saint Matthew the Apostle",
+      "feast_day": "September 21",
+      "patronage": [
+        "Accountants",
+        "Tax collectors",
+        "Bookkeepers"
+      ],
+      "short_bio": "Apostle and author of the Gospel of Matthew (Premium feature)",
+      "full_bio": "Saint Matthew was one of the Twelve Apostles of Jesus. He was a tax collector, a profession often scorned in his time, when he was called by Jesus to follow him. His Gospel is known for its emphasis on Jesus as the fulfillment of the Old Testament prophecies and for its inclusion of the Sermon on the Mount. He is a powerful example of a person who left his worldly possessions and a life of sin to follow Christ. He is a patron of accountants and bookkeepers.",
+      "prayer": "O God, who chose Saint Matthew, a tax collector, to be an Apostle and Evangelist, grant us the grace to respond to your call with an open heart and to leave behind our attachments to worldly things. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_129": {
+      "id": "saint_129",
+      "name": "Saint Monica",
+      "feast_day": "August 27",
+      "patronage": [
+        "Mothers",
+        "Difficult marriages",
+        "Alcoholics"
+      ],
+      "short_bio": "Mother of St. Augustine, known for her persistent prayers (Premium feature)",
+      "full_bio": "Saint Monica (c. 331-387) was the mother of Saint Augustine of Hippo. Born in Tagaste, North Africa, she was a devout Christian who endured a difficult marriage and a son who lived a dissolute life. She prayed for her son's conversion for many years with unwavering faith and patience. Her prayers were answered when Augustine converted to Christianity and became a bishop and a Doctor of the Church. She is a powerful intercessor for mothers, difficult marriages, and for those who have strayed from the faith.",
+      "prayer": "O glorious Saint Monica, who with a constant and patient heart, did not cease to pray for the conversion of your son, we ask you to intercede for us. Help us to be faithful in our prayers for our loved ones and to never lose hope in God's mercy. Amen.",
+      "premium_content": true
+    },
+    "saint_130": {
+      "id": "saint_130",
+      "name": "Saint John of the Cross",
+      "feast_day": "December 14",
+      "patronage": [
+        "Mystics",
+        "Contemplatives",
+        "Spanish poets"
+      ],
+      "short_bio": "Carmelite mystic and Doctor of the Church (Premium feature)",
+      "full_bio": "Saint John of the Cross (1542-1591) was a Spanish Carmelite friar and priest. He worked with Saint Teresa of Avila to reform the Carmelite order, leading to the establishment of the Discalced Carmelites. A master of mystical theology, his writings, including 'The Dark Night of the Soul' and 'Ascent of Mount Carmel,' are considered classics of Christian spirituality. He is a Doctor of the Church and is known for his teachings on the 'dark night' of the soul, a period of spiritual desolation that purifies the soul.",
+      "prayer": "O Saint John of the Cross, you were a great teacher and guide in the way of perfection. Help us to trust in God's love and mercy, especially in times of spiritual darkness. By your intercession, may we be purified and transformed in God's love. Amen.",
+      "premium_content": true
+    },
+    "saint_131": {
+      "id": "saint_131",
+      "name": "Saint Patrick of Ireland",
+      "feast_day": "March 17",
+      "patronage": [
+        "Ireland",
+        "Engineers",
+        "Nigeria"
+      ],
+      "short_bio": "Apostle of Ireland, brought Christianity to the Irish people (Premium feature)",
+      "full_bio": "Saint Patrick (5th century) was a Romano-British Christian missionary who became the primary patron saint of Ireland. Kidnapped and enslaved in Ireland as a youth, he escaped, became a cleric, and later returned to evangelize the island. Using the three-leaf shamrock to explain the Holy Trinity, he converted thousands to Christianity. His life is a testament to forgiveness and missionary zeal. He is celebrated worldwide on his feast day, March 17th.",
+      "prayer": "Christ with me, Christ before me, Christ behind me, Christ in me, Christ beneath me, Christ above me, Christ on my right, Christ on my left, Christ when I lie down, Christ when I sit down, Christ when I arise, Christ in the heart of every man who thinks of me, Christ in the mouth of everyone who speaks of me, Christ in every eye that sees me, Christ in every ear that hears me. Amen.",
+      "premium_content": true
+    },
+    "saint_132": {
+      "id": "saint_132",
+      "name": "Saint Vincent de Paul",
+      "feast_day": "September 27",
+      "patronage": [
+        "Charities",
+        "Hospitals",
+        "Prisoners",
+        "Volunteers"
+      ],
+      "short_bio": "French priest dedicated to serving the poor (Premium feature)",
+      "full_bio": "Saint Vincent de Paul (1581-1660) was a French priest who dedicated his life to serving the poor and marginalized. He founded the Congregation of the Mission (Vincentians) and, with Saint Louise de Marillac, the Daughters of Charity. He organized lay people to serve the sick and poor, and his work became a model for modern social work. He is a powerful example of Christian charity and is a patron of charitable societies.",
+      "prayer": "O glorious Saint Vincent de Paul, you dedicated your life to the service of the poor. Help us to see the face of Christ in the suffering and to be agents of God's love in the world. Amen.",
+      "premium_content": true
+    },
+    "saint_133": {
+      "id": "saint_133",
+      "name": "Saint Louise de Marillac",
+      "feast_day": "March 15",
+      "patronage": [
+        "Social workers",
+        "Widows",
+        "Loss of parents"
+      ],
+      "short_bio": "Co-founder of the Daughters of Charity (Premium feature)",
+      "full_bio": "Saint Louise de Marillac (1591-1660) was a French widow who, with Saint Vincent de Paul, co-founded the Daughters of Charity. The Daughters of Charity were a new kind of religious community, with women living and working outside of a cloister to serve the poor. Louise was a brilliant organizer and a compassionate leader, and she helped to establish hospitals, orphanages, and schools. She is a patron of social workers and a model of Christian service.",
+      "prayer": "O Saint Louise de Marillac, who dedicated your life to the service of the poor and the marginalized, help us to be a voice for the voiceless and to work for justice and peace in the world. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_134": {
+      "id": "saint_134",
+      "name": "Saint Alphonsus Liguori",
+      "feast_day": "August 1",
+      "patronage": [
+        "Confessors",
+        "Moral theologians",
+        "Arthritis"
+      ],
+      "short_bio": "Bishop, Doctor of the Church, and founder of the Redemptorists (Premium feature)",
+      "full_bio": "Saint Alphonsus Liguori (1696-1787) was an Italian bishop, a moral theologian, and a Doctor of the Church. He founded the Redemptorists, a religious order dedicated to preaching missions and serving the poor. His writings on moral theology and prayer have had a lasting impact on the Church. He is known for his gentle and merciful approach to the sacrament of reconciliation and is a patron of confessors.",
+      "prayer": "O God, who filled Saint Alphonsus with a great love for souls and a desire to lead them to you, grant us the grace to be humble and merciful. By his intercession, may we be faithful to our vocation and a light to the world. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_135": {
+      "id": "saint_135",
+      "name": "Saint Elizabeth of Hungary",
+      "feast_day": "November 17",
+      "patronage": [
+        "Hospitals",
+        "Nurses",
+        "Charities"
+      ],
+      "short_bio": "Princess and Queen known for her charity (Premium feature)",
+      "full_bio": "Saint Elizabeth of Hungary (1207-1231) was a princess of Hungary and the wife of Louis IV of Thuringia. Despite her royal status, she dedicated her life to serving the poor and sick. She used her position to establish hospitals and provide care for the needy. After the death of her husband, she became a Third Order Franciscan and continued her charitable work. She is a powerful example of Christian charity and is a patron of hospitals and nurses.",
+      "prayer": "O God, by whose grace Saint Elizabeth of Hungary, filled with compassion for the poor, was a model of charity, grant us the grace to see your face in all who suffer and to serve them with a generous heart. Through Christ our Lord. Amen.",
+      "premium_content": true
+    },
+    "saint_136": {
+      "id": "saint_136",
+      "name": "Saint Philip Neri",
+      "feast_day": "May 26",
+      "patronage": [
+        "Humor",
+        "Rome",
+        "Joys",
+        "Clowns"
+      ],
+      "short_bio": "Italian priest known for his joy and humor (Premium feature)",
+      "full_bio": "Saint Philip Neri (1515-1595) was an Italian priest who was known for his wit, his humor, and his joyful spirit. He founded the Congregation of the Oratory, a religious community of secular priests and lay brothers. He was a master of spiritual direction and was known for his ability to inspire people to a deeper relationship with God through joy and laughter. He is a patron of humor and a model of Christian joy.",
+      "prayer": "O glorious Saint Philip Neri, you were a man of great joy and humor, and you led many to God through your love and laughter. Help us to find joy in our lives and to share it with others. By your intercession, may we be filled with the spirit of joy and be a light to the world. Amen.",
+      "premium_content": true
+    },
+    "saint_137": {
+      "id": "saint_137",
+      "name": "Saint Catherine Labouré",
+      "feast_day": "November 28",
+      "patronage": [
+        "Miraculous Medal",
+        "Elders",
+        "Bodily ills"
+      ],
+      "short_bio": "French nun who received the Miraculous Medal (Premium feature)",
+      "full_bio": "Saint Catherine Labouré (1806-1876) was a French nun of the Daughters of Charity who received apparitions of the Blessed Virgin Mary. During these apparitions, Mary revealed to her the design for the Miraculous Medal, which has been associated with countless miracles of conversion and healing. Catherine was a humble and obedient servant of God, and she lived a quiet life of prayer and service, keeping the apparitions a secret for much of her life.",
+      "prayer": "O Immaculate Virgin Mary, Mother of God, who appeared to Saint Catherine Labouré and gave her the Miraculous Medal, grant us the grace to wear it with faith and devotion. May we always be protected by your loving care and be a witness of your power and mercy. Amen.",
+      "premium_content": true
+    },
+    "saint_138": {
+      "id": "saint_138",
+      "name": "Saint John Vianney",
+      "feast_day": "August 4",
+      "patronage": [
+        "Parish priests",
+        "Confessors",
+        "Archdiocese of Omaha"
+      ],
+      "short_bio": "The Curé of Ars, a humble priest known for his holiness (Premium feature)",
+      "full_bio": "Saint John Vianney (1786-1859) was a French parish priest who was known for his humility, his holiness, and his dedication to the sacrament of reconciliation. He spent up to 16 hours a day in the confessional, and thousands of people would travel to his small parish of Ars to receive his spiritual counsel. He is a patron of parish priests and a powerful example of the transformative power of the priesthood.",
+      "prayer": "O holy Curé of Ars, you were a model of holiness and a true shepherd of souls. Help us to have a greater love for the Eucharist and the sacrament of reconciliation. By your intercession, may we be faithful to God's will and a light to the world. Amen.",
+      "premium_content": true
+    },
+    "saint_139": {
+      "id": "saint_139",
+      "name": "Saint Francis de Sales",
+      "feast_day": "January 24",
+      "patronage": [
+        "Journalists",
+        "Writers",
+        "Adult education"
+      ],
+      "short_bio": "Bishop and Doctor of the Church, known for spiritual guidance (Premium feature)",
+      "full_bio": "Saint Francis de Sales (1567-1622) was a French bishop and a Doctor of the Church. He is known for his gentle approach to spiritual direction and for his writings on the spiritual life, most notably 'Introduction to the Devout Life' and 'Treatise on the Love of God.' He co-founded the Order of the Visitation of Holy Mary with Saint Jane Frances de Chantal. He is the patron saint of writers and journalists.",
+      "prayer": "Lord, grant that I may not so much seek to be consoled as to console; to be understood as to understand; to be loved as to love; for it is in giving that we receive, it is in pardoning that we are pardoned, and it is in dying that we are born to eternal life. Amen.",
+      "premium_content": true
+    },
+    "saint_140": {
+      "id": "saint_140",
+      "name": "Saint Anthony of Padua",
+      "feast_day": "June 13",
+      "patronage": [
+        "Lost items",
+        "Poor people",
+        "Travelers",
+        "Portugal"
+      ],
+      "short_bio": "Franciscan friar known for miracles and finding lost things (Premium feature)",
+      "full_bio": "Saint Anthony of Padua (1195-1231) was a Portuguese Catholic priest and friar of the Franciscan Order. Known for his powerful preaching, extensive knowledge of scripture, and undying love and devotion to the poor and the sick, he was one of the most quickly canonized saints in church history. Saint Anthony is especially invoked and venerated all over the world as the patron saint for the recovery of lost items and is credited with many miracles involving lost people, lost things and even lost spiritual goods.",
+      "prayer": "O Holy St. Anthony, gentlest of Saints, your love for God and Charity for His creatures, made you worthy, when on earth, to possess miraculous powers. Encouraged by this thought, I implore you to obtain for me... (request). O gentle and loving St. Anthony, whose heart was ever full of human sympathy, whisper my petition into the ears of the sweet Infant Jesus, who loved to be folded in your arms; and the gratitude of my heart will ever be yours. Amen.",
+      "premium_content": true
+    },
+    "saint_141": {
+      "id": "saint_141",
+      "name": "Saint Thérèse of Lisieux",
+      "feast_day": "October 1",
+      "patronage": [
+        "Missions",
+        "Aviators",
+        "AIDS sufferers",
+        "Florists"
+      ],
+      "short_bio": "The Little Flower, Doctor of the Church known for 'little way' (Premium feature)",
+      "full_bio": "Saint Thérèse of Lisieux (1873-1897), also known as the 'Little Flower,' was a French Carmelite nun who became one of the most popular saints of modern times. Despite dying at the young age of 24, her autobiography 'Story of a Soul' has touched millions of lives. She developed what she called the 'little way' - a spirituality of trust and surrender to God's mercy that emphasized doing small things with great love. She was declared a Doctor of the Church in 1997.",
+      "prayer": "O Little Thérèse of the Child Jesus, please pick for me a rose from the heavenly garden and send it to me as a message of love. O Little Flower of Jesus, ask God today to grant the favors I now place with confidence in your hands... (mention specific request). St. Thérèse, help me to always believe as you did, in God's great love for me, so that I might imitate your 'Little Way' each day. Amen.",
+      "premium_content": true
+    },
+    "saint_142": {
+      "id": "saint_142",
+      "name": "Saint Francis of Assisi",
+      "feast_day": "October 4",
+      "patronage": [
+        "Animals",
+        "Environment",
+        "Italy",
+        "Peace"
+      ],
+      "short_bio": "Founder of the Franciscan order, lover of nature and peace (Premium feature)",
+      "full_bio": "Saint Francis of Assisi (1181-1226) was an Italian Catholic friar and mystic who founded the Franciscan order. Born into a wealthy merchant family, Francis experienced a profound conversion that led him to embrace poverty and dedicate his life to serving God and the poor. He is known for his deep love of nature, his commitment to peace, and his devotion to the Cross of Christ. Francis received the stigmata, the wounds of Christ, making him the first recorded person to bear these marks. He is the patron saint of animals, the environment, and Italy.",
+      "prayer": "Most High, glorious God, enlighten the darkness of my heart and give me true faith, certain hope, and perfect charity, sense and knowledge, Lord, that I may carry out Your holy and true command. Amen.",
+      "premium_content": true
+    },
+    "saint_143": {
+      "id": "saint_143",
+      "name": "Saint Joseph",
+      "feast_day": "March 19",
+      "patronage": [
+        "Workers",
+        "Fathers",
+        "Carpenters",
+        "Universal Church"
+      ],
+      "short_bio": "Foster father of Jesus and spouse of the Blessed Virgin Mary (Premium feature)",
+      "full_bio": "Saint Joseph was the earthly father of Jesus Christ and the spouse of the Blessed Virgin Mary. A carpenter by trade, he was chosen by God to care for and protect the Holy Family. Known for his righteousness, humility, and obedience to God's will, Joseph is venerated as the patron saint of workers, fathers, and the Universal Church. His feast day is celebrated on March 19th, and he is also honored on May 1st as Saint Joseph the Worker. Joseph's silent strength and faithful service make him a model for all Christians, especially fathers and workers.",
+      "prayer": "Saint Joseph, guardian of Jesus and chaste spouse of Mary, you passed your life in perfect fulfillment of duty. You supported the holy family of Nazareth with the work of your hands. Kindly protect those who trustingly turn to you. You know their aspirations, their hardships, their hopes; and they turn to you because they know you will understand and protect them. You too have known trial, labor and weariness. But, even amid the worries of material life, your soul remained full of the deepest peace and sang out in true joy because of your intimate closeness with the Son of God entrusted to your care, and with Mary, his tender Mother. Amen.",
+      "premium_content": true
+    },
+    "saint_144": {
+      "id": "saint_144",
+      "name": "Saint John the Baptist",
+      "feast_day": "June 24",
+      "patronage": [
+        "Baptism",
+        "Jordan",
+        "Farriers",
+        "Printers"
+      ],
+      "short_bio": "Forerunner of Christ, baptizer in the Jordan River (Premium feature)",
+      "full_bio": "Saint John the Baptist was the forerunner of Jesus Christ, born to Elizabeth and Zechariah as prophesied by the angel Gabriel. He lived an ascetic life in the desert, preaching repentance and baptizing people in the Jordan River. John had the honor of baptizing Jesus, during which the Holy Spirit descended like a dove and the Father's voice was heard. He courageously spoke truth to power, which led to his imprisonment and eventual beheading by King Herod. Jesus called him the greatest born of women.",
+      "prayer": "O most zealous Saint John the Baptist, greatest prophet among those born of woman, although you were sanctified in your mother's womb and did lead a most innocent life, nevertheless you did constantly practice penance to give us an example of that virtue. Obtain for us of the Almighty the grace to be penitent for our sins and to bring forth worthy fruits of penance. Amen.",
+      "premium_content": true
+    },
+    "saint_145": {
+      "id": "saint_145",
+      "name": "Saint Augustine of Hippo",
+      "feast_day": "August 28",
+      "patronage": [
+        "Theologians",
+        "Brewers",
+        "Printers"
+      ],
+      "short_bio": "Doctor of the Church, influential theologian and philosopher (Premium feature)",
+      "full_bio": "Saint Augustine (354-430) was a bishop of Hippo in North Africa and one of the most important Church Fathers. After a youth of loose living and heretical beliefs, he converted to Christianity through the prayers of his mother, Saint Monica. His extensive writings, including 'Confessions' and 'City of God,' have profoundly shaped Western theology and philosophy. He was a brilliant defender of the faith and is recognized as a Doctor of the Church.",
+      "prayer": "Late have I loved you, O Beauty ever ancient, ever new, late have I loved you! You were within me, but I was outside, and it was there that I searched for you. In my unloveliness I plunged into the lovely things which you created. You were with me, but I was not with you. You called, you shouted, and you broke through my deafness. You flashed, you shone, and you dispelled my blindness. You breathed your fragrance on me; I drew in breath and now I pant for you. I have tasted you, now I hunger and thirst for more. You touched me, and I burned for your peace. Amen.",
+      "premium_content": true
+    },
+    "saint_146": {
+      "id": "saint_146",
+      "name": "Saint Joan of Arc",
+      "feast_day": "May 30",
+      "patronage": [
+        "France",
+        "Soldiers",
+        "Martyrs"
+      ],
+      "short_bio": "The Maid of Orléans, visionary and military leader (Premium feature)",
+      "full_bio": "Saint Joan of Arc (c. 1412-1431) was a young French peasant girl who, inspired by divine visions, led the French army to several important victories during the Hundred Years' War. Her leadership was instrumental in the coronation of Charles VII. She was later captured, tried for heresy by a pro-English court, and burned at the stake at the age of 19. Twenty-five years later, she was posthumously exonerated and declared a martyr. She is a national heroine of France.",
+      "prayer": "O glorious Saint Joan of Arc, filled with compassion for those who invoke you, with love for those who suffer, heavily laden with the weight of my troubles, I kneel at your feet and humbly beg you to take my present case under your special protection... (mention request). Grant me the courage and strength I need to face my challenges. Amen.",
+      "premium_content": true
+    },
+    "saint_147": {
+      "id": "saint_147",
+      "name": "Saint Patrick",
+      "feast_day": "March 17",
+      "patronage": [
+        "Ireland",
+        "Engineers",
+        "Nigeria"
+      ],
+      "short_bio": "Apostle of Ireland, brought Christianity to the Irish people (Premium feature)",
+      "full_bio": "Saint Patrick (5th century) was a Romano-British Christian missionary who became the primary patron saint of Ireland. Kidnapped and enslaved in Ireland as a youth, he escaped, became a cleric, and later returned to evangelize the island. Using the three-leaf shamrock to explain the Holy Trinity, he converted thousands to Christianity. His life is a testament to forgiveness and missionary zeal.",
+      "prayer": "Christ with me, Christ before me, Christ behind me, Christ in me, Christ beneath me, Christ above me, Christ on my right, Christ on my left, Christ when I lie down, Christ when I sit down, Christ when I arise, Christ in the heart of every man who thinks of me, Christ in the mouth of everyone who speaks of me, Christ in every eye that sees me, Christ in every ear that hears me. Amen.",
+      "premium_content": true
+    },
+    "saint_148": {
+      "id": "saint_148",
+      "name": "Saint Thomas Aquinas",
+      "feast_day": "January 28",
+      "patronage": [
+        "Universities",
+        "Students",
+        "Theologians",
+        "Catholic schools"
+      ],
+      "short_bio": "Dominican friar, philosopher, and Doctor of the Church (Premium feature)",
+      "full_bio": "Saint Thomas Aquinas (1225-1274) was an Italian Dominican friar, philosopher, and theologian of immense influence. He is the foremost classical proponent of natural theology and the father of Thomism. His most famous work, the 'Summa Theologica,' is a masterpiece of systematic theology that reconciles faith and reason. He is honored as a Doctor of the Church and is considered one of the greatest thinkers in Catholic history.",
+      "prayer": "Grant me, O Lord my God, a mind to know you, a heart to seek you, wisdom to find you, a life to please you, perseverance to trust in you, and a hope of finally embracing you. Amen.",
+      "premium_content": true
+    },
+    "saint_149": {
+      "id": "saint_149",
+      "name": "Saint Catherine of Siena",
+      "feast_day": "April 29",
+      "patronage": [
+        "Europe",
+        "Italy",
+        "Nurses"
+      ],
+      "short_bio": "Mystic, activist, and Doctor of the Church (Premium feature)",
+      "full_bio": "Saint Catherine of Siena (1347-1380) was a Dominican tertiary, mystic, and one of the most influential figures of her time. Despite having no formal education, she was a powerful writer and political activist, even persuading Pope Gregory XI to return the papacy to Rome from Avignon. Her spiritual writings, especially 'The Dialogue,' are considered classics. She was declared a Doctor of the Church and is a co-patron saint of Europe.",
+      "prayer": "Holy Spirit, come into my heart; draw it to Thee by Thy power, O my God, and grant me charity with filial fear. Preserve me, O beautiful love, from every evil thought; warm me, inflame me with Thy dear love, and every pain will seem light to me. My Father, my sweet Lord, help me in all my actions. Jesus, love, Jesus, love. Amen.",
+      "premium_content": true
+    },
+    "saint_150": {
+      "id": "saint_150",
+      "name": "Saint Jude Thaddeus",
+      "feast_day": "October 28",
+      "patronage": [
+        "Lost causes",
+        "Desperate situations",
+        "Hospitals"
+      ],
+      "short_bio": "Apostle of Jesus, patron of hopeless cases (Premium feature)",
+      "full_bio": "Saint Jude was one of the Twelve Apostles of Jesus. He is traditionally identified as the author of the Epistle of Jude, a short letter in the New Testament. He is invoked in desperate situations because his New Testament letter stresses that the faithful should persevere in the environment of harsh, difficult circumstances, just as their forefathers had done before them. Therefore, he is the patron saint of lost causes and desperate situations.",
+      "prayer": "O most holy apostle, Saint Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally, as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone. Make use, I implore you, of that particular privilege given to you, to bring visible and speedy help where help is almost despaired of. Come to my assistance in this great need that I may receive the consolation and help of heaven in all my necessities, tribulations, and sufferings, particularly... (make your request here) and that I may praise God with you and all the elect forever. Amen.",
+      "premium_content": true
+    }
+  }
+}

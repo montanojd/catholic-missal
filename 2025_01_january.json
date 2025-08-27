@@ -1,0 +1,1220 @@
+{
+  "meta": {
+    "version": "1.0",
+    "month": 1,
+    "month_name": "january",
+    "year": 2025,
+    "total_days": 31
+  },
+  "daily_readings": {
+    "2025-01-01": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.388Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-01": {
+          "date": "2025-01-01",
+          "liturgical_date": "Solemnity of the Blessed Virgin Mary, the Mother of God\n                                                      \n                     The Octave Day of Christmas",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm  67:2-3, 5, 6, 8",
+              "response": "R. (2a) May God bless us in his mercy.",
+              "content": "May God have pity on us and bless us;\n\nmay he let his face shine upon us.\n\nSo may your way be known upon earth;\n\namong all nations, your salvation.\n\nR. May God bless us in his mercy.\n\nMay the nations be glad and exult\n\nbecause you rule the peoples in equity;\n\nthe nations on the earth you guide.\n\nR. May God bless us in his mercy.\n\nMay the peoples praise you, O God;\n\nmay all the peoples praise you!\n\nMay God bless us,\n\nand may all the ends of the earth fear him!\n\nR. May God bless us in his mercy."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia. \nIn the past God spoke to our ancestors through the prophets;\nin these last days, he has spoken to us through the Son.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Luke 2:16-21",
+              "content": "The shepherds went in haste to Bethlehem and found Mary and Joseph,  \nand the infant lying in the manger.\nWhen they saw this,  \nthey made known the message  \nthat had been told them about this child.\nAll who heard it were amazed  \nby what had been told them by the shepherds.\nAnd Mary kept all these things,  \nreflecting on them in her heart.\nThen the shepherds returned,  \nglorifying and praising God  \nfor all they had heard and seen,  \njust as it had been told to them.  \n\nWhen eight days were completed for his circumcision,  \nhe was named Jesus, the name given him by the angel  \nbefore he was conceived in the womb."
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-02": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.226Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-02": {
+          "date": "2025-01-02",
+          "liturgical_date": "Memorial of Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 1 John 2:22-28",
+              "content": "Beloved:\nWho is the liar?\nWhoever denies that Jesus is the Christ.\nWhoever denies the Father and the Son, this is the antichrist.\nAnyone who denies the Son does not have the Father,\nbut whoever confesses the Son has the Father as well.\nLet what you heard from the beginning remain in you.\nIf what you heard from the beginning remains in you,\nthen you will remain in the Son and in the Father.\nAnd this is the promise that he made us: eternal life.\nI write you these things about those who would deceive you.\nAs for you,\nthe anointing that you received from him remains in you,\nso that you do not need anyone to teach you.\nBut his anointing teaches you about everything and is true and not false;\njust as it taught you, remain in him.\n\nAnd now, children, remain in him,\nso that when he appears we may have confidence\nand not be put to shame by him at his coming."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 98:1, 2-3ab, 3cd-4",
+              "response": "R. (3cd)  All the ends of the earth have seen the saving power of God.",
+              "content": "Sing to the LORD a new song,\n\nfor he has done wondrous deeds;\n\nHis right hand has won victory for him,\n\nhis holy arm.\n\nR. All the ends of the earth have seen the saving power of God.\n\nThe LORD has made his salvation known:\n\nin the sight of the nations he has revealed his justice.\n\nHe has remembered his kindness and his faithfulness\n\ntoward the house of Israel.\n\nR. All the ends of the earth have seen the saving power of God.\n\nAll the ends of the earth have seen\n\nthe salvation by our God.\n\nSing joyfully to the LORD, all you lands;\n\nbreak into song; sing praise.\n\nR. All the ends of the earth have seen the saving power of God."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nIn times, past, God spoke to our ancestors through the prophets:\nin these last days, he has spoken to us through his Son.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel John 1:19-28",
+              "content": "This is the testimony of John. \nWhen the Jews from Jerusalem sent priests and Levites to him\nto ask him, “Who are you?”\nhe admitted and did not deny it, but admitted,\n“I am not the Christ.” \nSo they asked him,\n“What are you then? Are you Elijah?” \nAnd he said, “I am not.” \n“Are you the Prophet?”\nHe answered, “No.” \nSo they said to him,\n“Who are you, so we can give an answer to those who sent us? \nWhat do you have to say for yourself?”\nHe said:\n“I am the voice of one crying out in the desert,\n‘Make straight the way of the Lord,’\nas Isaiah the prophet said.” \nSome Pharisees were also sent. \nThey asked him,\n“Why then do you baptize\nif you are not the Christ or Elijah or the Prophet?” \nJohn answered them,\n“I baptize with water;\nbut there is one among you whom you do not recognize,\nthe one who is coming after me,\nwhose sandal strap I am not worthy to untie.” \nThis happened in Bethany across the Jordan,\nwhere John was baptizing."
+            }
+          },
+          "saint_of_day": {
+            "name": "Basil Gregory Nazianzen",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-03": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.613Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-03": {
+          "date": "2025-01-03",
+          "liturgical_date": "Christmas Weekday",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 1 John 2:29–3:6",
+              "content": "If you consider that God is righteous,\nyou also know that everyone who acts in righteousness\nis begotten by him.\nSee what love the Father has bestowed on us\nthat we may be called the children of God.\nYet so we are.\nThe reason the world does not know us is that it did not know him.\nBeloved, we are God’s children now;\nwhat we shall be has not yet been revealed.\nWe do know that when it is revealed we shall be like him,\nfor we shall see him as he is.\nEveryone who has this hope based on him makes himself pure,\nas he is pure.\nEveryone who commits sin commits lawlessness,\nfor sin is lawlessness.\nYou know that he was revealed to take away sins,\nand in him there is no sin.\nNo one who remains in him sins;\nno one who sins has seen him or known him."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 98:1, 3cd-4, 5-6",
+              "response": "R. (3cd) All the ends of the earth have seen the saving power of God.",
+              "content": "Sing to the LORD a new song,\n\nfor he has done wondrous deeds;\n\nHis right hand has won victory for him,\n\nhis holy arm.\n\nR. All the ends of the earth have seen the saving power of God.\n\nAll the ends of the earth have seen\n\nthe salvation by our God.\n\nSing joyfully to the LORD, all you lands;\n\nbreak into song; sing praise.\n\nR. All the ends of the earth have seen the saving power of God.\n\nSing praise to the LORD with the harp,\n\nwith the harp and melodious song.\n\nWith trumpets and the sound of the horn\n\nsing joyfully before the King, the LORD.\n\nR. All the ends of the earth have seen the saving power of God."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nThe Word of God became flesh and dwelt among us.\nTo those who accepted him\nhe gave power to become the children of God.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel John 1:29-34",
+              "content": "John the Baptist saw Jesus coming toward him and said,\n\"Behold, the Lamb of God, who takes away the sin of the world.\nHe is the one of whom I said,\n'A man is coming after me who ranks ahead of me\nbecause he existed before me.'\nI did not know him,\nbut the reason why I came baptizing with water\nwas that he might be made known to Israel.\"\nJohn testified further, saying,\n\"I saw the Spirit come down like a dove from the sky\nand remain upon him.\nI did not know him,\nbut the one who sent me to baptize with water told me,\n'On whomever you see the Spirit come down and remain,\nhe is the one who will baptize with the Holy Spirit.'\nNow I have seen and testified that he is the Son of God.\""
+            }
+          },
+          "saint_of_day": {
+            "name": "Most Holy Name Jesus",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-04": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.883Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-04": {
+          "date": "2025-01-04",
+          "liturgical_date": "Memorial of Saint Elizabeth Ann Seton, Religious",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 1 John 3:7-10",
+              "content": "Children, let no one deceive you.\nThe person who acts in righteousness is righteous,\njust as he is righteous.\nWhoever sins belongs to the Devil,\nbecause the Devil has sinned from the beginning.\nIndeed, the Son of God was revealed to destroy the works of the Devil.\nNo one who is begotten by God commits sin,\nbecause God’s seed remains in him;\nhe cannot sin because he is begotten by God.\nIn this way,\nthe children of God and the children of the Devil are made plain;\nno one who fails to act in righteousness belongs to God,\nnor anyone who does not love his brother."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 98:1, 7-8, 9",
+              "response": "R. (3cd) All the ends of the earth have seen the saving power of God.",
+              "content": "Sing to the LORD a new song,\n\nfor he has done wondrous deeds;\n\nHis right hand has won victory for him,\n\nhis holy arm.\n\nR. All the ends of the earth have seen the saving power of God.\n\nLet the sea and what fills it resound,\n\nthe world and those who dwell in it;\n\nLet the rivers clap their hands,\n\nthe mountains shout with them for joy before the LORD.\n\nR. All the ends of the earth have seen the saving power of God.\n\nThe LORD comes;\n\nhe comes to rule the earth;\n\nHe will rule the world with justice\n\nand the peoples with equity.\n\nR. All the ends of the earth have seen the saving power of God."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nIn the past God spoke to our ancestors through the prophets:\nin these last days, he has spoken to us through the Son.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel John 1:35-42",
+              "content": "John was standing with two of his disciples,\nand as he watched Jesus walk by, he said,\n“Behold, the Lamb of God.”\nThe two disciples heard what he said and followed Jesus.\nJesus turned and saw them following him and said to them,\n“What are you looking for?”\nThey said to him, “Rabbi” (which translated means Teacher),\n“where are you staying?”\nHe said to them, “Come, and you will see.”\nSo they went and saw where he was staying,\nand they stayed with him that day.\nIt was about four in the afternoon.\nAndrew, the brother of Simon Peter,\nwas one of the two who heard John and followed Jesus.\nHe first found his own brother Simon and told him,\n“We have found the Messiah,” which is translated Christ.\nThen he brought him to Jesus.\nJesus looked at him and said,\n“You are Simon the son of John;\nyou will be called Cephas,” which is translated Peter."
+            }
+          },
+          "saint_of_day": {
+            "name": "Elizabeth Ann Seton",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-05": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:43.018Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-05": {
+          "date": "2025-01-05",
+          "liturgical_date": "The Epiphany of the Lord",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 72:1-2, 7-8, 10-11, 12-13.",
+              "response": "R. (cf. 11)  Lord, every nation on earth will adore you.",
+              "content": "O God, with your judgment endow the king,\n\nand with your justice, the king’s son;\n\nHe shall govern your people with justice\n\nand your afflicted ones with judgment.\n\nR. Lord, every nation on earth will adore you.\n\nJustice shall flower in his days,\n\nand profound peace, till the moon be no more.\n\nMay he rule from sea to sea,\n\nand from the River to the ends of the earth.\n\nR. Lord, every nation on earth will adore you.\n\nThe kings of Tarshish and the Isles shall offer gifts;\n\nthe kings of Arabia and Seba shall bring tribute.\n\nAll kings shall pay him homage,\n\nall nations shall serve him.\n\nR. Lord, every nation on earth will adore you.\n\nFor he shall rescue the poor when he cries out,\n\nand the afflicted when he has no one to help him.\n\nHe shall have pity for the lowly and the poor;\n\nthe lives of the poor he shall save.\n\nR. Lord, every nation on earth will adore you."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia. \nWe saw his star at its rising\nand have come to do him homage.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Matthew 2:1-12",
+              "content": "When Jesus was born in Bethlehem of Judea,\nin the days of King Herod, \nbehold, magi from the east arrived in Jerusalem, saying, \n“Where is the newborn king of the Jews?\nWe saw his star at its rising\nand have come to do him homage.”\nWhen King Herod heard this,\nhe was greatly troubled, \nand all Jerusalem with him.\nAssembling all the chief priests and the scribes of the people, \nhe inquired of them where the Christ was to be born.\nThey said to him, “In Bethlehem of Judea, \nfor thus it has been written through the prophet:\nAnd you, Bethlehem, land of Judah,\nare by no means least among the rulers of Judah;\nsince from you shall come a ruler,\nwho is to shepherd my people Israel.”\nThen Herod called the magi secretly \nand ascertained from them the time of the star’s appearance.\nHe sent them to Bethlehem and said, \n“Go and search diligently for the child.\nWhen you have found him, bring me word, \nthat I too may go and do him homage.”\nAfter their audience with the king they set out.\nAnd behold, the star that they had seen at its rising preceded them, \nuntil it came and stopped over the place where the child was.\nThey were overjoyed at seeing the star, \nand on entering the house\nthey saw the child with Mary his mother.\nThey prostrated themselves and did him homage.\nThen they opened their treasures \nand offered him gifts of gold, frankincense, and myrrh.\nAnd having been warned in a dream not to return to Herod, \nthey departed for their country by another way."
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-06": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.646Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-06": {
+          "date": "2025-01-06",
+          "liturgical_date": "Monday after Epiphany",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 1 John 3:22–4:6",
+              "content": "Beloved:\nWe receive from him whatever we ask,\nbecause we keep his commandments and do what pleases him.\nAnd his commandment is this:\nwe should believe in the name of his Son, Jesus Christ,\nand love one another just as he commanded us.\nThose who keep his commandments remain in him, and he in them,\nand the way we know that he remains in us\nis from the Spirit whom he gave us.\n\nBeloved, do not trust every spirit\nbut test the spirits to see whether they belong to God,\nbecause many false prophets have gone out into the world.\nThis is how you can know the Spirit of God:\nevery spirit that acknowledges Jesus Christ come in the flesh\nbelongs to God,\nand every spirit that does not acknowledge Jesus\ndoes not belong to God.\nThis is the spirit of the antichrist\nwho, as you heard, is to come,\nbut in fact is already in the world.\nYou belong to God, children, and you have conquered them,\nfor the one who is in you\nis greater than the one who is in the world.\nThey belong to the world;\naccordingly, their teaching belongs to the world,\nand the world listens to them.\nWe belong to God, and anyone who knows God listens to us,\nwhile anyone who does not belong to God refuses to hear us.\nThis is how we know the spirit of truth and the spirit of deceit."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 2:7bc-8, 10-12a",
+              "response": "R. (8ab)  I will give you all the nations for an inheritance.",
+              "content": "The LORD said to me, \"\"You are my Son;\n\nthis day I have begotten you.\n\nAsk of me and I will give you\n\nthe nations for an inheritance\n\nand the ends of the earth for your possession.\"\"\n\nR. I will give you all the nations for an inheritance.\n\nAnd now, O kings, give heed;\n\ntake warning, you rulers of the earth.\n\nServe the LORD with fear, and rejoice before him;\n\nwith trembling rejoice.\n\nR. I will give you all the nations for an inheritance."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nJesus proclaimed the Gospel of the Kingdom\nand cured every disease among the people.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Matthew 4:12-17, 23-25",
+              "content": "When Jesus heard that John had been arrested,\nhe withdrew to Galilee.\nHe left Nazareth and went to live in Capernaum by the sea,\nin the region of Zebulun and Naphtali,\nthat what had been said through Isaiah the prophet\nmight be fulfilled:\n\nLand of Zebulun and land of Naphtali,\nthe way to the sea, beyond the Jordan,\nGalilee of the Gentiles,\nthe people who sit in darkness\nhave seen a great light,\non those dwelling in a land overshadowed by death\nlight has arisen.\n\nFrom that time on, Jesus began to preach and say,\n\"Repent, for the Kingdom of heaven is at hand.\"\n\nHe went around all of Galilee,\nteaching in their synagogues, proclaiming the Gospel of the Kingdom,\nand curing every disease and illness among the people.\nHis fame spread to all of Syria,\nand they brought to him all who were sick with various diseases\nand racked with pain,\nthose who were possessed, lunatics, and paralytics,\nand he cured them.\nAnd great crowds from Galilee, the Decapolis, Jerusalem, and Judea,\nand from beyond the Jordan followed him."
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-07": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:43.017Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-07": {
+          "date": "2025-01-07",
+          "liturgical_date": "Tuesday after Epiphany",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 1 John 4:7-10",
+              "content": "Beloved, let us love one another,\nbecause love is of God;\neveryone who loves is begotten by God and knows God.\nWhoever is without love does not know God, for God is love.\nIn this way the love of God was revealed to us:\nGod sent his only-begotten Son into the world\nso that we might have life through him.\nIn this is love:\nnot that we have loved God, but that he loved us\nand sent his Son as expiation for our sins."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 72:1-2, 3-4, 7-8",
+              "response": "R. (see 11)  Lord, every nation on earth will adore you.",
+              "content": "O God, with your judgment endow the king,\n\nand with your justice, the king's son;\n\nHe shall govern your people with justice\n\nand your afflicted ones with judgment.\n\nR. Lord, every nation on earth will adore you.\n\nThe mountains shall yield peace for the people,\n\nand the hills justice.\n\nHe shall defend the afflicted among the people,\n\nsave the children of the poor.\n\nR. Lord, every nation on earth will adore you.\n\nJustice shall flower in his days,\n\nand profound peace, till the moon be no more.\n\nMay he rule from sea to sea,\n\nand from the River to the ends of the earth.\n\nR. Lord, every nation on earth will adore you."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nThe Lord has sent me to bring glad tidings to the poor\nand to proclaim liberty to captives.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 6:34-44",
+              "content": "When Jesus saw the vast crowd, his heart was moved with pity for them,\nfor they were like sheep without a shepherd;\nand he began to teach them many things.\nBy now it was already late and his disciples approached him and said,\n\"This is a deserted place and it is already very late.\nDismiss them so that they can go\nto the surrounding farms and villages\nand buy themselves something to eat.\"\nHe said to them in reply,\n\"Give them some food yourselves.\"\nBut they said to him,\n\"Are we to buy two hundred days' wages worth of food\nand give it to them to eat?\"\nHe asked them, \"How many loaves do you have?  Go and see.\"\nAnd when they had found out they said,\n\"Five loaves and two fish.\"\nSo he gave orders to have them sit down in groups on the green grass.\nThe people took their places in rows by hundreds and by fifties.\nThen, taking the five loaves and the two fish and looking up to heaven,\nhe said the blessing, broke the loaves, and gave them to his disciples\nto set before the people;\nhe also divided the two fish among them all.\nThey all ate and were satisfied.\nAnd they picked up twelve wicker baskets full of fragments\nand what was left of the fish.\nThose who ate of the loaves were five thousand men."
+            }
+          },
+          "saint_of_day": {
+            "name": "Raymond Penafort",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-08": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.407Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-08": {
+          "date": "2025-01-08",
+          "liturgical_date": "Wednesday after Epiphany",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 72:1-2, 10, 12-13",
+              "response": "R.    (see 11)  Lord, every nation on earth will adore you.",
+              "content": "O God, with your judgment endow the king,\n\nand with your justice, the king’s son;\n\nHe shall govern your people with justice\n\nand your afflicted ones with judgment.\n\nR.    Lord, every nation on earth will adore you.\n\nThe kings of Tarshish and the Isles shall offer gifts;\n\nthe kings of Arabia and Seba shall bring tribute.\n\nR.    Lord, every nation on earth will adore you.\n\nFor he shall rescue the poor when he cries out,\n\nand the afflicted when he has no one to help him.\n\nHe shall have pity for the lowly and the poor;\n\nthe lives of the poor he shall save.\n\nR.    Lord, every nation on earth will adore you."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nGlory to you, O Christ, proclaimed to the Gentiles.\nGlory to you, O Christ, believed in throughout the world.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 6:45-52",
+              "content": "After the five thousand had eaten and were satisfied,\nJesus made his disciples get into the boat\nand precede him to the other side toward Bethsaida,\nwhile he dismissed the crowd. \nAnd when he had taken leave of them,\nhe went off to the mountain to pray. \nWhen it was evening,\nthe boat was far out on the sea and he was alone on shore. \nThen he saw that they were tossed about while rowing,\nfor the wind was against them. \nAbout the fourth watch of the night,\nhe came toward them walking on the sea. \nHe meant to pass by them.  \nBut when they saw him walking on the sea,\nthey thought it was a ghost and cried out. \nThey had all seen him and were terrified. \nBut at once he spoke with them,\n“Take courage, it is I, do not be afraid!” \nHe got into the boat with them and the wind died down. \nThey were completely astounded. \nThey had not understood the incident of the loaves. \nOn the contrary, their hearts were hardened."
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-09": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:19:23.435Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-09": {
+          "date": "2025-01-09",
+          "liturgical_date": "Thursday after Epiphany",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 72:1-2, 14 and 15bc, 17",
+              "response": "R.    (see 11)  Lord, every nation on earth will adore you.",
+              "content": "O God, with your judgment endow the king,\n\nand with your justice, the king’s son;\n\nHe shall govern your people with justice\n\nand your afflicted ones with judgment.\n\nR.    Lord, every nation on earth will adore you.\n\nFrom fraud and violence he shall redeem them,\n\nand precious shall their blood be in his sight.\n\nMay they be prayed for continually;\n\nday by day shall they bless him.\n\nR.    Lord, every nation on earth will adore you.\n\nMay his name be blessed forever;\n\nas long as the sun his name shall remain.\n\nIn him shall all the tribes of the earth be blessed;\n\nall the nations shall proclaim his happiness.\n\nR.    Lord, every nation on earth will adore you."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nThe Lord has sent me to bring glad tidings to the poor\nand to proclaim liberty to captives.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Luke 4:14-22",
+              "content": "Jesus returned to Galilee in the power of the Spirit,\nand news of him spread throughout the whole region. \nHe taught in their synagogues and was praised by all.\n\nHe came to Nazareth, where he had grown up,\nand went according to his custom\ninto the synagogue on the sabbath day. \nHe stood up to read and was handed a scroll of the prophet Isaiah. \nHe unrolled the scroll and found the passage where it was written:\n\nThe Spirit of the Lord is upon me,\n    because he has anointed me\n        to bring glad tidings to the poor.\nHe has sent me to proclaim liberty to captives\n    and recovery of sight to the blind,\n        to let the oppressed go free,\nand to proclaim a year acceptable to the Lord.\n\nRolling up the scroll, he handed it back to the attendant and sat down,\nand the eyes of all in the synagogue looked intently at him. \nHe said to them,\n“Today this Scripture passage is fulfilled in your hearing.” \nAnd all spoke highly of him\nand were amazed at the gracious words that came from his mouth."
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-10": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.414Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-10": {
+          "date": "2025-01-10",
+          "liturgical_date": "Friday after Epiphany",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 147:12-13, 14-15, 19-20",
+              "response": "R.    (12a)  Praise the Lord, Jerusalem.",
+              "content": "or:\n\nR.    Alleluia.\n\nGlorify the LORD, O Jerusalem;\n\npraise your God, O Zion.\n\nFor he has strengthened the bars of your gates;\n\nhe has blessed your children within you.\n\nR.    Praise the Lord, Jerusalem.\n\nor:\n\nR.    Alleluia.\n\nHe has granted peace in your borders;\n\nwith the best of wheat he fills you.\n\nHe sends forth his command to the earth;\n\nswiftly runs his word!\n\nR.    Praise the Lord, Jerusalem.\n\nor:\n\nR.    Alleluia.\n\nHe has proclaimed his word to Jacob,\n\nhis statutes and his ordinances to Israel.\n\nHe has not done thus for any other nation;\n\nhis ordinances he has not made known to them. Alleluia.\n\nR.    Praise the Lord, Jerusalem.\n\nor:\n\nR.    Alleluia."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nJesus proclaimed the Gospel of the Kingdom\nand cured every disease among the people.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Luke 5:12-16",
+              "content": "It happened that there was a man full of leprosy in one of the towns where Jesus was;\nand when he saw Jesus,\nhe fell prostrate, pleaded with him, and said,\n“Lord, if you wish, you can make me clean.” \nJesus stretched out his hand, touched him, and said,\n“I do will it.  Be made clean.” \nAnd the leprosy left him immediately. \nThen he ordered him not to tell anyone, but\n“Go, show yourself to the priest and offer for your cleansing\nwhat Moses prescribed; that will be proof for them.” \nThe report about him spread all the more,\nand great crowds assembled to listen to him\nand to be cured of their ailments,\nbut he would withdraw to deserted places to pray."
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-11": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.648Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-11": {
+          "date": "2025-01-11",
+          "liturgical_date": "Saturday after Epiphany",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 149:1-2, 3-4, 5-6a and 9b",
+              "response": "R.    (see 4a)  The Lord takes delight in his people.",
+              "content": "or:\n\nR.    Alleluia.\n\nSing to the LORD a new song\n\nof praise in the assembly of the faithful.\n\nLet Israel be glad in their maker,\n\nlet the children of Zion rejoice in their king.\n\nR.    (see 4a)  The Lord takes delight in his people.\n\nor:\n\nR.    Alleluia.\n\nLet them praise his name in the festive dance,\n\nlet them sing praise to him with timbrel and harp.\n\nFor the LORD loves his people,\n\nand he adorns the lowly with victory.\n\nR.    (see 4a)  The Lord takes delight in his people.\n\nor:\n\nR.    Alleluia.\n\nLet the faithful exult in glory;\n\nlet them sing for joy upon their couches;\n\nLet the high praises of God be in their throats.\n\nThis is the glory of all his faithful. Alleluia.\n\nR.    (see 4a)  The Lord takes delight in his people.\n\nor:\n\nR.    Alleluia."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nThe people who sit in darkness have seen a great light,\non those dwelling in a land overshadowed by death\nlight has arisen.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel John 3:22-30",
+              "content": "Jesus and his disciples went into the region of Judea,where he spent some time with them baptizing. John was also baptizing in Aenon near Salim,because there was an abundance of water there,and people came to be baptized,for John had not yet been imprisoned. Now a dispute arose between the disciples of John and a Jewabout ceremonial washings. So they came to John and said to him,“Rabbi, the one who was with you across the Jordan,to whom you testified,here he is baptizing and everyone is coming to him.”John answered and said,“No one can receive anything except what has been given from heaven. You yourselves can testify that I said that I am not the Christ,but that I was sent before him. The one who has the bride is the bridegroom;the best man, who stands and listens for him,rejoices greatly at the bridegroom’s voice. So this joy of mine has been made complete. He must increase; I must decrease.”"
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-12": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.529Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-12": {
+          "date": "2025-01-12",
+          "liturgical_date": "The Baptism of the Lord",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 29:1-2, 3-4, 3, 9-10",
+              "response": "R. (11b)  The Lord will bless his people with peace.",
+              "content": "Give to the LORD, you sons of God,\n\ngive to the LORD glory and praise,\n\nGive to the LORD the glory due his name;\n\nadore the LORD in holy attire.\n\nR. The Lord will bless his people with peace.\n\nThe voice of the LORD is over the waters,\n\nthe LORD, over vast waters.\n\nThe voice of the LORD is mighty;\n\nthe voice of the LORD is majestic.\n\nR. The Lord will bless his people with peace.\n\nThe God of glory thunders,\n\nand in his temple all say, “Glory!”\n\nThe LORD is enthroned above the flood;\n\nthe LORD is enthroned as king forever.\n\nR. The Lord will bless his people with peace.\n\nOR:\n\nPsalm 104:1b-2, 3-4, 24-25, 27-28, 29-30\n\nR. (1)  O bless the Lord, my soul.\n\nO LORD, my God, you are great indeed!\n\nyou are clothed with majesty and glory,\n\nrobed in light as with a cloak.\n\nYou have spread out the heavens like a tent-cloth;\n\nR. O bless the Lord, my soul.\n\nYou have constructed your palace upon the waters.\n\nYou make the clouds your chariot;\n\nyou travel on the wings of the wind.\n\nYou make the winds your messengers,\n\nand flaming fire your ministers.\n\nR. O bless the Lord, my soul.\n\nHow manifold are your works, O LORD!\n\nIn wisdom you have wrought them all--\n\nthe earth is full of your creatures;\n\nthe sea also, great and wide,\n\nin which are schools without number\n\nof living things both small and great.\n\nR. O bless the Lord, my soul.\n\nThey look to you to give them food in due time.\n\nWhen you give it to them, they gather it;\n\nwhen you open your hand, they are filled with good things.\n\nR. O bless the Lord, my soul.\n\nIf you take away their breath, they perish and return to the dust.\n\nWhen you send forth your spirit, they are created,\n\nand you renew the face of the earth.\n\nR. O bless the Lord, my soul."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nThe heavens were opened and the voice of the Father thundered:\nThis is my beloved Son, listen to him.\nR. Alleluia, alleluia.\n\nOR:\n\nCf. Luke 3:16\nR. Alleluia, alleluia.\nJohn said: One mightier than I is coming;\nhe will baptize you with the Holy Spirit and with fire.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Luke 3:15-16, 21-22",
+              "content": "The people were filled with expectation,\nand all were asking in their hearts\nwhether John might be the Christ.\nJohn answered them all, saying, \n“I am baptizing you with water,\nbut one mightier than I is coming.\nI am not worthy to loosen the thongs of his sandals.\nHe will baptize you with the Holy Spirit and fire.”\n\nAfter all the people had been baptized \nand Jesus also had been baptized and was praying, \nheaven was opened and the Holy Spirit descended upon him\nin bodily form like a dove. \nAnd a voice came from heaven, \n“You are my beloved Son;\nwith you I am well pleased.”"
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-13": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.225Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-13": {
+          "date": "2025-01-13",
+          "liturgical_date": "Monday of the First Week in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 97:1 and 2b, 6 and 7c, 9",
+              "response": "R.    (see 7c) Let all his angels worship him.",
+              "content": "The LORD is king; let the earth rejoice;\n\nlet the many isles be glad.\n\nJustice and judgment are the foundation of his throne.\n\nR.    Let all his angels worship him.\n\nThe heavens proclaim his justice,\n\nand all peoples see his glory.\n\nLet all his angels worship him.\n\nR.    Let all his angels worship him.\n\nBecause you, O LORD, are the Most High over all the earth,\n\nexalted far above all gods.\n\nR.    Let all his angels worship him."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nThe Kingdom of God is at hand;\nrepent and believe in the Gospel.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 1:14-20",
+              "content": "After John had been arrested,\nJesus came to Galilee proclaiming the Gospel of God:\n“This is the time of fulfillment.\nThe Kingdom of God is at hand.\nRepent, and believe in the Gospel.”\n\nAs he passed by the Sea of Galilee,\nhe saw Simon and his brother Andrew casting their nets into the sea;\nthey were fishermen.\nJesus said to them,\n“Come after me, and I will make you fishers of men.”\nThen they left their nets and followed him.\nHe walked along a little farther\nand saw James, the son of Zebedee, and his brother John.\nThey too were in a boat mending their nets.\nThen he called them.\nSo they left their father Zebedee in the boat\nalong with the hired men and followed him."
+            }
+          },
+          "saint_of_day": {
+            "name": "Hilary",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-14": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.266Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-14": {
+          "date": "2025-01-14",
+          "liturgical_date": "Tuesday of the First Week in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 8:2ab and 5, 6-7, 8-9",
+              "response": "R.    (see 7) You have given your Son rule over the works of your hands.",
+              "content": "O LORD, our Lord,\n\nhow glorious is your name over all the earth!\n\nWhat is man that you should be mindful of him,\n\nor the son of man that you should care for him?\n\nR.    You have given your Son rule over the works of your hands.\n\nYou have made him little less than the angels,\n\nand crowned him with glory and honor.\n\nYou have given him rule over the works of your hands,\n\nputting all things under his feet.\n\nR.    You have given your Son rule over the works of your hands.\n\nAll sheep and oxen,\n\nyes, and the beasts of the field,\n\nThe birds of the air, the fishes of the sea,\n\nand whatever swims the paths of the seas.\n\nR.    You have given your Son rule over the works of your hands."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nReceive the word of God, not as the word of men,\nbut as it truly is, the word of God.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 1:21-28",
+              "content": "Jesus came to Capernaum with his followers, \nand on the sabbath he entered the synagogue and taught.\nThe people were astonished at his teaching,\nfor he taught them as one having authority and not as the scribes.\nIn their synagogue was a man with an unclean spirit;\nhe cried out, “What have you to do with us, Jesus of Nazareth?\nHave you come to destroy us?\nI know who you are–the Holy One of God!” \nJesus rebuked him and said, “Quiet!  Come out of him!”\nThe unclean spirit convulsed him and with a loud cry came out of him.\nAll were amazed and asked one another,\n“What is this?\nA new teaching with authority.\nHe commands even the unclean spirits and they obey him.”\nHis fame spread everywhere throughout the whole region of Galilee."
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-15": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.227Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-15": {
+          "date": "2025-01-15",
+          "liturgical_date": "Wednesday of the First Week in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 105:1-2, 3-4, 6-7, 8-9",
+              "response": "R.    (8a)  The Lord remembers his covenant for ever.",
+              "content": "or:\n\nR.    Alleluia.\n\nGive thanks to the LORD, invoke his name;\n\nmake known among the nations his deeds.\n\nSing to him, sing his praise,\n\nproclaim all his wondrous deeds.\n\nR.    (8a)  The Lord remembers his covenant for ever.\n\nor:\n\nR.    Alleluia.\n\nGlory in his holy name;\n\nrejoice, O hearts that seek the LORD!\n\nLook to the LORD in his strength;\n\nseek to serve him constantly.\n\nR.    (8a)  The Lord remembers his covenant for ever.\n\nor:\n\nR.    Alleluia.\n\nYou descendants of Abraham, his servants,\n\nsons of Jacob, his chosen ones!\n\nHe, the LORD, is our God;\n\nthroughout the earth his judgments prevail.\n\nR.    (8a)  The Lord remembers his covenant for ever.\n\nor:\n\nR.    Alleluia.\n\nHe remembers forever his covenant\n\nwhich he made binding for a thousand generations--\n\nWhich he entered into with Abraham\n\nand by his oath to Isaac.\n\nR.    (8a)  The Lord remembers his covenant for ever.\n\nor:\n\nR.    Alleluia."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nMy sheep hear my voice, says the Lord.\nI know them, and they follow me.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 1:29-39",
+              "content": "On leaving the synagogue\nJesus entered the house of Simon and Andrew with James and John.\nSimon’s mother-in-law lay sick with a fever.\nThey immediately told him about her.\nHe approached, grasped her hand, and helped her up.\nThen the fever left her and she waited on them.\n\nWhen it was evening, after sunset,\nthey brought to him all who were ill or possessed by demons.\nThe whole town was gathered at the door.\nHe cured many who were sick with various diseases,\nand he drove out many demons,\nnot permitting them to speak because they knew him.\n\nRising very early before dawn, \nhe left and went off to a deserted place, where he prayed.\nSimon and those who were with him pursued him\nand on finding him said, “Everyone is looking for you.”\nHe told them, “Let us go on to the nearby villages\nthat I may preach there also.\nFor this purpose have I come.”\nSo he went into their synagogues, preaching and driving out demons \nthroughout the whole of Galilee."
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-16": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.996Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-16": {
+          "date": "2025-01-16",
+          "liturgical_date": "Thursday of the First Week in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 3:7-14",
+              "content": "The Holy Spirit says:\n    Oh, that today you would hear his voice,\n        “Harden not your hearts as at the rebellion\n        in the day of testing in the desert,\n    where your ancestors tested and tried me\n        and saw my works for forty years.\n    Because of this I was provoked with that generation\n        and I said, ‘They have always been of erring heart,\n        and they do not know my ways.’\n    As I swore in my wrath,\n        ‘They shall not enter into my rest.’”\nTake care, brothers and sisters,\nthat none of you may have an evil and unfaithful heart,\nso as to forsake the living God.\nEncourage yourselves daily while it is still “today,”\nso that none of you may grow hardened by the deceit of sin.\nWe have become partners of Christ\nif only we hold the beginning of the reality firm until the end."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 95:6-7c, 8-9, 10-11",
+              "response": "R.    (8)  If today you hear his voice, harden not your hearts.",
+              "content": "Come, let us bow down in worship;\n\nlet us kneel before the LORD who made us.\n\nFor he is our God,\n\nand we are the people he shepherds, the flock he guides.\n\nR.    If today you hear his voice, harden not your hearts.\n\nOh, that today you would hear his voice:\n\n“Harden not your hearts as at Meribah,\n\nas in the day of Massah in the desert,\n\nWhere your fathers tempted me;\n\nthey tested me though they had seen my works.”\n\nR.    If today you hear his voice, harden not your hearts.\n\nForty years I was wearied of that generation;\n\nI said: “This people’s heart goes astray,\n\nthey do not know my ways.”\n\nTherefore I swore in my anger:\n\n“They shall never enter my rest.”\n\nR.    If today you hear his voice, harden not your hearts."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nJesus preached the Gospel of the Kingdom\nand cured every disease among the people.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 1:40-45",
+              "content": "A leper came to him and kneeling down begged him and said,\n“If you wish, you can make me clean.”\nMoved with pity, he stretched out his hand,\ntouched the leper, and said to him,\n“I do will it. Be made clean.”\nThe leprosy left him immediately, and he was made clean.\nThen, warning him sternly, he dismissed him at once.\nThen he said to him, “See that you tell no one anything,\nbut go, show yourself to the priest\nand offer for your cleansing what Moses prescribed;\nthat will be proof for them.”\nThe man went away and began to publicize the whole matter.\nHe spread the report abroad\nso that it was impossible for Jesus to enter a town openly.\nHe remained outside in deserted places,\nand people kept coming to him from everywhere."
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-17": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:43.015Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-17": {
+          "date": "2025-01-17",
+          "liturgical_date": "Memorial of Saint Anthony, Abbot",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 78:3 & 4bc, 6c-7, 8",
+              "response": "R.    (see 7b)  Do not forget the works of the Lord!",
+              "content": "What we have heard and know,\n\nand what our fathers have declared to us,\n\nwe will declare to the generation to come\n\nThe glorious deeds of the LORD and his strength.\n\nR.    Do not forget the works of the Lord!\n\nThat they too may rise and declare to their sons\n\nthat they should put their hope in God,\n\nAnd not forget the deeds of God\n\nbut keep his commands.\n\nR.    Do not forget the works of the Lord!\n\nAnd not be like their fathers,\n\na generation wayward and rebellious,\n\nA generation that kept not its heart steadfast\n\nnor its spirit faithful toward God.\n\nR.    Do not forget the works of the Lord!"
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nA great prophet has arisen in our midst\nand God has visited his people.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 2:1-12",
+              "content": "When Jesus returned to Capernaum after some days,\nit became known that he was at home.\nMany gathered together so that there was no longer room for them,\nnot even around the door,\nand he preached the word to them.\nThey came bringing to him a paralytic carried by four men.\nUnable to get near Jesus because of the crowd,\nthey opened up the roof above him.\nAfter they had broken through,\nthey let down the mat on which the paralytic was lying.\nWhen Jesus saw their faith, he said to him,\n“Child, your sins are forgiven.”\nNow some of the scribes were sitting there asking themselves,\n“Why does this man speak that way?  He is blaspheming.\nWho but God alone can forgive sins?”\nJesus immediately knew in his mind what \nthey were thinking to themselves, \nso he said, “Why are you thinking such things in your hearts?\nWhich is easier, to say to the paralytic,\n‘Your sins are forgiven,’\nor to say, ‘Rise, pick up your mat and walk’?\nBut that you may know\nthat the Son of Man has authority to forgive sins on earth”\n–he said to the paralytic,\n“I say to you, rise, pick up your mat, and go home.”\nHe rose, picked up his mat at once, \nand went away in the sight of everyone.\nThey were all astounded\nand glorified God, saying, “We have never seen anything like this.”"
+            }
+          },
+          "saint_of_day": {
+            "name": "Anthony Abbot",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-18": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:43.011Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-18": {
+          "date": "2025-01-18",
+          "liturgical_date": "Saturday of the First Week in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 4:12-16",
+              "content": "The word of God is living and effective,\nsharper than any two-edged sword,\npenetrating even between soul and spirit,\njoints and marrow,\nand able to discern reflections and thoughts of the heart.\nNo creature is concealed from him,\nbut everything is naked and exposed to the eyes of him\nto whom we must render an account.\n\nSince we have a great high priest who has passed through the heavens,     \nJesus, the Son of God,\nlet us hold fast to our confession.\nFor we do not have a high priest\nwho is unable to sympathize with our weaknesses,\nbut one who has similarly been tested in every way,\nyet without sin.\nSo let us confidently approach the throne of grace\nto receive mercy and to find grace for timely help."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 19:8, 9, 10, 15",
+              "response": "R.    (see John 6:63c)  Your words, Lord, are Spirit and life.",
+              "content": "The law of the LORD is perfect,\n\nrefreshing the soul;\n\nThe decree of the LORD is trustworthy,\n\ngiving wisdom to the simple.\n\nR.    Your words, Lord, are Spirit and life.\n\nThe precepts of the LORD are right,\n\nrejoicing the heart;\n\nThe command of the LORD is clear,\n\nenlightening the eye.\n\nR.    Your words, Lord, are Spirit and life.\n\nThe fear of the LORD is pure,\n\nenduring forever;\n\nThe ordinances of the LORD are true,\n\nall of them just.\n\nR.    Your words, Lord, are Spirit and life.\n\nLet the words of my mouth and the thought of my heart\n\nfind favor before you,\n\nO LORD, my rock and my redeemer.\n\nR.    Your words, Lord, are Spirit and life."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nThe Lord sent me to bring glad tidings to the poor\nand to proclaim liberty to captives.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 2:13-17",
+              "content": "Jesus went out along the sea.\nAll the crowd came to him and he taught them.\nAs he passed by, he saw Levi, son of Alphaeus,\nsitting at the customs post.\nJesus said to him, “Follow me.”\nAnd he got up and followed Jesus.\nWhile he was at table in his house,\nmany tax collectors and sinners sat with Jesus and his disciples;\nfor there were many who followed him.\nSome scribes who were Pharisees saw that Jesus was eating with sinners\nand tax collectors and said to his disciples,\n“Why does he eat with tax collectors and sinners?”\nJesus heard this and said to them,\n“Those who are well do not need a physician, but the sick do.\nI did not come to call the righteous but sinners.”"
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-19": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.285Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-19": {
+          "date": "2025-01-19",
+          "liturgical_date": "Second Sunday in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 96:1-2, 2-3, 7-8, 9-10",
+              "response": "R. (3) Proclaim his marvelous deeds to all the nations.",
+              "content": "Sing to the LORD a new song;\n\nsing to the LORD, all you lands.\n\nSing to the LORD; bless his name.\n\nR. Proclaim his marvelous deeds to all the nations.\n\nAnnounce his salvation, day after day.\n\nTell his glory among the nations;\n\namong all peoples, his wondrous deeds.\n\nR. Proclaim his marvelous deeds to all the nations.\n\nGive to the LORD, you families of nations,\n\ngive to the LORD glory and praise;\n\ngive to the LORD the glory due his name!\n\nR. Proclaim his marvelous deeds to all the nations.\n\nWorship the LORD in holy attire.\n\nTremble before him, all the earth;\n\nSay among the nations: The LORD is king.\n\nHe governs the peoples with equity.\n\nR. Proclaim his marvelous deeds to all the nations."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nGod has called us through the Gospel\nto possess the glory of our Lord Jesus Christ.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel John 2:1-11",
+              "content": "There was a wedding at Cana in Galilee,\nand the mother of Jesus was there.\nJesus and his disciples were also invited to the wedding.\nWhen the wine ran short,\nthe mother of Jesus said to him,\n“They have no wine.”\nAnd Jesus said to her,\n“Woman, how does your concern affect me?\nMy hour has not yet come.”\nHis mother said to the servers,\n“Do whatever he tells you.”\nNow there were six stone water jars there for Jewish ceremonial washings,\neach holding twenty to thirty gallons.\nJesus told them,\n“Fill the jars with water.”\nSo they filled them to the brim.\nThen he told them,\n“Draw some out now and take it to the headwaiter.”\nSo they took it. \nAnd when the headwaiter tasted the water that had become wine,\nwithout knowing where it came from\n— although the servers who had drawn the water knew —,\nthe headwaiter called the bridegroom and said to him,\n“Everyone serves good wine first,\nand then when people have drunk freely, an inferior one;\nbut you have kept the good wine until now.”\nJesus did this as the beginning of his signs at Cana in Galilee\nand so revealed his glory,\nand his disciples began to believe in him."
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-20": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.997Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-20": {
+          "date": "2025-01-20",
+          "liturgical_date": "Monday of the Second Week in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 5:1-10",
+              "content": "Brothers and sisters:\nEvery high priest is taken from among men\nand made their representative before God,\nto offer gifts and sacrifices for sins.\nHe is able to deal patiently with the ignorant and erring,\nfor he himself is beset by weakness\nand so, for this reason, must make sin offerings for himself\nas well as for the people.\nNo one takes this honor upon himself\nbut only when called by God,\njust as Aaron was.\nIn the same way,\nit was not Christ who glorified himself in becoming high priest,\nbut rather the one who said to him:\nYou are my Son:\nthis day I have begotten you;\njust as he says in another place,\nYou are a priest forever\naccording to the order of Melchizedek.\nIn the days when he was in the Flesh,\nhe offered prayers and supplications with loud cries and tears\nto the one who was able to save him from death,\nand he was heard because of his reverence.\nSon though he was, he learned obedience from what he suffered;\nand when he was made perfect,\nhe became the source of eternal salvation for all who obey him."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 110:1, 2, 3, 4",
+              "response": "R. (4b) You are a priest for ever, in the line of Melchizedek.",
+              "content": "The LORD said to my Lord: \"Sit at my right hand\n\ntill I make your enemies your footstool.\"\n\nR. You are a priest for ever, in the line of Melchizedek.\n\nThe scepter of your power the LORD will stretch forth from Zion:\n\n\"Rule in the midst of your enemies.\"\n\nR. You are a priest for ever, in the line of Melchizedek.\n\n\"Yours is princely power in the day of your birth, in holy splendor;\n\nbefore the daystar, like the dew, I have begotten you.\"\n\nR. You are a priest for ever, in the line of Melchizedek.\n\nThe LORD has sworn, and he will not repent:\n\n\"You are a priest forever, according to the order of Melchizedek.\"\n\nR. You are a priest for ever, in the line of Melchizedek."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nThe word of God is living and effective,\nable to discern reflections and thoughts of the heart.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 2:18-22",
+              "content": "The disciples of John and of the Pharisees were accustomed to fast.\nPeople came to Jesus and objected,\n\"Why do the disciples of John and the disciples of the Pharisees fast,\nbut your disciples do not fast?\"\nJesus answered them,\n\"Can the wedding guests fast while the bridegroom is with them?\nAs long as they have the bridegroom with them they cannot fast.\nBut the days will come when the bridegroom is taken away from them,\nand then they will fast on that day.\nNo one sews a piece of unshrunken cloth on an old cloak.\nIf he does, its fullness pulls away,\nthe new from the old, and the tear gets worse.\nLikewise, no one pours new wine into old wineskins.\nOtherwise, the wine will burst the skins,\nand both the wine and the skins are ruined.\nRather, new wine is poured into fresh wineskins.\""
+            }
+          },
+          "saint_of_day": {
+            "name": "Fabian",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-21": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.952Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-21": {
+          "date": "2025-01-21",
+          "liturgical_date": "Memorial of Saint Agnes, Virgin and Martyr",
+          "liturgical_color": "red",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 6:10-20",
+              "content": "Brothers and sisters:\nGod is not unjust so as to overlook your work\nand the love you have demonstrated for his name\nby having served and continuing to serve the holy ones.\nWe earnestly desire each of you to demonstrate the same eagerness\nfor the fulfillment of hope until the end,\nso that you may not become sluggish, but imitators of those who,\nthrough faith and patience, are inheriting the promises.\n\nWhen God made the promise to Abraham,\nsince he had no one greater by whom to swear, he swore by himself,\nand said, I will indeed bless you and multiply you.\nAnd so, after patient waiting, Abraham obtained the promise.\nNow, men swear by someone greater than themselves;\nfor them an oath serves as a guarantee\nand puts an end to all argument.\nSo when God wanted to give the heirs of his promise\nan even clearer demonstration of the immutability of his purpose,\nhe intervened with an oath,\nso that by two immutable things,\nin which it was impossible for God to lie,\nwe who have taken refuge might be strongly encouraged\nto hold fast to the hope that lies before us.\nThis we have as an anchor of the soul,\nsure and firm, which reaches into the interior behind the veil,\nwhere Jesus has entered on our behalf as forerunner,\nbecoming high priest forever\naccording to the order of Melchizedek."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 111:1-2, 4-5, 9, 10c",
+              "response": "R.    (5)  The Lord will remember his covenant for ever.",
+              "content": "or:\n\nR.    Alleluia.\n\nI will give thanks to the LORD with all my heart\n\nin the company and assembly of the just.\n\nGreat are the works of the LORD,\n\nexquisite in all their delights.\n\nR.    The Lord will remember his covenant for ever.\n\nor:\n\nR.    Alleluia.\n\nHe has won renown for his wondrous deeds;\n\ngracious and merciful is the LORD.\n\nHe has given food to those who fear him;\n\nhe will forever be mindful of his covenant.\n\nR.    The Lord will remember his covenant for ever.\n\nor:\n\nR.    Alleluia.\n\nHe has sent deliverance to his people;\n\nhe has ratified his covenant forever;\n\nholy and awesome is his name.\n\nHis praise endures forever.\n\nR.    The Lord will remember his covenant for ever.\n\nor:\n\nR.    Alleluia."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nMay the Father of our Lord Jesus Christ\nenlighten the eyes of our hearts,\nthat we may know what is the hope\nthat belongs to our call.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 2:23-28",
+              "content": "As Jesus was passing through a field of grain on the sabbath,\nhis disciples began to make a path while picking the heads of grain.\nAt this the Pharisees said to him,\n“Look, why are they doing what is unlawful on the sabbath?”\nHe said to them,\n“Have you never read what David did\nwhen he was in need and he and his companions were hungry?\nHow he went into the house of God when Abiathar was high priest\nand ate the bread of offering that only the priests could lawfully eat,\nand shared it with his companions?”\nThen he said to them,\n“The sabbath was made for man, not man for the sabbath.\nThat is why the Son of Man is lord even of the sabbath.”"
+            }
+          },
+          "saint_of_day": {
+            "name": "Agnes",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-22": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:19:23.702Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-22": {
+          "date": "2025-01-22",
+          "liturgical_date": "Day of Prayer for the Legal Protection of Unborn Children",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 7:1-3, 15-17",
+              "content": "Melchizedek, king of Salem and priest of God Most High,\nmet Abraham as he returned from his defeat of the kings\nand blessed him.\nAnd Abraham apportioned to him a tenth of everything.\nHis name first means righteous king,\nand he was also \"king of Salem,\" that is, king of peace.\nWithout father, mother, or ancestry,\nwithout beginning of days or end of life,\nthus made to resemble the Son of God, he remains a priest forever.\n\nIt is even more obvious if another priest is raised up\nafter the likeness of Melchizedek, who has become so,\nnot by a law expressed in a commandment concerning physical descent\nbut by the power of a life that cannot be destroyed.\nFor it is testified:\n\nYou are a priest forever according to the order of Melchizedek."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 110:1, 2, 3, 4",
+              "response": "R. (4b)  You are a priest for ever, in the line of Melchizedek.",
+              "content": "The LORD said to my Lord: \"Sit at my right hand\n\ntill I make your enemies your footstool.\"\n\nR. You are a priest for ever, in the line of Melchizedek.\n\nThe scepter of your power the LORD will stretch forth from Zion:\n\n\"Rule in the midst of your enemies.\"\n\nR. You are a priest for ever, in the line of Melchizedek.\n\n\"Yours is princely power in the day of your birth, in holy splendor;\n\nbefore the daystar, like the dew, I have begotten you.\"\n\nR. You are a priest for ever, in the line of Melchizedek.\n\nThe LORD has sworn, and he will not repent:\n\n\"You are a priest forever, according to the order of Melchizedek.\"\n\nR. You are a priest for ever, in the line of Melchizedek."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nJesus preached the Gospel of the Kingdom\nand cured every disease among the people.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 3:1-6",
+              "content": "Jesus entered the synagogue.\nThere was a man there who had a withered hand.\nThey watched Jesus closely\nto see if he would cure him on the sabbath\nso that they might accuse him.\nHe said to the man with the withered hand,\n“Come up here before us.”\nThen he said to the Pharisees,\n“Is it lawful to do good on the sabbath rather than to do evil,\nto save life rather than to destroy it?”\nBut they remained silent.\nLooking around at them with anger\nand grieved at their hardness of heart,\nJesus said to the man, “Stretch out your hand.”\nHe stretched it out and his hand was restored.\nThe Pharisees went out and immediately took counsel\nwith the Herodians against him to put him to death."
+            }
+          },
+          "saint_of_day": {
+            "name": "Legal Protection",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-23": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.788Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-23": {
+          "date": "2025-01-23",
+          "liturgical_date": "Thursday of the Second Week in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 7:25—8:6",
+              "content": "Jesus is always able to save those who approach God through him,\nsince he lives forever to make intercession for them.\n\nIt was fitting that we should have such a high priest: \nholy, innocent, undefiled, separated from sinners, \nhigher than the heavens.\nHe has no need, as did the high priests, \nto offer sacrifice day after day,\nfirst for his own sins and then for those of the people; \nhe did that once for all when he offered himself.\nFor the law appoints men subject to weakness to be high priests, \nbut the word of the oath, which was taken after the law, \nappoints a son, who has been made perfect forever.\n\nThe main point of what has been said is this: \nwe have such a high priest, \nwho has taken his seat at the right hand of the throne\nof the Majesty in heaven, a minister of the sanctuary \nand of the true tabernacle that the Lord, not man, set up.\nNow every high priest is appointed to offer gifts and sacrifices; \nthus the necessity for this one also to have something to offer.\nIf then he were on earth, he would not be a priest, \nsince there are those who offer gifts according to the law.\nThey worship in a copy and shadow of the heavenly sanctuary,\nas Moses was warned when he was about to erect the tabernacle.\nFor God says, “See that you make everything \naccording to the pattern shown you on the mountain.”\nNow he has obtained so much more excellent a ministry \nas he is mediator of a better covenant, \nenacted on better promises."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 40:7-8a, 8b-9, 10, 17",
+              "response": "R.    (8a and 9a)  Here am I, Lord; I come to do your will.",
+              "content": "Sacrifice or oblation you wished not,\n\nbut ears open to obedience you gave me.\n\nBurnt offerings or sin-offerings you sought not;\n\nthen said I, “Behold I come.”\n\nR.    Here am I, Lord; I come to do your will.\n\n“In the written scroll it is prescribed for me,\n\nTo do your will, O my God, is my delight,\n\nand your law is within my heart!”\n\nR.    Here am I, Lord; I come to do your will.\n\nI announced your justice in the vast assembly;\n\nI did not restrain my lips, as you, O LORD, know.\n\nR.    Here am I, Lord; I come to do your will.\n\nMay all who seek you\n\nexult and be glad in you,\n\nAnd may those who love your salvation\n\nsay ever, “The LORD be glorified.”\n\nR.    Here am I, Lord; I come to do your will."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nOur Savior Jesus Christ has destroyed death\nand brought life to light through the Gospel.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 3:7-12",
+              "content": "Jesus withdrew toward the sea with his disciples.\nA large number of people followed from Galilee and from Judea.\nHearing what he was doing,\na large number of people came to him also from Jerusalem,\nfrom Idumea, from beyond the Jordan,\nand from the neighborhood of Tyre and Sidon.\nHe told his disciples to have a boat ready for him because of the crowd,\nso that they would not crush him.\nHe had cured many and, as a result, those who had diseases\nwere pressing upon him to touch him.\nAnd whenever unclean spirits saw him they would fall down before him\nand shout, “You are the Son of God.”\nHe warned them sternly not to make him known."
+            }
+          },
+          "saint_of_day": {
+            "name": "Marianne Cope",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-24": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.401Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-24": {
+          "date": "2025-01-24",
+          "liturgical_date": "Memorial of Saint Francis de Sales, Bishop and Doctor of the Church",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 8:6-13",
+              "content": "Brothers and sisters:\nNow our high priest has obtained so much more excellent a ministry\nas he is mediator of a better covenant,\nenacted on better promises.\n\nFor if that first covenant had been faultless,\nno place would have been sought for a second one.\nBut he finds fault with them and says:\nBehold, the days are coming, says the Lord,\nwhen I will conclude a new covenant with the house of\nIsrael and the house of Judah.\nIt will not be like the covenant I made with their fathers\nthe day I took them by the hand to lead\nthem forth from the land of Egypt;\nfor they did not stand by my covenant\nand I ignored them, says the Lord.\nBut this is the covenant I will establish with the house of Israel\nafter those days, says the Lord:\nI will put my laws in their minds\nand I will write them upon their hearts.\nI will be their God,\nand they shall be my people.\nAnd they shall not teach, each one his fellow citizen and kin, saying,\n“Know the Lord,”\nfor all shall know me, from least to greatest.\nFor I will forgive their evildoing\nand remember their sins no more.\n\nWhen he speaks of a “new” covenant,\nhe declares the first one obsolete.\nAnd what has become obsolete\nand has grown old is close to disappearing."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 85:8, 10, 11-12, 13-14",
+              "response": "R. (11a) Kindness and truth shall meet.",
+              "content": "Show us, O LORD, your mercy,\n\nand grant us your salvation.\n\nNear indeed is his salvation to those who fear him,\n\nglory dwelling in our land.\n\nR. Kindness and truth shall meet.\n\nKindness and truth shall meet;\n\njustice and peace shall kiss.\n\nTruth shall spring out of the earth,\n\nand justice shall look down from heaven.\n\nR. Kindness and truth shall meet.\n\nThe LORD himself will give his benefits;\n\nour land shall yield its increase.\n\nJustice shall walk before him,\n\nand salvation, along the way of his steps.\n\nR. Kindness and truth shall meet."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nGod was reconciling the world to himself in Christ,\nand entrusting to us the message of reconciliation.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 3:13-19",
+              "content": "Jesus went up the mountain and summoned those whom he wanted\nand they came to him.\nHe appointed Twelve, whom he also named Apostles,\nthat they might be with him\nand he might send them forth to preach\nand to have authority to drive out demons:\nHe appointed the Twelve:\nSimon, whom he named Peter;\nJames, son of Zebedee,\nand John the brother of James, whom he named Boanerges,\nthat is, sons of thunder;\nAndrew, Philip, Bartholomew,\nMatthew, Thomas, James the son of Alphaeus;\nThaddeus, Simon the Cananean,\nand Judas Iscariot who betrayed him."
+            }
+          },
+          "saint_of_day": {
+            "name": "Francis De Sales",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-25": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:43.698Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-25": {
+          "date": "2025-01-25",
+          "liturgical_date": "Feast of the Conversion of Saint Paul, Apostle",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Acts 22:3-16",
+              "content": "Paul addressed the people in these words:\n“I am a Jew, born in Tarsus in Cilicia,\nbut brought up in this city.\nAt the feet of Gamaliel I was educated strictly in our ancestral law\nand was zealous for God, just as all of you are today.\nI persecuted this Way to death,\nbinding both men and women and delivering them to prison.\nEven the high priest and the whole council of elders\ncan testify on my behalf.\nFor from them I even received letters to the brothers\nand set out for Damascus to bring back to Jerusalem\nin chains for punishment those there as well.\n\n“On that journey as I drew near to Damascus,\nabout noon a great light from the sky suddenly shone around me.\nI fell to the ground and heard a voice saying to me,\n‘Saul, Saul, why are you persecuting me?’\nI replied, ‘Who are you, sir?’\nAnd he said to me,\n‘I am Jesus the Nazorean whom you are persecuting.’\nMy companions saw the light\nbut did not hear the voice of the one who spoke to me.\nI asked, ‘What shall I do, sir?’\nThe Lord answered me, ‘Get up and go into Damascus,\nand there you will be told about everything\nappointed for you to do.’\nSince I could see nothing because of the brightness of that light,\nI was led by hand by my companions and entered Damascus.\n\n“A certain Ananias, a devout observer of the law,\nand highly spoken of by all the Jews who lived there,\ncame to me and stood there and said,\n‘Saul, my brother, regain your sight.’\nAnd at that very moment I regained my sight and saw him.\nThen he said,\n‘The God of our ancestors designated you to know his will,\nto see the Righteous One, and to hear the sound of his voice;\nfor you will be his witness before all\nto what you have seen and heard.\nNow, why delay?\nGet up and have yourself baptized and your sins washed away,\ncalling upon his name.’”\n\nOr\n\nActs 9:1-22\n\nSaul, still breathing murderous threats against the disciples of the Lord,\nwent to the high priest and asked him\nfor letters to the synagogues in Damascus, that,\nif he should find any men or women who belonged to the Way,\nhe might bring them back to Jerusalem in chains.\nOn his  journey, as he was nearing Damascus,\na light from the sky suddenly flashed around him.\nHe fell to the ground and heard a voice saying to him,\n“Saul, Saul, why are you persecuting me?”\nHe said, “Who are you, sir?”\nThe reply came, “I am Jesus, whom you are persecuting.\nNow get up and go into the city and you will be told what you must do.”\nThe men who were traveling with him stood speechless,\nfor they heard the voice but could see no one.\nSaul got up from the ground,\nbut when he opened his eyes he could see nothing;\nso they led him by the hand and brought him to Damascus.\nFor three days he was unable to see, and he neither ate nor drank.\n\nThere was a disciple in Damascus named Ananias,\nand the Lord said to him in a vision, \"Ananias.”\nHe answered, “Here I am, Lord.”\nThe Lord said to him, “Get up and go to the street called Straight\nand ask at the house of Judas for a man from Tarsus named Saul.\nHe is there praying,\nand in a vision he has seen a man named Ananias\ncome in and lay his hands on him,\nthat he may regain his sight.”\nBut Ananias replied,\n“Lord, I have heard from many sources about this man,\nwhat evil things he has done to your holy ones in Jerusalem.\nAnd here he has authority from the chief priests\nto imprison all who call upon your name.”\nBut the Lord said to him,\n“Go, for this man is a chosen instrument of mine\nto carry my name before Gentiles, kings, and children of Israel,\nand I will show him what he will have to suffer for my name.”\nSo Ananias went and entered the house;\nlaying his hands on him, he said,\n“Saul, my brother, the Lord has sent me,\nJesus who appeared to you on the way by which you came,\nthat you may regain your sight and be filled with the Holy Spirit.”\nImmediately things like scales fell from his eyes\nand he regained his sight.\nHe got up and was baptized,\nand when he had eaten, he recovered his strength.\n\nHe stayed some days with the disciples in Damascus,\nand he began at once to proclaim Jesus in the synagogues,\nthat he is the Son of God.\nAll who heard him were astounded and said,\n“Is not this the man who in Jerusalem\nravaged those who call upon this name,\nand came here expressly to take them back in chains\nto the chief priests?”\nBut Saul grew all the stronger\nand confounded the Jews who lived in Damascus,\nproving that this is the Christ."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 117:1bc, 2",
+              "response": "R.    (Mark 16:15)  Go out to all the world, and tell the Good News.",
+              "content": "or:\n\nR.    Alleluia, alleluia.\n\nPraise the LORD, all you nations;\n\nglorify him, all you peoples!\n\nR.    Go out to all the world, and tell the Good News.\n\nor:\n\nR.    Alleluia, alleluia.\n\nFor steadfast is his kindness toward us,\n\nand the fidelity of the LORD endures forever.\n\nR.    Go out to all the world, and tell the Good News.\n\nor:\n\nR.    Alleluia, alleluia."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nI chose you from the world,\nto go and bear fruit that will last, says the Lord.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 16:15-18",
+              "content": "Jesus appeared to the Eleven and said to them:\n“Go into the whole world\nand proclaim the Gospel to every creature.\nWhoever believes and is baptized will be saved;\nwhoever does not believe will be condemned.\nThese signs will accompany those who believe:\nin my name they will drive out demons,\nthey will speak new languages.\nThey will pick up serpents with their hands,\nand if they drink any deadly thing, it will not harm them.\nThey will lay hands on the sick, and they will recover.”"
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-26": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:45.319Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-26": {
+          "date": "2025-01-26",
+          "liturgical_date": "Third Sunday in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Nehemiah 8:2-4a, 5-6, 8-10",
+              "content": "Ezra the priest brought the law before the assembly,\nwhich consisted of men, women,\nand those children old enough to understand.\nStanding at one end of the open place that was before the Water Gate,\nhe read out of the book from daybreak till midday,\nin the presence of the men, the women,\nand those children old enough to understand;\nand all the people listened attentively to the book of the law.\nEzra the scribe stood on a wooden platform\nthat had been made for the occasion.\nHe opened the scroll\nso that all the people might see it\n— for he was standing higher up than any of the people —;\nand, as he opened it, all the people rose.\nEzra blessed the LORD, the great God,\nand all the people, their hands raised high, answered,\n\"Amen, amen!\"\nThen they bowed down and prostrated themselves before the LORD,\ntheir faces to the ground.\nEzra read plainly from the book of the law of God,\ninterpreting it so that all could understand what was read.\nThen Nehemiah, that is, His Excellency, and Ezra the priest-scribe\nand the Levites who were instructing the people\nsaid to all the people:\n\"Today is holy to the LORD your God.\nDo not be sad, and do not weep\"—\nfor all the people were weeping as they heard the words of the law.\nHe said further: \"Go, eat rich foods and drink sweet drinks,\nand allot portions to those who had nothing prepared;\nfor today is holy to our LORD.\nDo not be saddened this day,\nfor rejoicing in the LORD must be your strength!\""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 19:8, 9, 10, 15",
+              "response": "R. (cf John 6:63c) Your words, Lord, are Spirit and life.",
+              "content": "The law of the LORD is perfect,\n\nrefreshing the soul;\n\nThe decree of the LORD is trustworthy,\n\ngiving wisdom to the simple.\n\nR. Your words, Lord, are Spirit and life.\n\nThe precepts of the LORD are right,\n\nrejoicing the heart;\n\nThe command of the LORD is clear,\n\nenlightening the eye.\n\nR. Your words, Lord, are Spirit and life.\n\nThe fear of the LORD is pure,\n\nenduring forever;\n\nThe ordinances of the LORD are true,\n\nall of them just.\n\nR. Your words, Lord, are Spirit and life.\n\nLet the words of my mouth and the thought of my heart\n\nfind favor before you,\n\nO LORD, my rock and my redeemer.\n\nR. Your words, Lord, are Spirit and life."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nThe Lord sent me to bring glad tidings to the poor,\nand to proclaim liberty to captives.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Luke 1:1-4; 4:14-21",
+              "content": "Since many have undertaken to compile a narrative of the events\nthat have been fulfilled among us,\njust as those who were eyewitnesses from the beginning\nand ministers of the word have handed them down to us,\nI too have decided,\nafter investigating everything accurately anew,\nto write it down in an orderly sequence for you,\nmost excellent Theophilus,\nso that you may realize the certainty of the teachings\nyou have received.\n\nJesus returned to Galilee in the power of the Spirit,\nand news of him spread throughout the whole region.\nHe taught in their synagogues and was praised by all.\n\nHe came to Nazareth, where he had grown up,\nand went according to his custom\ninto the synagogue on the sabbath day.\nHe stood up to read and was handed a scroll of the prophet Isaiah.\nHe unrolled the scroll and found the passage where it was written:\nThe Spirit of the Lord is upon me,\nbecause he has anointed me\nto bring glad tidings to the poor.\nHe has sent me to proclaim liberty to captives\nand recovery of sight to the blind,\nto let the oppressed go free,\nand to proclaim a year acceptable to the Lord.\nRolling up the scroll, he handed it back to the attendant and sat down,\nand the eyes of all in the synagogue looked intently at him.\nHe said to them,\n\"Today this Scripture passage is fulfilled in your hearing.\""
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-27": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:49.791Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-27": {
+          "date": "2025-01-27",
+          "liturgical_date": "Monday of the Third Week in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 9:15, 24-28",
+              "content": "Christ is mediator of a new covenant:\nsince a death has taken place\nfor deliverance from transgressions under the first covenant,\nthose who are called may receive the promised eternal inheritance.\n\nFor Christ did not enter into a sanctuary made by hands,\na copy of the true one, but heaven itself,\nthat he might now appear before God on our behalf.\nNot that he might offer himself repeatedly,\nas the high priest enters each year into the sanctuary\nwith blood that is not his own;\nif that were so, he would have had to suffer repeatedly\nfrom the foundation of the world.\nBut now once for all he has appeared at the end of the ages\nto take away sin by his sacrifice.\nJust as it is appointed that human beings die once,\nand after this the judgment, so also Christ,\noffered once to take away the sins of many,\nwill appear a second time, not to take away sin\nbut to bring salvation to those who eagerly await him."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 98:1, 2-3ab, 3cd-4, 5-6",
+              "response": "R. (1a)  Sing to the Lord a new song, for he has done marvelous deeds.",
+              "content": "Sing to the LORD a new song,\n\nfor he has done wondrous deeds;\n\nHis right hand has won victory for him,\n\nhis holy arm.\n\nR. Sing to the Lord a new song, for he has done marvelous deeds.\n\nThe LORD has made his salvation known:\n\nin the sight of the nations he has revealed his justice.\n\nHe has remembered his kindness and his faithfulness\n\ntoward the house of Israel.\n\nR. Sing to the Lord a new song, for he has done marvelous deeds.\n\nAll the ends of the earth have seen\n\nthe salvation by our God.\n\nSing joyfully to the LORD, all you lands;\n\nbreak into song; sing praise.\n\nR. Sing to the Lord a new song, for he has done marvelous deeds.\n\nSing praise to the LORD with the harp,\n\nwith the harp and melodious song.\n\nWith trumpets and the sound of the horn\n\nsing joyfully before the King, the LORD.\n\nR. Sing to the Lord a new song, for he has done marvelous deeds."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nOur Savior Jesus Christ has destroyed death\nand brought life to light through the Gospel.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 3:22-30",
+              "content": "The scribes who had come from Jerusalem said of Jesus,\n\"He is possessed by Beelzebul,\" and\n\"By the prince of demons he drives out demons.\"\n\nSummoning them, he began to speak to them in parables,\n\"How can Satan drive out Satan?\nIf a kingdom is divided against itself, that kingdom cannot stand.\nAnd if a house is divided against itself,\nthat house will not be able to stand.\nAnd if Satan has risen up against himself and is divided,\nhe cannot stand;\nthat is the end of him.\nBut no one can enter a strong man's house to plunder his property\nunless he first ties up the strong man.\nThen he can plunder his house.  \nAmen, I say to you, all sins and all blasphemies\nthat people utter will be forgiven them.\nBut whoever blasphemes against the Holy Spirit\nwill never have forgiveness,\nbut is guilty of an everlasting sin.\"\nFor they had said, \"He has an unclean spirit.\""
+            }
+          },
+          "saint_of_day": {
+            "name": "Angela Merici",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-28": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:50.047Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-28": {
+          "date": "2025-01-28",
+          "liturgical_date": "Memorial of Saint Thomas Aquinas, Priest and Doctor of the Church",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 10:1-10",
+              "content": "Brothers and sisters:\nSince the law has only a shadow of the good things to come,\nand not the very image of them, it can never make perfect\nthose who come to worship by the same sacrifices\nthat they offer continually each year.\nOtherwise, would not the sacrifices have ceased to be offered,\nsince the worshipers, once cleansed, would no longer\nhave had any consciousness of sins?\nBut in those sacrifices there is only a yearly remembrance of sins,\nfor it is impossible that the blood of bulls and goats\ntake away sins.\nFor this reason, when he came into the world, he said:\n\nSacrifice and offering you did not desire,\nbut a body you prepared for me;\nin burnt offerings and sin offerings you took no delight.\nThen I said, As is written of me in the scroll,\nBehold, I come to do your will, O God.\n\nFirst he says, Sacrifices and offerings,\nburnt offerings and sin offerings,\nyou neither desired nor delighted in.\nThese are offered according to the law.\nThen he says, Behold, I come to do your will.\nHe takes away the first to establish the second.\nBy this \"will,\" we have been consecrated\nthrough the offering of the Body of Jesus Christ once for all."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 40:2, 4ab, 7-8a, 10, 11",
+              "response": "R. (8a and 9a)  Here am I Lord; I come to do your will.",
+              "content": "I have waited, waited for the LORD,\n\nand he stooped toward me.\n\nAnd he put a new song into my mouth,\n\na hymn to our God.\n\nR. Here am I Lord; I come to do your will.\n\nSacrifice or oblation you wished not,\n\nbut ears open to obedience you gave me.\n\nBurnt offerings or sin-offerings you sought not;\n\nthen said I, \"Behold I come.\"\n\nR. Here am I Lord; I come to do your will.\n\nI announced your justice in the vast assembly;\n\nI did not restrain my lips, as you, O LORD, know.\n\nR. Here am I Lord; I come to do your will.\n\nYour justice I kept not hid within my heart;\n\nyour faithfulness and your salvation I have spoken of;\n\nI have made no secret of your kindness and your truth\n\nin the vast assembly.\n\nR. Here am I Lord; I come to do your will."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nBlessed are you, Father, Lord of heaven and earth;\nyou have revealed to little ones the mysteries of the Kingdom.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 3:31-35",
+              "content": "The mother of Jesus and his brothers arrived at the house.\nStanding outside, they sent word to Jesus and called him.\nA crowd seated around him told him,\n“Your mother and your brothers and your sisters\nare outside asking for you.”\nBut he said to them in reply,\n“Who are my mother and my brothers?”\nAnd looking around at those seated in the circle he said,\n“Here are my mother and my brothers.\nFor whoever does the will of God\nis my brother and sister and mother.”"
+            }
+          },
+          "saint_of_day": {
+            "name": "Thomas Aquinas",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-29": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:45.317Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-29": {
+          "date": "2025-01-29",
+          "liturgical_date": "Wednesday of the Third Week in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "",
+              "content": ""
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 110:1, 2, 3, 4",
+              "response": "R.    (4b)  You are a priest for ever, in the line of Melchizedek.",
+              "content": "The LORD said to my Lord: “Sit at my right hand\n\ntill I make your enemies your footstool.”\n\nR.    You are a priest for ever, in the line of Melchizedek.\n\nThe scepter of your power the LORD will stretch forth from Zion:\n\n“Rule in the midst of your enemies.”\n\nR.    You are a priest for ever, in the line of Melchizedek.\n\n“Yours is princely power in the day of your birth, in holy splendor;\n\nbefore the daystar, like the dew, I have begotten you.”\n\nR.    You are a priest for ever, in the line of Melchizedek.\n\nThe LORD has sworn, and he will not repent:\n\n“You are a priest forever, according to the order of Melchizedek.”\n\nR.    You are a priest for ever, in the line of Melchizedek."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nThe seed is the word of God, Christ is the sower;\nall who come to him will live for ever.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 4:1-20",
+              "content": "On another occasion, Jesus began to teach by the sea.\nA very large crowd gathered around him \nso that he got into a boat on the sea and sat down.\nAnd the whole crowd was beside the sea on land.\nAnd he taught them at length in parables, \nand in the course of his instruction he said to them, \n“Hear this!  A sower went out to sow.\nAnd as he sowed, some seed fell on the path, \nand the birds came and ate it up.\nOther seed fell on rocky ground where it had little soil.\nIt sprang up at once because the soil was not deep.\nAnd when the sun rose, it was scorched and it withered for lack of roots.  \nSome seed fell among thorns, and the thorns grew up and choked it \nand it produced no grain.\nAnd some seed fell on rich soil and produced fruit.\nIt came up and grew and yielded thirty, sixty, and a hundredfold.”\nHe added, “Whoever has ears to hear ought to hear.”\n\nAnd when he was alone, \nthose present along with the Twelve \nquestioned him about the parables.\nHe answered them, \n“The mystery of the Kingdom of God has been granted to you.\nBut to those outside everything comes in parables, so that\n\nthey may look and see but not perceive,\n        and hear and listen but not understand,\n    in order that they may not be converted and be forgiven.”\n\nJesus said to them, “Do you not understand this parable?\nThen how will you understand any of the parables?\nThe sower sows the word.\nThese are the ones on the path where the word is sown.\nAs soon as they hear, Satan comes at once \nand takes away the word sown in them.\nAnd these are the ones sown on rocky ground who, \nwhen they hear the word, receive it at once with joy.\nBut they have no roots; they last only for a time.\nThen when tribulation or persecution comes because of the word, \nthey quickly fall away.\nThose sown among thorns are another sort.\nThey are the people who hear the word, \nbut worldly anxiety, the lure of riches, \nand the craving for other things intrude and choke the word, \nand it bears no fruit.\nBut those sown on rich soil are the ones who hear the word and accept it\nand bear fruit thirty and sixty and a hundredfold.”"
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-30": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:18:42.197Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-30": {
+          "date": "2025-01-30",
+          "liturgical_date": "Thursday of the Third Week in Ordinary Time",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 10:19-25",
+              "content": "Brothers and sisters:\nSince through the Blood of Jesus\nwe have confidence of entrance into the sanctuary\nby the new and living way he opened for us through the veil,\nthat is, his flesh,\nand since we have “a great priest over the house of God,”\nlet us approach with a sincere heart and in absolute trust,\nwith our hearts sprinkled clean from an evil conscience\nand our bodies washed in pure water.\nLet us hold unwaveringly to our confession that gives us hope,\nfor he who made the promise is trustworthy.\nWe must consider how to rouse one another to love and good works.\nWe should not stay away from our assembly,\nas is the custom of some, but encourage one another,\nand this all the more as you see the day drawing near."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 24:1-2, 3-4ab, 5-6",
+              "response": "R. (see 6) Lord, this is the people that longs to see your face.",
+              "content": "The LORD’s are the earth and its fullness;\n\nthe world and those who dwell in it.\n\nFor he founded it upon the seas\n\nand established it upon the rivers.\n\nR. Lord, this is the people that longs to see your face.\n\nWho can ascend the mountain of the LORD?\n\nor who may stand in his holy place?\n\nHe whose hands are sinless, whose heart is clean,\n\nwho desires not what is vain.\n\nR. Lord, this is the people that longs to see your face.\n\nHe shall receive a blessing from the LORD,\n\na reward from God his savior.\n\nSuch is the race that seeks for him,\n\nthat seeks the face of the God of Jacob.\n\nR. Lord, this is the people that longs to see your face."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nA lamp to my feet is your word,\na light to my path.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 4:21-25",
+              "content": "Jesus said to his disciples,\n“Is a lamp brought in to be placed under a bushel basket\nor under a bed,\nand not to be placed on a lampstand?\nFor there is nothing hidden except to be made visible;\nnothing is secret except to come to light.\nAnyone who has ears to hear ought to hear.”\nHe also told them, “Take care what you hear.\nThe measure with which you measure will be measured out to you,\nand still more will be given to you.\nTo the one who has, more will be given;\nfrom the one who has not, even what he has will be taken away.”"
+            }
+          },
+          "saint_of_day": {
+            "name": null,
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    },
+    "2025-01-31": {
+      "meta": {
+        "version": "1.0",
+        "last_updated": "2025-07-22T03:20:27.190Z",
+        "source": "bible.usccb.org",
+        "liturgical_year": "2025"
+      },
+      "daily_readings": {
+        "2025-01-31": {
+          "date": "2025-01-31",
+          "liturgical_date": "Memorial of Saint John Bosco, Priest",
+          "liturgical_color": "white",
+          "readings": {
+            "first_reading": {
+              "citation": "Reading 1 Hebrews 10:32-39",
+              "content": "Remember the days past when, after you had been enlightened, \nyou endured a great contest of suffering.\nAt times you were publicly exposed to abuse and affliction; \nat other times you associated yourselves with those so treated.\nYou even joined in the sufferings of those in prison \nand joyfully accepted the confiscation of your property, \nknowing that you had a better and lasting possession.\nTherefore, do not throw away your confidence; \nit will have great recompense.\nYou need endurance to do the will of God and receive what he has promised.\n\nFor, after just a brief moment,\n        he who is to come shall come;\n        he shall not delay.\n    But my just one shall live by faith,\n        and if he draws back I take no pleasure in him.\n\nWe are not among those who draw back and perish, \nbut among those who have faith and will possess life."
+            },
+            "responsorial_psalm": {
+              "citation": "Responsorial Psalm Psalm 37:3-4, 5-6, 23-24, 39-40",
+              "response": "R.    (39a)  The salvation of the just comes from the Lord.",
+              "content": "Trust in the LORD and do good,\n\nthat you may dwell in the land and be fed in security.\n\nTake delight in the LORD,\n\nand he will grant you your heart’s requests.\n\nR.    The salvation of the just comes from the Lord.\n\nCommit to the LORD your way;\n\ntrust in him, and he will act.\n\nHe will make justice dawn for you like the light;\n\nbright as the noonday shall be your vindication.\n\nR.    The salvation of the just comes from the Lord.\n\nBy the LORD are the steps of a man made firm,\n\nand he approves his way.\n\nThough he fall, he does not lie prostrate,\n\nfor the hand of the LORD sustains him.\n\nR.    The salvation of the just comes from the Lord.\n\nThe salvation of the just is from the LORD;\n\nhe is their refuge in time of distress.\n\nAnd the LORD helps them and delivers them;\n\nhe delivers them from the wicked and saves them,\n\nbecause they take refuge in him.\n\nR.    The salvation of the just comes from the Lord."
+            },
+            "gospel_acclamation": {
+              "citation": "Alleluia",
+              "content": "R. Alleluia, alleluia.\nBlessed are you, Father, Lord of heaven and earth;\nyou have revealed to little ones the mysteries of the Kingdom.\nR. Alleluia, alleluia."
+            },
+            "gospel": {
+              "citation": "Gospel Mark 4:26-34",
+              "content": "Jesus said to the crowds:\n“This is how it is with the Kingdom of God;\nit is as if a man were to scatter seed on the land\nand would sleep and rise night and day\nand the seed would sprout and grow,\nhe knows not how.\nOf its own accord the land yields fruit,\nfirst the blade, then the ear, then the full grain in the ear.\nAnd when the grain is ripe, he wields the sickle at once,\nfor the harvest has come.”\n\nHe said,\n“To what shall we compare the Kingdom of God,\nor what parable can we use for it?\nIt is like a mustard seed that, when it is sown in the ground,\nis the smallest of all the seeds on the earth.\nBut once it is sown, it springs up and becomes the largest of plants\nand puts forth large branches,\nso that the birds of the sky can dwell in its shade.”\nWith many such parables\nhe spoke the word to them as they were able to understand it.\nWithout parables he did not speak to them,\nbut to his own disciples he explained everything in private."
+            }
+          },
+          "saint_of_day": {
+            "name": "John Bosco",
+            "short_bio": "Brief biography (Premium feature)",
+            "premium_content": true
+          }
+        }
+      }
+    }
+  }
+}

@@ -3,20 +3,20 @@
     "version": "1.0",
     "month": 1,
     "month_name": "january",
-    "year": 2025,
+    "year": 2026,
     "total_days": 31
   },
   "daily_readings": {
-    "2025-01-01": {
+    "2026-01-01": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.388Z",
+        "last_updated": "2026-07-22T03:18:42.388Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-01": {
-          "date": "2025-01-01",
+        "2026-01-01": {
+          "date": "2026-01-01",
           "liturgical_date": "Solemnity of the Blessed Virgin Mary, the Mother of God\n                                                      \n                     The Octave Day of Christmas",
           "liturgical_color": "white",
           "readings": {
@@ -46,16 +46,16 @@
         }
       }
     },
-    "2025-01-02": {
+    "2026-01-02": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.226Z",
+        "last_updated": "2026-07-22T03:18:42.226Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-02": {
-          "date": "2025-01-02",
+        "2026-01-02": {
+          "date": "2026-01-02",
           "liturgical_date": "Memorial of Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church",
           "liturgical_color": "white",
           "readings": {
@@ -85,16 +85,16 @@
         }
       }
     },
-    "2025-01-03": {
+    "2026-01-03": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.613Z",
+        "last_updated": "2026-07-22T03:18:42.613Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-03": {
-          "date": "2025-01-03",
+        "2026-01-03": {
+          "date": "2026-01-03",
           "liturgical_date": "Christmas Weekday",
           "liturgical_color": "white",
           "readings": {
@@ -124,16 +124,16 @@
         }
       }
     },
-    "2025-01-04": {
+    "2026-01-04": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.883Z",
+        "last_updated": "2026-07-22T03:18:42.883Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-04": {
-          "date": "2025-01-04",
+        "2026-01-04": {
+          "date": "2026-01-04",
           "liturgical_date": "Memorial of Saint Elizabeth Ann Seton, Religious",
           "liturgical_color": "white",
           "readings": {
@@ -163,16 +163,16 @@
         }
       }
     },
-    "2025-01-05": {
+    "2026-01-05": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:43.018Z",
+        "last_updated": "2026-07-22T03:18:43.018Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-05": {
-          "date": "2025-01-05",
+        "2026-01-05": {
+          "date": "2026-01-05",
           "liturgical_date": "The Epiphany of the Lord",
           "liturgical_color": "white",
           "readings": {
@@ -202,16 +202,16 @@
         }
       }
     },
-    "2025-01-06": {
+    "2026-01-06": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.646Z",
+        "last_updated": "2026-07-22T03:18:42.646Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-06": {
-          "date": "2025-01-06",
+        "2026-01-06": {
+          "date": "2026-01-06",
           "liturgical_date": "Monday after Epiphany",
           "liturgical_color": "white",
           "readings": {
@@ -241,16 +241,16 @@
         }
       }
     },
-    "2025-01-07": {
+    "2026-01-07": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:43.017Z",
+        "last_updated": "2026-07-22T03:18:43.017Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-07": {
-          "date": "2025-01-07",
+        "2026-01-07": {
+          "date": "2026-01-07",
           "liturgical_date": "Tuesday after Epiphany",
           "liturgical_color": "white",
           "readings": {
@@ -280,16 +280,16 @@
         }
       }
     },
-    "2025-01-08": {
+    "2026-01-08": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.407Z",
+        "last_updated": "2026-07-22T03:18:42.407Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-08": {
-          "date": "2025-01-08",
+        "2026-01-08": {
+          "date": "2026-01-08",
           "liturgical_date": "Wednesday after Epiphany",
           "liturgical_color": "white",
           "readings": {
@@ -319,16 +319,16 @@
         }
       }
     },
-    "2025-01-09": {
+    "2026-01-09": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:19:23.435Z",
+        "last_updated": "2026-07-22T03:19:23.435Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-09": {
-          "date": "2025-01-09",
+        "2026-01-09": {
+          "date": "2026-01-09",
           "liturgical_date": "Thursday after Epiphany",
           "liturgical_color": "white",
           "readings": {
@@ -358,16 +358,16 @@
         }
       }
     },
-    "2025-01-10": {
+    "2026-01-10": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.414Z",
+        "last_updated": "2026-07-22T03:18:42.414Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-10": {
-          "date": "2025-01-10",
+        "2026-01-10": {
+          "date": "2026-01-10",
           "liturgical_date": "Friday after Epiphany",
           "liturgical_color": "white",
           "readings": {
@@ -397,16 +397,16 @@
         }
       }
     },
-    "2025-01-11": {
+    "2026-01-11": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.648Z",
+        "last_updated": "2026-07-22T03:18:42.648Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-11": {
-          "date": "2025-01-11",
+        "2026-01-11": {
+          "date": "2026-01-11",
           "liturgical_date": "Saturday after Epiphany",
           "liturgical_color": "white",
           "readings": {
@@ -436,16 +436,16 @@
         }
       }
     },
-    "2025-01-12": {
+    "2026-01-12": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.529Z",
+        "last_updated": "2026-07-22T03:18:42.529Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-12": {
-          "date": "2025-01-12",
+        "2026-01-12": {
+          "date": "2026-01-12",
           "liturgical_date": "The Baptism of the Lord",
           "liturgical_color": "white",
           "readings": {
@@ -475,16 +475,16 @@
         }
       }
     },
-    "2025-01-13": {
+    "2026-01-13": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.225Z",
+        "last_updated": "2026-07-22T03:18:42.225Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-13": {
-          "date": "2025-01-13",
+        "2026-01-13": {
+          "date": "2026-01-13",
           "liturgical_date": "Monday of the First Week in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -514,16 +514,16 @@
         }
       }
     },
-    "2025-01-14": {
+    "2026-01-14": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.266Z",
+        "last_updated": "2026-07-22T03:18:42.266Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-14": {
-          "date": "2025-01-14",
+        "2026-01-14": {
+          "date": "2026-01-14",
           "liturgical_date": "Tuesday of the First Week in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -553,16 +553,16 @@
         }
       }
     },
-    "2025-01-15": {
+    "2026-01-15": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.227Z",
+        "last_updated": "2026-07-22T03:18:42.227Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-15": {
-          "date": "2025-01-15",
+        "2026-01-15": {
+          "date": "2026-01-15",
           "liturgical_date": "Wednesday of the First Week in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -592,16 +592,16 @@
         }
       }
     },
-    "2025-01-16": {
+    "2026-01-16": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.996Z",
+        "last_updated": "2026-07-22T03:18:42.996Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-16": {
-          "date": "2025-01-16",
+        "2026-01-16": {
+          "date": "2026-01-16",
           "liturgical_date": "Thursday of the First Week in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -631,16 +631,16 @@
         }
       }
     },
-    "2025-01-17": {
+    "2026-01-17": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:43.015Z",
+        "last_updated": "2026-07-22T03:18:43.015Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-17": {
-          "date": "2025-01-17",
+        "2026-01-17": {
+          "date": "2026-01-17",
           "liturgical_date": "Memorial of Saint Anthony, Abbot",
           "liturgical_color": "white",
           "readings": {
@@ -670,16 +670,16 @@
         }
       }
     },
-    "2025-01-18": {
+    "2026-01-18": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:43.011Z",
+        "last_updated": "2026-07-22T03:18:43.011Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-18": {
-          "date": "2025-01-18",
+        "2026-01-18": {
+          "date": "2026-01-18",
           "liturgical_date": "Saturday of the First Week in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -709,16 +709,16 @@
         }
       }
     },
-    "2025-01-19": {
+    "2026-01-19": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.285Z",
+        "last_updated": "2026-07-22T03:18:42.285Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-19": {
-          "date": "2025-01-19",
+        "2026-01-19": {
+          "date": "2026-01-19",
           "liturgical_date": "Second Sunday in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -748,16 +748,16 @@
         }
       }
     },
-    "2025-01-20": {
+    "2026-01-20": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.997Z",
+        "last_updated": "2026-07-22T03:18:42.997Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-20": {
-          "date": "2025-01-20",
+        "2026-01-20": {
+          "date": "2026-01-20",
           "liturgical_date": "Monday of the Second Week in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -787,16 +787,16 @@
         }
       }
     },
-    "2025-01-21": {
+    "2026-01-21": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.952Z",
+        "last_updated": "2026-07-22T03:18:42.952Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-21": {
-          "date": "2025-01-21",
+        "2026-01-21": {
+          "date": "2026-01-21",
           "liturgical_date": "Memorial of Saint Agnes, Virgin and Martyr",
           "liturgical_color": "red",
           "readings": {
@@ -826,16 +826,16 @@
         }
       }
     },
-    "2025-01-22": {
+    "2026-01-22": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:19:23.702Z",
+        "last_updated": "2026-07-22T03:19:23.702Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-22": {
-          "date": "2025-01-22",
+        "2026-01-22": {
+          "date": "2026-01-22",
           "liturgical_date": "Day of Prayer for the Legal Protection of Unborn Children",
           "liturgical_color": "white",
           "readings": {
@@ -865,16 +865,16 @@
         }
       }
     },
-    "2025-01-23": {
+    "2026-01-23": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.788Z",
+        "last_updated": "2026-07-22T03:18:42.788Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-23": {
-          "date": "2025-01-23",
+        "2026-01-23": {
+          "date": "2026-01-23",
           "liturgical_date": "Thursday of the Second Week in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -904,16 +904,16 @@
         }
       }
     },
-    "2025-01-24": {
+    "2026-01-24": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.401Z",
+        "last_updated": "2026-07-22T03:18:42.401Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-24": {
-          "date": "2025-01-24",
+        "2026-01-24": {
+          "date": "2026-01-24",
           "liturgical_date": "Memorial of Saint Francis de Sales, Bishop and Doctor of the Church",
           "liturgical_color": "white",
           "readings": {
@@ -943,16 +943,16 @@
         }
       }
     },
-    "2025-01-25": {
+    "2026-01-25": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:43.698Z",
+        "last_updated": "2026-07-22T03:18:43.698Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-25": {
-          "date": "2025-01-25",
+        "2026-01-25": {
+          "date": "2026-01-25",
           "liturgical_date": "Feast of the Conversion of Saint Paul, Apostle",
           "liturgical_color": "white",
           "readings": {
@@ -982,16 +982,16 @@
         }
       }
     },
-    "2025-01-26": {
+    "2026-01-26": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:45.319Z",
+        "last_updated": "2026-07-22T03:18:45.319Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-26": {
-          "date": "2025-01-26",
+        "2026-01-26": {
+          "date": "2026-01-26",
           "liturgical_date": "Third Sunday in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -1021,16 +1021,16 @@
         }
       }
     },
-    "2025-01-27": {
+    "2026-01-27": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:49.791Z",
+        "last_updated": "2026-07-22T03:18:49.791Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-27": {
-          "date": "2025-01-27",
+        "2026-01-27": {
+          "date": "2026-01-27",
           "liturgical_date": "Monday of the Third Week in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -1060,16 +1060,16 @@
         }
       }
     },
-    "2025-01-28": {
+    "2026-01-28": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:50.047Z",
+        "last_updated": "2026-07-22T03:18:50.047Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-28": {
-          "date": "2025-01-28",
+        "2026-01-28": {
+          "date": "2026-01-28",
           "liturgical_date": "Memorial of Saint Thomas Aquinas, Priest and Doctor of the Church",
           "liturgical_color": "white",
           "readings": {
@@ -1099,16 +1099,16 @@
         }
       }
     },
-    "2025-01-29": {
+    "2026-01-29": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:45.317Z",
+        "last_updated": "2026-07-22T03:18:45.317Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-29": {
-          "date": "2025-01-29",
+        "2026-01-29": {
+          "date": "2026-01-29",
           "liturgical_date": "Wednesday of the Third Week in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -1138,16 +1138,16 @@
         }
       }
     },
-    "2025-01-30": {
+    "2026-01-30": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:18:42.197Z",
+        "last_updated": "2026-07-22T03:18:42.197Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-30": {
-          "date": "2025-01-30",
+        "2026-01-30": {
+          "date": "2026-01-30",
           "liturgical_date": "Thursday of the Third Week in Ordinary Time",
           "liturgical_color": "white",
           "readings": {
@@ -1177,16 +1177,16 @@
         }
       }
     },
-    "2025-01-31": {
+    "2026-01-31": {
       "meta": {
         "version": "1.0",
-        "last_updated": "2025-07-22T03:20:27.190Z",
+        "last_updated": "2026-07-22T03:20:27.190Z",
         "source": "bible.usccb.org",
-        "liturgical_year": "2025"
+        "liturgical_year": "2026"
       },
       "daily_readings": {
-        "2025-01-31": {
-          "date": "2025-01-31",
+        "2026-01-31": {
+          "date": "2026-01-31",
           "liturgical_date": "Memorial of Saint John Bosco, Priest",
           "liturgical_color": "white",
           "readings": {
